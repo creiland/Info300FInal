@@ -1,0 +1,201 @@
+,artist,danceability,date,energy,featuring,genre,key,mode,rank,spotifyID,tempo,timesignature,track,valence
+0,Lisa Lisa And Cult Jam,0.722,1987-10-17,0.838,none,electro,0.0,1.0,1,0p2lB3tOc2DJGTUltBxjkv,119.736,4.0,Lost In Emotion,0.955
+1,Prince,0.832,1987-10-17,0.453,none,funk,9.0,1.0,2,2X6okzhnNPSzh9yxDMHHe3,122.363,4.0,U Got The Look,0.783
+2,Europe,0.457,1987-10-17,0.487,none,album rock,7.0,1.0,3,29wJiSQcze8HEmxkUQykyp,136.596,4.0,Carrie,0.139
+3,Michael Jackson,0.853,1987-10-17,0.981,none,pop,8.0,1.0,4,2bCQHF9gdG5BNDVuEIEnNk,118.193,4.0,Bad,0.595
+4,Madonna,0.771,1987-10-17,0.749,none,dance pop,5.0,0.0,5,3sX3c6QUPSAiKf77RZRf5B,119.875,4.0,Causing A Commotion,0.854
+5,Whitesnake,0.292,1987-10-17,0.823,none,album rock,7.0,1.0,6,1qOU8KzFifXE9YrgjVwYvc,89.939,4.0,Here I Go Again,0.244
+6,Heart,0.601,1987-10-17,0.73,none,album rock,2.0,1.0,7,2G7ttyDosjWmunOYsNRm0C,116.313,4.0,Who Will You Run To,0.684
+7,Levert,0.71,1987-10-17,0.845,none,funk,4.0,0.0,8,1O7hDH3rrF8eyLxrpeoOfb,92.957,4.0,Casanova,0.802
+8,John Mellencamp,0.623,1987-10-17,0.889,none,album rock,4.0,1.0,9,3fbVtEI5leNfYKvL7FxDz1,141.992,4.0,Paper In Fire,0.579
+9,Bananarama,2.0,1987-10-17,2.0,none,NA,2.0,2.0,10,NA,2.0,2.0,"I Heard A Rumour (From ""Disorderlies"")",2.0
+10,Tiffany,0.755,1987-10-17,0.727,none,new wave pop,7.0,1.0,11,4uvjOKsp7mSjrDhWdkLPBY,130.511,4.0,I Think We're Alone Now,0.932
+11,Expose,0.659,1987-10-17,0.754,none,freestyle,1.0,0.0,12,3t14IyH0Pwz1E7oMJZD1u5,105.409,4.0,Let Me Be The One,0.887
+12,Fleetwood Mac,0.64,1987-10-17,0.649,none,album rock,2.0,1.0,13,4CoSCPlKNrWli7E5kFtbcl,124.825,4.0,Little Lies,0.865
+13,Billy Idol,0.701,1987-10-17,0.758,none,album rock,1.0,1.0,14,3GfGTJ2xzC0rqKgdjNJLOC,135.188,4.0,Mony Mony,0.344
+14,Whitney Houston,0.54,1987-10-17,0.489,none,dance pop,10.0,1.0,15,19wadMw1A8XejDV4p5wMt1,130.984,4.0,Didn't We Almost Have It All,0.336
+15,Swing Out Sister,0.707,1987-10-17,0.557,none,new romantic,4.0,1.0,16,0Nkbz5ibaSGuyMce9qGMS0,113.196,4.0,Breakout,0.776
+16,Natalie Cole,0.792,1987-10-17,0.693,none,adult standards,5.0,0.0,17,6HXqPLNqNoxP70YihXnmST,122.321,4.0,Jump Start,0.952
+17,The Cars,0.684,1987-10-17,0.79,none,album rock,7.0,1.0,18,4Dvfdhc0DnWUSKZgDe6opm,138.153,4.0,You Are The Girl,0.956
+18,Pet Shop Boys,0.538,1987-10-17,0.864,none,art pop,0.0,0.0,19,6vYK729O29XnvQqPWyLPfe,127.127,4.0,It's A Sin,0.293
+19,Bruce Springsteen,0.703,1987-10-17,0.726,none,heartland rock,9.0,1.0,20,0nqbZ17t9v52SCemAm1QP0,126.353,4.0,Brilliant Disguise,0.949
+20,U2,0.495,1987-10-17,0.728,none,irish rock,2.0,1.0,21,4qgZs0RNjdzKAS22lP0QjY,125.81,4.0,Where The Streets Have No Name,0.218
+21,REO Speedwagon,0.653,1987-10-17,0.428,none,album rock,11.0,1.0,22,6lf1UPrmgF1lEWybjHw62g,145.136,4.0,In My Dreams,0.385
+22,Smokey Robinson,0.817,1987-10-17,0.381,none,classic soul,4.0,0.0,23,7LOYcC6phKAVOckgmVZJJT,109.135,4.0,One Heartbeat,0.901
+23,Kenny G. (Vocal By Lenny Williams),2.0,1987-10-17,2.0,none,NA,2.0,2.0,24,NA,2.0,2.0,Don't Make Me Wait For Love,2.0
+24,Bill Medley,0.7,1987-10-17,0.781,Jennifer Warnes,NA,6.0,0.0,25,4BFMQ15vXr626UOoZL8bUI,108.695,4.0,(I've Had) The Time Of My Life,0.385
+25,Cutting Crew,0.52,1987-10-17,0.568,none,dance rock,2.0,1.0,26,0rPImSYezi40zBhwvIvTrr,145.86,4.0,I've Been In Love Before,0.844
+26,Belinda Carlisle,0.637,1987-10-17,0.786,none,australian pop,4.0,1.0,27,58mFu3oIpBa0HLNeJIxsw3,122.872,4.0,Heaven Is A Place On Earth,0.804
+27,Richard Marx,0.548,1987-10-17,0.704,none,album rock,8.0,1.0,28,5j1zOOvkxxe4uZZ2Jgl8r4,169.119,4.0,Should've Known Better,0.682
+28,The Other Ones,2.0,1987-10-17,2.0,none,NA,2.0,2.0,29,NA,2.0,2.0,Holiday,2.0
+29,R.E.M.,0.488,1987-10-17,0.841,none,alternative rock,2.0,1.0,30,2fdfsGuqb6SBX5ocoBWHUd,127.861,4.0,The One I Love,0.559
+30,Poison,0.287,1987-10-17,0.84,none,album rock,6.0,1.0,31,6WmVgLj2htklkU3SZOsItg,202.903,4.0,I Won't Forget You,0.648
+31,Mr. Mister,0.605,1987-10-17,0.75,none,album rock,6.0,0.0,32,0GnZ9i0DsWh3Xq82qJ7zKB,110.013,4.0,Something Real (Inside Me/Inside You),0.571
+32,ABC,0.739,1987-10-17,0.65,none,art rock,5.0,1.0,33,5IfSEpxmVAyu41B3xMqbZQ,126.414,4.0,When Smokey Sings,0.902
+33,Los Lobos,0.41,1987-10-17,0.814,none,roots rock,9.0,1.0,34,7lAVmqRbm79nGN4auDjJ9b,176.35,4.0,"Come On, Let's Go",0.766
+34,Los Lobos,0.506,1987-10-17,0.764,none,roots rock,0.0,1.0,35,0uMMLry3hzWGn3q3loqMkm,156.336,4.0,La Bamba,0.868
+35,Dan Hill (Duet With Vonda Shepard),2.0,1987-10-17,2.0,none,NA,2.0,2.0,36,NA,2.0,2.0,Can't We Try,2.0
+36,Fat Boys,0.771,1987-10-17,0.77,The Beach Boys,east coast hip hop,1.0,1.0,37,46ePNyvaDBKsxusDXDj7Wg,128.817,4.0,Wipeout,0.961
+37,Loverboy,0.43,1987-10-17,0.946,none,album rock,2.0,1.0,38,5JmRY65gYC2JZVCL9aZBik,156.709,4.0,Notorious,0.545
+38,Michael Jackson With Siedah Garrett,2.0,1987-10-17,2.0,none,NA,2.0,2.0,39,NA,2.0,2.0,I Just Can't Stop Loving You,2.0
+39,Squeeze,0.742,1987-10-17,0.548,none,art rock,5.0,1.0,40,5Y6HTd7VB0O8Aki4EvmB4x,125.932,4.0,Hourglass,0.965
+40,Mick Jagger,2.0,1987-10-17,2.0,none,NA,2.0,2.0,41,NA,2.0,2.0,Let's Work,2.0
+41,Timothy B. Schmit,0.721,1987-10-17,0.433,none,NA,2.0,0.0,42,1lhNi9EEYs8HvBoBC9RZlf,95.853,4.0,Boys Night Out,0.469
+42,Sting,0.846,1987-10-17,0.689,none,permanent wave,0.0,1.0,43,22FshJbV8R7yYuPwYyZwM6,116.439,4.0,We'll Be Together,0.934
+43,Gloria Estefan,0.812,1987-10-17,0.696,Miami Sound Machine,dance pop,3.0,1.0,44,6k6bwPqngQMFBpoimRV7ID,124.995,4.0,Betcha Say That,0.863
+44,Grateful Dead,0.617,1987-10-17,0.817,none,blues-rock,11.0,1.0,45,5YzzWlWfAVNvtduNDHKhHc,159.907,4.0,Touch Of Grey,0.803
+45,Anita Baker,0.595,1987-10-17,0.557,none,funk,10.0,1.0,46,3P8v2bYhgJ7Eba8Br6pr3H,90.177,4.0,No One In The World,0.415
+46,Debbie Gibson,0.612,1987-10-17,0.796,none,new wave pop,8.0,1.0,47,03i9ehMBCqbxKw7wwEycFZ,124.854,4.0,Only In My Dreams,0.895
+47,Bryan Adams,0.459,1987-10-17,0.502,none,album rock,2.0,0.0,48,73U7iE42GU9HCVtlbSQ2Fb,143.632,4.0,Victim Of Love,0.458
+48,Wa Wa Nee,2.0,1987-10-17,2.0,none,NA,2.0,2.0,49,NA,2.0,2.0,Sugar Free,2.0
+49,Pretty Poison,2.0,1987-10-17,2.0,none,NA,2.0,2.0,50,NA,2.0,2.0,"Catch Me (I'm Falling) (From The Film ""Hiding Out"")",2.0
+50,Debbie Gibson,0.783,1987-10-17,0.747,none,new wave pop,11.0,0.0,51,6gM3uxq9TPkms83bTSlK10,120.551,4.0,Shake Your Love,0.83
+51,Noel,0.689,1987-10-17,0.726,none,freestyle,11.0,0.0,52,3hCibWQ58Vs1YNmD0uA14w,116.003,4.0,Silent Morning,0.826
+52,Michael Bolton,0.525,1987-10-17,0.376,none,adult standards,5.0,1.0,53,7FzWPiPB2A9Hhfb2hiuKsC,121.462,4.0,That's What Love Is All About,0.198
+53,Yes,0.593,1987-10-17,0.887,none,album rock,11.0,0.0,54,5B8sDKrg4VN8etjH0vFz40,118.402,4.0,Love Will Find A Way,0.669
+54,Alexander O'Neal,0.75,1987-10-17,0.694,none,disco,6.0,0.0,55,6XBvZEehQy3clOpFbT2FoY,112.848,4.0,Fake,0.731
+55,Jody Watley,0.88,1987-10-17,0.588,none,disco,9.0,0.0,56,7r4ZN8F22eBQeN0aMqwzgN,111.985,4.0,Don't You Want Me,0.863
+56,Huey Lewis,0.638,1987-10-17,0.785,The News,album rock,0.0,1.0,57,2GdWNthCTVMBnuw59WyIci,137.444,3.0,Doing It All For My Baby,0.751
+57,Starship,0.633,1987-10-17,0.88,none,album rock,8.0,1.0,58,5UguZCOGmbDVoVwIjKgs11,154.058,4.0,Beat Patrol,0.976
+58,The Whispers,0.927,1987-10-17,0.832,none,classic soul,10.0,0.0,59,1YCsTFttuHAzgfEWKdOb9K,115.384,4.0,Rock Steady,0.958
+59,LL Cool J,0.803,1987-10-17,0.426,none,dirty south rap,0.0,1.0,60,3UP7dzy4ISy8S3HOReCd1q,88.208,4.0,I Need Love,0.65
+60,Donna Summer,0.704,1987-10-17,0.68,none,dance pop,5.0,0.0,61,6rXTPwAPz9IvH4Qc5tIq2H,111.175,4.0,Dinner With Gershwin,0.72
+61,Taja Sevelle,0.716,1987-10-17,0.56,none,NA,0.0,1.0,62,0V1ttEDFkz1d3w59nLqnUI,110.957,4.0,Love Is Contagious,0.734
+62,Steve Winwood,0.722,1987-10-17,0.518,none,album rock,9.0,1.0,63,3nQuDlaVZApyrG6tdsETe0,116.289,4.0,Valerie,0.753
+63,Aerosmith,0.537,1987-10-17,0.978,none,album rock,4.0,0.0,64,6gQUbFwwdYXlKdmqRoWKJe,126.343,4.0,Dude (Looks Like A Lady),0.931
+64,Wendy And Lisa,0.661,1987-10-17,0.8,none,new wave pop,6.0,1.0,65,0i6vxP7VXmi1pIepsIkydF,119.159,4.0,Waterfall,0.879
+65,Stevie Wonder,0.834,1987-10-17,0.576,none,adult standards,1.0,1.0,66,2StGNERHF46pIbWEQfmzkU,99.835,4.0,Skeletons,0.685
+66,Go West,0.669,1987-10-17,0.943,none,dance rock,3.0,1.0,67,3j0MsAvaSUPNgxZISk4qSF,129.999,4.0,Don't Look Down - The Sequel,0.606
+67,Hooters,0.518,1987-10-17,0.737,none,album rock,7.0,1.0,68,0mgFy2EDy4WyGazhI7FVJM,104.128,4.0,Satellite,0.348
+68,Glen Burtnick,2.0,1987-10-17,2.0,none,NA,2.0,2.0,69,NA,2.0,2.0,Follow You,2.0
+69,Madonna,0.625,1987-10-17,0.646,none,dance pop,9.0,0.0,70,3G0NNqwQ1sqRpySr6soHlH,103.893,4.0,Who's That Girl,0.826
+70,KISS,0.591,1987-10-17,0.869,none,album rock,7.0,1.0,71,3YSfGJNDtF8KrHlwCAaVns,121.68,4.0,Crazy Crazy Nights,0.74
+71,Great White,0.557,1987-10-17,0.415,none,album rock,6.0,0.0,72,0u6toDywZABXlUBq76iPKW,140.72,4.0,Rock Me,0.133
+72,Def Leppard,0.583,1987-10-17,0.921,none,album rock,11.0,1.0,73,4qjscZh4jfhkpcQG4ZQfi2,119.526,4.0,Animal,0.613
+73,The Jets,0.833,1987-10-17,0.619,none,freestyle,9.0,1.0,74,1x3Cgm0OyeembVTCjEEBbC,122.193,4.0,I Do You,0.937
+74,Taylor Dayne,0.701,1987-10-17,0.987,none,dance pop,1.0,1.0,75,28fHjGEDS9P4uLah3tN77i,119.104,4.0,Tell It To My Heart(Dub),0.935
+75,Richard Marx,0.673,1987-10-17,0.765,none,album rock,5.0,1.0,76,4ujVRZd9HdjepbpWSddABF,98.241,4.0,Don't Mean Nothing,0.779
+76,Jellybean ,0.741,1987-10-17,0.706,Elisa Fiorillo,freestyle,11.0,0.0,77,4Wq8XNUOZ0CylZEP2gXy3E,118.073,4.0,Who Found Who,0.942
+77,Bee Gees,0.549,1987-10-17,0.844,none,disco,11.0,0.0,78,5mwzpzRue1SBWwrbbhXfbf,168.474,4.0,You Win Again,0.928
+78,T'Pau,2.0,1987-10-17,2.0,none,NA,2.0,2.0,79,NA,2.0,2.0,Heart And Soul,2.0
+79,David Bowie,0.575,1987-10-17,0.64,none,art rock,0.0,1.0,80,74PNrV10vOz4adOroWg0Dc,110.062,4.0,Never Let Me Down,0.518
+80,Curiosity Killed The Cat,0.712,1987-10-17,0.913,none,dance rock,9.0,0.0,81,7a650uDexobOHVrUD1Crgf,116.871,4.0,Misfit,0.914
+81,Force M.D.'s,0.682,1987-10-17,0.4,none,funk,8.0,1.0,82,6uELBL2VmKoaGjtDYONrva,92.101,4.0,Love Is A House,0.838
+82,Pink Floyd,0.441,1987-10-17,0.56,none,album rock,0.0,1.0,83,3ieDOGcOqVxScs2VZBzidt,166.585,4.0,Learning To Fly,0.476
+83,Bourgeois Tagg,2.0,1987-10-17,2.0,none,NA,2.0,2.0,84,NA,2.0,2.0,I Don't Mind At All,2.0
+84,The Cure,0.43,1987-10-17,0.971,none,alternative rock,9.0,1.0,85,76GlO5H5RT6g7y0gev86Nk,151.219,4.0,Just Like Heaven,0.764
+85,Samantha Fox,0.669,1987-10-17,0.948,none,europop,10.0,0.0,86,63znppPuvmma2IcQNe9F7p,122.012,4.0,Nothing's Gonna Stop Me Now,0.9
+86,Atlantic Starr,0.779,1987-10-17,0.723,none,disco,1.0,1.0,87,2iyncuXGDQGQJA7Q0cZ2Rl,115.599,4.0,One Lover At A Time,0.962
+87,Kool,0.628,1987-10-17,0.186,The Gang,disco,6.0,1.0,88,0i74hCilU2AmXjYSbr2N6B,76.009,4.0,Special Way,0.15
+88,Living In A Box,0.648,1987-10-17,0.724,none,dance rock,8.0,0.0,89,2DsBDML9W0jYUkTCSUUvDC,101.02,4.0,So The Story Goes,0.89
+89,Big Trouble,2.0,1987-10-17,2.0,none,NA,2.0,2.0,90,NA,2.0,2.0,Crazy World,2.0
+90,Herb Alpert,0.559,1987-10-17,0.49,none,jazz trumpet,5.0,0.0,91,3AIB7kIwgm8KdyO1UHepzB,80.225,4.0,Making Love In The Rain,0.464
+91,Stephanie Mills,0.747,1987-10-17,0.565,none,classic soul,4.0,0.0,92,3qkG2KffQv0TGGoyjJM3MU,101.972,4.0,(You're Puttin') A Rush On Me,0.425
+92,The Kane Gang,2.0,1987-10-17,2.0,none,NA,2.0,2.0,93,NA,2.0,2.0,Motortown,2.0
+93,John Waite,0.667,1987-10-17,0.593,none,album rock,9.0,1.0,94,4QyU0TsIhQbSBuiTjqMUFO,104.901,4.0,Don't Lose Any Sleep,0.668
+94,Icehouse,0.518,1987-10-17,0.952,none,australian pop,5.0,1.0,95,4tmXsNoNOk37DPBhVk5wK1,115.598,4.0,Crazy,0.345
+95,The Monkees,0.682,1987-10-17,0.73,none,brill building pop,5.0,1.0,96,5lWK8C0bi3oIQHMTiEhPGP,120.73,4.0,Heart And Soul,0.718
+96,Yello,0.745,1987-10-17,0.919,none,dance rock,6.0,1.0,97,1iOHLlEsMbgJfYBFWy4TjG,132.596,4.0,Oh Yeah,0.743
+97,Steve Winwood,0.618,1987-10-17,0.483,none,album rock,2.0,1.0,98,7byGdkcphPA1ovkas0OBFr,168.574,4.0,Back In The High Life Again,0.707
+98,George Michael,2.0,1987-10-17,2.0,none,NA,2.0,2.0,99,NA,2.0,2.0,"I Want Your Sex (From ""Beverly Hills Cop II"")",2.0
+99,Danny Wilson,0.682,1987-10-17,0.571,none,new wave pop,0.0,1.0,100,6G3afsR0udhKnAU0Tut25j,135.109,4.0,Mary's Prayer,0.657
+0,Michael Jackson,0.853,1987-10-24,0.981,none,pop,8.0,1.0,1,2bCQHF9gdG5BNDVuEIEnNk,118.193,4.0,Bad,0.595
+1,Madonna,0.771,1987-10-24,0.749,none,dance pop,5.0,0.0,2,3sX3c6QUPSAiKf77RZRf5B,119.875,4.0,Causing A Commotion,0.854
+2,Prince,0.832,1987-10-24,0.453,none,funk,9.0,1.0,3,2X6okzhnNPSzh9yxDMHHe3,122.363,4.0,U Got The Look,0.783
+3,Lisa Lisa And Cult Jam,0.722,1987-10-24,0.838,none,electro,0.0,1.0,4,0p2lB3tOc2DJGTUltBxjkv,119.736,4.0,Lost In Emotion,0.955
+4,Tiffany,0.755,1987-10-24,0.727,none,new wave pop,7.0,1.0,5,4uvjOKsp7mSjrDhWdkLPBY,130.511,4.0,I Think We're Alone Now,0.932
+5,Levert,0.71,1987-10-24,0.845,none,funk,4.0,0.0,6,1O7hDH3rrF8eyLxrpeoOfb,92.957,4.0,Casanova,0.802
+6,Billy Idol,0.701,1987-10-24,0.758,none,album rock,1.0,1.0,7,3GfGTJ2xzC0rqKgdjNJLOC,135.188,4.0,Mony Mony,0.344
+7,Expose,0.659,1987-10-24,0.754,none,freestyle,1.0,0.0,8,3t14IyH0Pwz1E7oMJZD1u5,105.409,4.0,Let Me Be The One,0.887
+8,Fleetwood Mac,0.64,1987-10-24,0.649,none,album rock,2.0,1.0,9,4CoSCPlKNrWli7E5kFtbcl,124.825,4.0,Little Lies,0.865
+9,Europe,0.457,1987-10-24,0.487,none,album rock,7.0,1.0,10,29wJiSQcze8HEmxkUQykyp,136.596,4.0,Carrie,0.139
+10,Whitesnake,0.292,1987-10-24,0.823,none,album rock,7.0,1.0,11,1qOU8KzFifXE9YrgjVwYvc,89.939,4.0,Here I Go Again,0.244
+11,Heart,0.601,1987-10-24,0.73,none,album rock,2.0,1.0,12,2G7ttyDosjWmunOYsNRm0C,116.313,4.0,Who Will You Run To,0.684
+12,Swing Out Sister,0.707,1987-10-24,0.557,none,new romantic,4.0,1.0,13,0Nkbz5ibaSGuyMce9qGMS0,113.196,4.0,Breakout,0.776
+13,John Mellencamp,0.623,1987-10-24,0.889,none,album rock,4.0,1.0,14,3fbVtEI5leNfYKvL7FxDz1,141.992,4.0,Paper In Fire,0.579
+14,Pet Shop Boys,0.538,1987-10-24,0.864,none,art pop,0.0,0.0,15,6vYK729O29XnvQqPWyLPfe,127.127,4.0,It's A Sin,0.293
+15,Bruce Springsteen,0.703,1987-10-24,0.726,none,heartland rock,9.0,1.0,16,0nqbZ17t9v52SCemAm1QP0,126.353,4.0,Brilliant Disguise,0.949
+16,The Cars,0.684,1987-10-24,0.79,none,album rock,7.0,1.0,17,4Dvfdhc0DnWUSKZgDe6opm,138.153,4.0,You Are The Girl,0.956
+17,U2,0.495,1987-10-24,0.728,none,irish rock,2.0,1.0,18,4qgZs0RNjdzKAS22lP0QjY,125.81,4.0,Where The Streets Have No Name,0.218
+18,REO Speedwagon,0.653,1987-10-24,0.428,none,album rock,11.0,1.0,19,6lf1UPrmgF1lEWybjHw62g,145.136,4.0,In My Dreams,0.385
+19,Bill Medley,0.7,1987-10-24,0.781,Jennifer Warnes,NA,6.0,0.0,20,4BFMQ15vXr626UOoZL8bUI,108.695,4.0,(I've Had) The Time Of My Life,0.385
+20,Bananarama,2.0,1987-10-24,2.0,none,NA,2.0,2.0,21,NA,2.0,2.0,"I Heard A Rumour (From ""Disorderlies"")",2.0
+21,Kenny G. (Vocal By Lenny Williams),2.0,1987-10-24,2.0,none,NA,2.0,2.0,22,NA,2.0,2.0,Don't Make Me Wait For Love,2.0
+22,Belinda Carlisle,0.637,1987-10-24,0.786,none,australian pop,4.0,1.0,23,58mFu3oIpBa0HLNeJIxsw3,122.872,4.0,Heaven Is A Place On Earth,0.804
+23,Whitney Houston,0.54,1987-10-24,0.489,none,dance pop,10.0,1.0,24,19wadMw1A8XejDV4p5wMt1,130.984,4.0,Didn't We Almost Have It All,0.336
+24,Cutting Crew,0.52,1987-10-24,0.568,none,dance rock,2.0,1.0,25,0rPImSYezi40zBhwvIvTrr,145.86,4.0,I've Been In Love Before,0.844
+25,Richard Marx,0.548,1987-10-24,0.704,none,album rock,8.0,1.0,26,5j1zOOvkxxe4uZZ2Jgl8r4,169.119,4.0,Should've Known Better,0.682
+26,Natalie Cole,0.792,1987-10-24,0.693,none,adult standards,5.0,0.0,27,6HXqPLNqNoxP70YihXnmST,122.321,4.0,Jump Start,0.952
+27,R.E.M.,0.488,1987-10-24,0.841,none,alternative rock,2.0,1.0,28,2fdfsGuqb6SBX5ocoBWHUd,127.861,4.0,The One I Love,0.559
+28,Poison,0.287,1987-10-24,0.84,none,album rock,6.0,1.0,29,6WmVgLj2htklkU3SZOsItg,202.903,4.0,I Won't Forget You,0.648
+29,Los Lobos,0.41,1987-10-24,0.814,none,roots rock,9.0,1.0,30,7lAVmqRbm79nGN4auDjJ9b,176.35,4.0,"Come On, Let's Go",0.766
+30,The Other Ones,2.0,1987-10-24,2.0,none,NA,2.0,2.0,31,NA,2.0,2.0,Holiday,2.0
+31,Smokey Robinson,0.817,1987-10-24,0.381,none,classic soul,4.0,0.0,32,7LOYcC6phKAVOckgmVZJJT,109.135,4.0,One Heartbeat,0.901
+32,Squeeze,0.742,1987-10-24,0.548,none,art rock,5.0,1.0,33,5Y6HTd7VB0O8Aki4EvmB4x,125.932,4.0,Hourglass,0.965
+33,Sting,0.846,1987-10-24,0.689,none,permanent wave,0.0,1.0,34,22FshJbV8R7yYuPwYyZwM6,116.439,4.0,We'll Be Together,0.934
+34,Timothy B. Schmit,0.721,1987-10-24,0.433,none,NA,2.0,0.0,35,1lhNi9EEYs8HvBoBC9RZlf,95.853,4.0,Boys Night Out,0.469
+35,Gloria Estefan,0.812,1987-10-24,0.696,Miami Sound Machine,dance pop,3.0,1.0,36,6k6bwPqngQMFBpoimRV7ID,124.995,4.0,Betcha Say That,0.863
+36,Debbie Gibson,0.783,1987-10-24,0.747,none,new wave pop,11.0,0.0,37,6gM3uxq9TPkms83bTSlK10,120.551,4.0,Shake Your Love,0.83
+37,Loverboy,0.43,1987-10-24,0.946,none,album rock,2.0,1.0,38,5JmRY65gYC2JZVCL9aZBik,156.709,4.0,Notorious,0.545
+38,Mick Jagger,2.0,1987-10-24,2.0,none,NA,2.0,2.0,39,NA,2.0,2.0,Let's Work,2.0
+39,Jody Watley,0.88,1987-10-24,0.588,none,disco,9.0,0.0,40,7r4ZN8F22eBQeN0aMqwzgN,111.985,4.0,Don't You Want Me,0.863
+40,Wa Wa Nee,2.0,1987-10-24,2.0,none,NA,2.0,2.0,41,NA,2.0,2.0,Sugar Free,2.0
+41,Yes,0.593,1987-10-24,0.887,none,album rock,11.0,0.0,42,5B8sDKrg4VN8etjH0vFz40,118.402,4.0,Love Will Find A Way,0.669
+42,Pretty Poison,2.0,1987-10-24,2.0,none,NA,2.0,2.0,43,NA,2.0,2.0,"Catch Me (I'm Falling) (From The Film ""Hiding Out"")",2.0
+43,Anita Baker,0.595,1987-10-24,0.557,none,funk,10.0,1.0,44,3P8v2bYhgJ7Eba8Br6pr3H,90.177,4.0,No One In The World,0.415
+44,Michael Bolton,0.525,1987-10-24,0.376,none,adult standards,5.0,1.0,45,7FzWPiPB2A9Hhfb2hiuKsC,121.462,4.0,That's What Love Is All About,0.198
+45,Los Lobos,0.506,1987-10-24,0.764,none,roots rock,0.0,1.0,46,0uMMLry3hzWGn3q3loqMkm,156.336,4.0,La Bamba,0.868
+46,Steve Winwood,0.722,1987-10-24,0.518,none,album rock,9.0,1.0,47,3nQuDlaVZApyrG6tdsETe0,116.289,4.0,Valerie,0.753
+47,Fat Boys,0.771,1987-10-24,0.77,The Beach Boys,east coast hip hop,1.0,1.0,48,46ePNyvaDBKsxusDXDj7Wg,128.817,4.0,Wipeout,0.961
+48,Starship,0.633,1987-10-24,0.88,none,album rock,8.0,1.0,49,5UguZCOGmbDVoVwIjKgs11,154.058,4.0,Beat Patrol,0.976
+49,Dan Hill (Duet With Vonda Shepard),2.0,1987-10-24,2.0,none,NA,2.0,2.0,50,NA,2.0,2.0,Can't We Try,2.0
+50,Mr. Mister,0.605,1987-10-24,0.75,none,album rock,6.0,0.0,51,0GnZ9i0DsWh3Xq82qJ7zKB,110.013,4.0,Something Real (Inside Me/Inside You),0.571
+51,Noel,0.689,1987-10-24,0.726,none,freestyle,11.0,0.0,52,3hCibWQ58Vs1YNmD0uA14w,116.003,4.0,Silent Morning,0.826
+52,Whitesnake,0.263,1987-10-24,0.759,none,album rock,0.0,1.0,53,0IhUdJRoolbYeEMPL59XPm,179.904,4.0,Is This Love,0.429
+53,George Michael,0.887,1987-10-24,0.48,none,dance rock,11.0,1.0,54,0HEmnAUT8PHznIAAmVXqFJ,95.846,4.0,Faith,0.607
+54,ABC,0.739,1987-10-24,0.65,none,art rock,5.0,1.0,55,5IfSEpxmVAyu41B3xMqbZQ,126.414,4.0,When Smokey Sings,0.902
+55,Debbie Gibson,0.612,1987-10-24,0.796,none,new wave pop,8.0,1.0,56,03i9ehMBCqbxKw7wwEycFZ,124.854,4.0,Only In My Dreams,0.895
+56,Aerosmith,0.537,1987-10-24,0.978,none,album rock,4.0,0.0,57,6gQUbFwwdYXlKdmqRoWKJe,126.343,4.0,Dude (Looks Like A Lady),0.931
+57,The Jets,0.833,1987-10-24,0.619,none,freestyle,9.0,1.0,58,1x3Cgm0OyeembVTCjEEBbC,122.193,4.0,I Do You,0.937
+58,Stevie Wonder,0.834,1987-10-24,0.576,none,adult standards,1.0,1.0,59,2StGNERHF46pIbWEQfmzkU,99.835,4.0,Skeletons,0.685
+59,Wendy And Lisa,0.661,1987-10-24,0.8,none,new wave pop,6.0,1.0,60,0i6vxP7VXmi1pIepsIkydF,119.159,4.0,Waterfall,0.879
+60,Taylor Dayne,0.701,1987-10-24,0.987,none,dance pop,1.0,1.0,61,28fHjGEDS9P4uLah3tN77i,119.104,4.0,Tell It To My Heart(Dub),0.935
+61,Michael Jackson With Siedah Garrett,2.0,1987-10-24,2.0,none,NA,2.0,2.0,62,NA,2.0,2.0,I Just Can't Stop Loving You,2.0
+62,Def Leppard,0.583,1987-10-24,0.921,none,album rock,11.0,1.0,63,4qjscZh4jfhkpcQG4ZQfi2,119.526,4.0,Animal,0.613
+63,Hooters,0.518,1987-10-24,0.737,none,album rock,7.0,1.0,64,0mgFy2EDy4WyGazhI7FVJM,104.128,4.0,Satellite,0.348
+64,Glen Burtnick,2.0,1987-10-24,2.0,none,NA,2.0,2.0,65,NA,2.0,2.0,Follow You,2.0
+65,George Harrison,0.797,1987-10-24,0.814,none,album rock,11.0,1.0,66,6miUySWi347iIJyz7ETo6m,149.42,4.0,Got My Mind Set On You,0.874
+66,Grateful Dead,0.617,1987-10-24,0.817,none,blues-rock,11.0,1.0,67,5YzzWlWfAVNvtduNDHKhHc,159.907,4.0,Touch Of Grey,0.803
+67,Huey Lewis,0.638,1987-10-24,0.785,The News,album rock,0.0,1.0,68,2GdWNthCTVMBnuw59WyIci,137.444,3.0,Doing It All For My Baby,0.751
+68,Bryan Adams,0.459,1987-10-24,0.502,none,album rock,2.0,0.0,69,73U7iE42GU9HCVtlbSQ2Fb,143.632,4.0,Victim Of Love,0.458
+69,Taja Sevelle,0.716,1987-10-24,0.56,none,NA,0.0,1.0,70,0V1ttEDFkz1d3w59nLqnUI,110.957,4.0,Love Is Contagious,0.734
+70,The Whispers,0.927,1987-10-24,0.832,none,classic soul,10.0,0.0,71,1YCsTFttuHAzgfEWKdOb9K,115.384,4.0,Rock Steady,0.958
+71,Alexander O'Neal,0.75,1987-10-24,0.694,none,disco,6.0,0.0,72,6XBvZEehQy3clOpFbT2FoY,112.848,4.0,Fake,0.731
+72,Bourgeois Tagg,2.0,1987-10-24,2.0,none,NA,2.0,2.0,73,NA,2.0,2.0,I Don't Mind At All,2.0
+73,KISS,0.591,1987-10-24,0.869,none,album rock,7.0,1.0,74,3YSfGJNDtF8KrHlwCAaVns,121.68,4.0,Crazy Crazy Nights,0.74
+74,The Cure,0.43,1987-10-24,0.971,none,alternative rock,9.0,1.0,75,76GlO5H5RT6g7y0gev86Nk,151.219,4.0,Just Like Heaven,0.764
+75,Donna Summer,0.704,1987-10-24,0.68,none,dance pop,5.0,0.0,76,6rXTPwAPz9IvH4Qc5tIq2H,111.175,4.0,Dinner With Gershwin,0.72
+76,Pink Floyd,0.441,1987-10-24,0.56,none,album rock,0.0,1.0,77,3ieDOGcOqVxScs2VZBzidt,166.585,4.0,Learning To Fly,0.476
+77,John Mellencamp,0.759,1987-10-24,0.937,none,album rock,7.0,1.0,78,43oPpqzWPSZmeiwYicmzjG,113.849,4.0,Cherry Bomb,0.937
+78,Kool,0.628,1987-10-24,0.186,The Gang,disco,6.0,1.0,79,0i74hCilU2AmXjYSbr2N6B,76.009,4.0,Special Way,0.15
+79,Richard Marx,0.673,1987-10-24,0.765,none,album rock,5.0,1.0,80,4ujVRZd9HdjepbpWSddABF,98.241,4.0,Don't Mean Nothing,0.779
+80,The Kane Gang,2.0,1987-10-24,2.0,none,NA,2.0,2.0,81,NA,2.0,2.0,Motortown,2.0
+81,Samantha Fox,0.669,1987-10-24,0.948,none,europop,10.0,0.0,82,63znppPuvmma2IcQNe9F7p,122.012,4.0,Nothing's Gonna Stop Me Now,0.9
+82,Living In A Box,0.648,1987-10-24,0.724,none,dance rock,8.0,0.0,83,2DsBDML9W0jYUkTCSUUvDC,101.02,4.0,So The Story Goes,0.89
+83,Icehouse,0.518,1987-10-24,0.952,none,australian pop,5.0,1.0,84,4tmXsNoNOk37DPBhVk5wK1,115.598,4.0,Crazy,0.345
+84,Big Trouble,2.0,1987-10-24,2.0,none,NA,2.0,2.0,85,NA,2.0,2.0,Crazy World,2.0
+85,Great White,0.557,1987-10-24,0.415,none,album rock,6.0,0.0,86,0u6toDywZABXlUBq76iPKW,140.72,4.0,Rock Me,0.133
+86,Atlantic Starr,0.779,1987-10-24,0.723,none,disco,1.0,1.0,87,2iyncuXGDQGQJA7Q0cZ2Rl,115.599,4.0,One Lover At A Time,0.962
+87,T'Pau,2.0,1987-10-24,2.0,none,NA,2.0,2.0,88,NA,2.0,2.0,Heart And Soul,2.0
+88,Madonna,0.625,1987-10-24,0.646,none,dance pop,9.0,0.0,89,3G0NNqwQ1sqRpySr6soHlH,103.893,4.0,Who's That Girl,0.826
+89,Sammy Hagar,0.26,1987-10-24,0.838,none,album rock,7.0,1.0,90,3kJObCbuzBL8COCZpxmMxQ,185.138,4.0,Eagles Fly,0.236
+90,Simon F,2.0,1987-10-24,2.0,none,NA,2.0,2.0,91,NA,2.0,2.0,American Dream,2.0
+91,Bee Gees,0.549,1987-10-24,0.844,none,disco,11.0,0.0,92,5mwzpzRue1SBWwrbbhXfbf,168.474,4.0,You Win Again,0.928
+92,INXS,0.801,1987-10-24,0.723,none,australian rock,10.0,0.0,93,5eU8qMd0TpaLqTGDZJaLDs,109.03,4.0,Need You Tonight,0.883
+93,Force M.D.'s,0.682,1987-10-24,0.4,none,funk,8.0,1.0,94,6uELBL2VmKoaGjtDYONrva,92.101,4.0,Love Is A House,0.838
+94,New Order,0.611,1987-10-24,0.938,none,alternative rock,0.0,1.0,95,0E8IiKUfS98p3cUbQgh3yO,117.231,4.0,True Faith,0.903
+95,Terence Trent D'Arby,0.636,1987-10-24,0.767,none,dance rock,6.0,1.0,96,7fPSzZmr3N0hO50JgVIFk4,99.144,4.0,If You Let Me Stay,0.883
+96,Laura Branigan,0.408,1987-10-24,0.581,none,dance rock,7.0,1.0,97,5ASgCXXiZGSlbeI5QG7rvG,137.028,4.0,Power Of Love,0.212
+97,LL Cool J,0.803,1987-10-24,0.426,none,dirty south rap,0.0,1.0,98,3UP7dzy4ISy8S3HOReCd1q,88.208,4.0,I Need Love,0.65
+98,Curiosity Killed The Cat,0.712,1987-10-24,0.913,none,dance rock,9.0,0.0,99,7a650uDexobOHVrUD1Crgf,116.871,4.0,Misfit,0.914
+99,Go West,0.669,1987-10-24,0.943,none,dance rock,3.0,1.0,100,3j0MsAvaSUPNgxZISk4qSF,129.999,4.0,Don't Look Down - The Sequel,0.606

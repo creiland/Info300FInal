@@ -1,0 +1,201 @@
+,artist,danceability,date,energy,featuring,genre,key,mode,rank,spotifyID,tempo,timesignature,track,valence
+0,Jennifer Lopez ,0.708,2001-09-15,0.587,Ja Rule,dance pop,11.0,0.0,1,6MLsahMK3VvH9NUwXOktdS,83.46,4.0,I'm Real,0.554
+1,Alicia Keys,0.653,2001-09-15,0.609,none,hip pop,11.0,0.0,2,0KQx6HOpJueiSkztcS0r7D,95.982,3.0,Fallin',0.482
+2,Jagged Edge With Nelly,2.0,2001-09-15,2.0,none,NA,2.0,2.0,3,NA,2.0,2.0,Where The Party At,2.0
+3,Janet,0.729,2001-09-15,0.914,none,dance pop,2.0,1.0,4,3cNtjgYi1Z6zR35fOiNtuZ,127.907,4.0,Someone To Call My Lover,0.921
+4,Blu Cantrell,0.7,2001-09-15,0.774,none,hip pop,5.0,0.0,5,4zYTZvtcww7OWKie7fxA9E,90.0,4.0,Hit 'Em Up Style (Oops!),0.652
+5,Usher,0.657,2001-09-15,0.629,none,atl hip hop,6.0,1.0,6,2QsZVnbWVSjKMXK6K3uRBL,93.985,4.0,U Remind Me,0.726
+6,Eve ,0.909,2001-09-15,0.539,Gwen Stefani,dance pop,8.0,0.0,7,3RmKpob8xzv1pzHEQrMJah,90.038,4.0,Let Me Blow Ya Mind,0.869
+7,Staind,0.509,2001-09-15,0.774,none,alternative metal,6.0,1.0,8,25CMmGsl22APKhfuj4Tp7j,116.529,4.0,It's Been Awhile,0.0824
+8,Train,2.0,2001-09-15,2.0,none,NA,2.0,2.0,9,NA,2.0,2.0,Drops Of Jupiter (Tell Me),2.0
+9,Lifehouse,0.531,2001-09-15,0.855,none,alternative metal,1.0,1.0,10,0wqOReZDnrefefEsrIGeR4,124.578,4.0,Hanging By A Moment,0.424
+10,Michael Jackson,0.854,2001-09-15,0.673,none,pop,4.0,0.0,11,1Lhwn4PqeGpM4LTVUowW76,95.0,4.0,You Rock My World,0.955
+11,Mary J. Blige,0.925,2001-09-15,0.56,none,dance pop,8.0,0.0,12,3aw9iWUQ3VrPQltgwvN9Xu,92.895,4.0,Family Affair,0.966
+12,JAY-Z,2.0,2001-09-15,2.0,none,NA,2.0,2.0,13,NA,2.0,2.0,Izzo (H.O.V.A.),2.0
+13,112,0.677,2001-09-15,0.52,none,atl hip hop,4.0,0.0,14,2SLZ2rX5773RS16mcqBxG7,203.862,4.0,Peaches & Cream,0.768
+14,Afroman,0.8,2001-09-15,0.339,none,gangster rap,7.0,1.0,15,0rRboI6IRuGx56Dq3UdYY4,165.982,4.0,Because I Got High,0.844
+15,"Missy ""Misdemeanor"" Elliott",2.0,2001-09-15,2.0,none,NA,2.0,2.0,16,NA,2.0,2.0,One Minute Man,2.0
+16,Craig David,0.683,2001-09-15,0.748,none,dance pop,8.0,1.0,17,0UzsDmdpw0Q14KU4hieQss,132.486,4.0,Fill Me In,0.828
+17,Sugar Ray,0.677,2001-09-15,0.771,none,alternative metal,4.0,1.0,18,3eWxADd1CLwJVhyPzrCpl8,99.91,4.0,When It's Over,0.936
+18,O-Town,0.641,2001-09-15,0.453,none,boy band,0.0,1.0,19,0WdaRmHBMhUoLPqHLdb9yg,126.872,4.0,All Or Nothing,0.216
+19,Incubus,0.645,2001-09-15,0.792,none,alternative metal,4.0,0.0,20,7nnWIPM5hwE3DaUBkvOIpy,90.565,4.0,Drive,0.666
+20,Blake Shelton,0.605,2001-09-15,0.609,none,contemporary country,7.0,1.0,21,2WQAknZHrJAEQOFXe0F44P,119.914,4.0,Austin,0.275
+21,Ginuwine,0.562,2001-09-15,0.594,none,dance pop,3.0,0.0,22,0Uyh92tLyb9JawG8lmWCzJ,62.876,4.0,Differences,0.423
+22,Trick Daddy,0.933,2001-09-15,0.562,none,crunk,11.0,1.0,23,6j2aNuhJJUnRj6UHcvn5PI,139.981,4.0,I'm A Thug,0.587
+23,Dave Matthews Band,0.406,2001-09-15,0.73,none,jam band,9.0,1.0,24,65KzDXZm9aQt8sA1k0ZVG3,170.032,4.0,The Space Between,0.207
+24,Smash Mouth,0.562,2001-09-15,0.967,none,alternative rock,6.0,1.0,25,1RC5Mb0VhnlhnMlFDnrvE0,82.388,4.0,I'm A Believer,0.869
+25,The Isley Brothers ,0.697,2001-09-15,0.447,Ronald Isley,classic soul,4.0,0.0,26,7HjJQunSPwkXXVnGeItUEH,113.034,4.0,Contagious,0.207
+26,Toby Keith,0.674,2001-09-15,0.863,none,contemporary country,7.0,1.0,27,6CBRI05fAHw76JqDk2IRkK,123.872,4.0,I'm Just Talkin' About Tonight,0.821
+27,City High,0.732,2001-09-15,0.793,none,hip pop,7.0,1.0,28,1tJkic0TURTCXw3rBhYgWu,95.918,4.0,What Would You Do?,0.821
+28,Ludacris ,0.867,2001-09-15,0.692,Nate Dogg,atl hip hop,9.0,0.0,29,3lcC9CnN7Rpo1ugATzmYjY,101.027,4.0,Area Codes,0.637
+29,Enya,0.418,2001-09-15,0.249,none,celtic,3.0,1.0,30,6FLwmdmW77N1Pxb1aWsZmO,82.803,4.0,Only Time,0.213
+30,Cyndi Thomson,0.503,2001-09-15,0.671,none,contemporary country,1.0,1.0,31,2YhdP9Wq1yH2pshQ6sWnHo,140.115,4.0,What I Really Meant To Say,0.381
+31,Uncle Kracker,0.817,2001-09-15,0.585,none,contemporary country,5.0,1.0,32,4KoecuyOpZaNFZ0UqVsllc,105.014,4.0,Follow Me,0.916
+32,The Wiseguys,0.688,2001-09-15,0.979,none,big beat,1.0,0.0,33,08Ty4imIKiJwamGWHuW0y8,119.901,4.0,Start The Commotion,0.958
+33,Willa Ford,0.647,2001-09-15,0.818,none,NA,9.0,0.0,34,6f67kjvFmXZTA47K8JNVBU,180.019,4.0,I Wanna Be Bad,0.816
+34,"P. Diddy, Black Rob",2.0,2001-09-15,2.0,Mark Curry,NA,2.0,2.0,35,NA,2.0,2.0,Bad Boy For Life,2.0
+35,Fabolous ,0.916,2001-09-15,0.821,Nate Dogg,dance pop,4.0,0.0,36,7K4Aq4awgYvDKEJdEvvl4j,90.04,4.0,Can't Deny It,0.592
+36,Keith Urban,0.496,2001-09-15,0.94,none,australian country,2.0,1.0,37,7qLQR9T8vL638MbPYCDAFk,158.967,4.0,Where The Blacktop Ends,0.95
+37,Tim McGraw,2.0,2001-09-15,2.0,none,NA,2.0,2.0,38,NA,2.0,2.0,Angry All The Time,2.0
+38,Nelly Furtado,0.712,2001-09-15,0.673,none,canadian pop,2.0,1.0,39,7sVvY1tEvk5VfitXX2PDOk,90.164,4.0,Turn Off The Light,0.696
+39,Ja Rule ,0.88,2001-09-15,0.766,Case,dance pop,6.0,1.0,40,0UZ5D7IZkiR3ZUYl6AK0do,106.034,4.0,Livin' It Up,0.658
+40,3 Doors Down,0.487,2001-09-15,0.702,none,alternative metal,7.0,1.0,41,3PbHle8KhJp6GuO1jLdEmQ,95.973,4.0,Be Like That,0.306
+41,Brooks,0.512,2001-09-15,0.886,Dunn,contemporary country,4.0,1.0,42,3e41nkMyqcAwaQCXJVj87G,137.764,4.0,Only In America,0.693
+42,Michelle Branch,0.523,2001-09-15,0.828,none,candy pop,1.0,1.0,43,1u0l8zWpQeMYStFkc2mLD7,96.952,4.0,Everywhere,0.476
+43,Dido,0.722,2001-09-15,0.595,none,dance pop,1.0,0.0,44,751gBcu62kORDelX7FV0mM,79.98,4.0,Thank You,0.738
+44,Aaliyah,0.684,2001-09-15,0.642,none,NA,7.0,1.0,45,3Q6qrj7HIgu9fxhHBkfmdi,93.011,4.0,Rock The Boat,0.584
+45,Trisha Yearwood,0.371,2001-09-15,0.467,none,contemporary country,6.0,1.0,46,5ypO2aV9FHp4WulbTXepBx,137.852,4.0,I Would've Loved You Anyway,0.307
+46,LFO,0.689,2001-09-15,0.922,none,boy band,11.0,1.0,47,3uD4aRM8QoEAAhwpOke7QU,103.975,4.0,Every Other Time,0.72
+47,Lonestar,0.377,2001-09-15,0.395,none,contemporary country,3.0,1.0,48,34Vn9nKfztyLco9lJazy4j,133.296,4.0,I'm Already There,0.221
+48,Alan Jackson,0.726,2001-09-15,0.631,none,contemporary country,11.0,0.0,49,6ej1QJ8eIYmhsyTlvgDajy,124.711,4.0,Where I Come From,0.746
+49,Destiny's Child,2.0,2001-09-15,2.0,none,NA,2.0,2.0,50,NA,2.0,2.0,Bootylicious,2.0
+50,Eve 6,0.583,2001-09-15,0.652,none,alternative metal,7.0,1.0,51,4tgeQrPu5xkrnwErym2JsJ,97.469,4.0,Here's To The Night,0.352
+51,Alien Ant Farm,0.647,2001-09-15,0.964,none,alternative metal,9.0,0.0,52,5z6xHjCZr7a7AIcy8sPBKy,126.942,4.0,Smooth Criminal,0.875
+52,American Hi-Fi,0.389,2001-09-15,0.959,none,pop punk,10.0,1.0,53,1UkMAtLU8NxsddE7j4zXGO,151.334,4.0,Flavor Of The Weak,0.597
+53,Toya,0.781,2001-09-15,0.583,none,hip pop,6.0,0.0,54,0NdEFLohwfZpyncrBCq1ZY,156.264,4.0,I Do!!,0.91
+54,Bubba Sparxxx,0.751,2001-09-15,0.836,none,atl hip hop,6.0,1.0,55,3NOq1Gpiy4KwDni8NhOmHQ,90.846,4.0,Ugly,0.67
+55,Jamie O'Neal,0.688,2001-09-15,0.834,none,contemporary country,11.0,1.0,56,3ERS3R0knFUvG68792i1r1,96.881,4.0,When I Think About Angels,0.519
+56,R. Kelly,0.737,2001-09-15,0.258,none,NA,10.0,1.0,57,7cFQFr1VpkSp3BTIn7X719,61.028,4.0,Feelin' On Yo Booty,0.83
+57,Phil Vassar,0.725,2001-09-15,0.733,none,contemporary country,0.0,1.0,58,23qDMWnwf8p0pr5slljB6i,100.311,4.0,Six-Pack Summer,0.843
+58,Five For Fighting,0.382,2001-09-15,0.416,none,acoustic pop,0.0,1.0,59,3TwtrR1yNLY1PMPsrGQpOp,102.089,4.0,Superman (It's Not Easy),0.125
+59,Petey Pablo,0.735,2001-09-15,0.844,none,crunk,1.0,1.0,60,02GwPAncasVL82yC7y2hmN,156.069,4.0,Raise Up,0.742
+60,Jessica Simpson,0.659,2001-09-15,0.966,none,dance pop,8.0,0.0,61,2TVSa07y6g3HRn4oLWv57M,93.008,4.0,Irresistible,0.687
+61,D12,0.762,2001-09-15,0.714,none,detroit hip hop,1.0,1.0,62,4Vx3lC2E2wr3ZlT7pA2jOT,125.28,4.0,Purple Hills,0.696
+62,Gorillaz,0.663,2001-09-15,0.694,none,alternative hip hop,10.0,0.0,63,7yMiX7n9SBvadzox8T5jzT,167.964,4.0,Clint Eastwood,0.524
+63,Nickelback,0.446,2001-09-15,0.764,none,alternative metal,10.0,1.0,64,0gmbgwZ8iqyMPmXefof8Yf,172.094,4.0,How You Remind Me,0.543
+64,Carolyn Dawn Johnson,2.0,2001-09-15,2.0,none,NA,2.0,2.0,65,NA,2.0,2.0,So Complicated,2.0
+65,Maxwell,0.695,2001-09-15,0.454,none,dance pop,9.0,1.0,66,0tXq1ob3ysGZN2oK1abtyp,127.986,4.0,Lifetime,0.496
+66,Jaheim,0.78,2001-09-15,0.572,none,dance pop,0.0,1.0,67,0YHBvFhfCJHyP5qfgtiX1o,100.999,4.0,Just In Case,0.695
+67,Fuel,0.279,2001-09-15,0.728,none,alternative metal,9.0,1.0,68,4Tjtydj98uNQ9MwKtEybnT,175.917,4.0,Bad Day,0.2
+68,Martina McBride,0.603,2001-09-15,0.707,none,contemporary country,2.0,1.0,69,78Pl98qYK16Egcle5fMx0G,141.837,4.0,When God-Fearin' Women Get The Blues,0.455
+69,Tool,2.0,2001-09-15,2.0,none,NA,2.0,2.0,70,NA,2.0,2.0,Schism,2.0
+70,Faith Hill,0.325,2001-09-15,0.532,none,contemporary country,8.0,1.0,71,1s2khOWzC99udpUaPICLJI,129.021,4.0,There You'll Be,0.162
+71,Trick Pony,0.599,2001-09-15,0.776,none,contemporary country,5.0,1.0,72,4ukCThz76ZkKJzTlmDlKpa,117.912,4.0,On A Night Like This,0.831
+72,112,0.912,2001-09-15,0.511,none,atl hip hop,9.0,1.0,73,6uRH1qMz30ZBwwUG0IYE5s,101.628,4.0,Dance With Me,0.611
+73,Brian McKnight,0.597,2001-09-15,0.439,none,dance pop,6.0,1.0,74,0pCDds54QUooGedfpHUjtW,61.904,4.0,Love Of My Life,0.349
+74,Juvenile,0.694,2001-09-15,0.586,none,bounce,6.0,1.0,75,44LFap7VrB4356vfbQOZHg,168.157,4.0,Set It Off,0.725
+75,Travis Tritt,0.324,2001-09-15,0.574,none,contemporary country,7.0,1.0,76,7dVINsv6faqqTUelZdvd5U,74.101,4.0,Love Of A Woman,0.335
+76,Sum 41,0.574,2001-09-15,0.911,none,alternative metal,9.0,1.0,77,4KacUpvbA3Mfo05gttTjhN,98.075,4.0,Fat Lip,0.573
+77,Gigi D'Agostino,2.0,2001-09-15,2.0,none,NA,2.0,2.0,78,NA,2.0,2.0,I'll Fly With You (L'amour Toujours),2.0
+78,Violator ,0.931,2001-09-15,0.484,Busta Rhymes,NA,5.0,0.0,79,3xuobJ0EyP0Boajt7p8xWq,100.967,4.0,What It Is,0.664
+79,Backstreet Boys,0.58,2001-09-15,0.729,none,boy band,4.0,0.0,80,4XRUKxDIn28c7uHEzbGFgj,80.061,4.0,More Than That,0.483
+80,Reba,0.634,2001-09-15,0.646,none,contemporary country,2.0,1.0,81,0Fvw3mm5xy6CgsOWJWBs8s,88.834,4.0,I'm A Survivor,0.512
+81,Erick Sermon ,0.896,2001-09-15,0.457,Marvin Gaye,alternative hip hop,8.0,0.0,82,2g4SumkFZpHOypfF5xng9Z,100.043,4.0,Music,0.921
+82,Jill Scott,0.725,2001-09-15,0.41,none,funk,1.0,1.0,83,49aUxrufliNDGj7MTm7pNU,140.394,4.0,The Way,0.436
+83,Jo Dee Messina,2.0,2001-09-15,2.0,none,NA,2.0,2.0,84,NA,2.0,2.0,Downtime,2.0
+84,Christina Milian,2.0,2001-09-15,2.0,none,NA,2.0,2.0,85,NA,2.0,2.0,AM To PM,2.0
+85,Dream,0.662,2001-09-15,0.926,none,girl group,8.0,1.0,86,1s8MNZEUhMRlCJiFzHCkTY,78.053,4.0,This Is Me,0.918
+86,Linkin Park,0.58,2001-09-15,0.702,none,alternative metal,4.0,1.0,87,57BrRMwf9LrcmuOsyGilwr,105.076,4.0,Crawling,0.299
+87,Jimmy Cozier,2.0,2001-09-15,2.0,none,NA,2.0,2.0,88,NA,2.0,2.0,She's All I Got,2.0
+88,Mariah Carey ,2.0,2001-09-15,2.0,Cameo,NA,2.0,2.0,89,NA,2.0,2.0,Loverboy,2.0
+89,Luther Vandross,0.752,2001-09-15,0.575,none,disco,8.0,1.0,90,650M98AP1WgRo1jJ0snmoI,86.004,4.0,Take You Out,0.569
+90,Coo Coo Cal,0.803,2001-09-15,0.955,none,NA,6.0,0.0,91,6wG3PktG367TkEPvWe6DkY,95.289,4.0,My Projects,0.814
+91,Darude,0.539,2001-09-15,0.98,none,eurodance,11.0,0.0,92,24CXuh2WNpgeSYUOvz14jk,136.087,4.0,Sandstorm,0.522
+92,Chris Cagle,0.47,2001-09-15,0.794,none,contemporary country,1.0,1.0,93,1FPdKaYo5DK8oxCwkUq0GS,159.983,4.0,Laredo,0.673
+93,Musiq Soulchild ,0.695,2001-09-15,0.637,Ayana,dance pop,1.0,1.0,94,4lyjlRP5xoJKsMqwiz7558,77.946,4.0,Girl Next Door,0.75
+94,Ray J ,0.89,2001-09-15,0.701,Lil' Kim,dance pop,7.0,1.0,95,7xwFOVYwBuLvFquLyfooRp,100.018,4.0,Wait A Minute,0.728
+95,Ian Van Dahl ,0.572,2001-09-15,0.863,Marsha,bubble trance,0.0,0.0,96,1AyMm0UfxY4eKHdRvZxdHB,140.021,4.0,Castles In The Sky,0.681
+96,Faith Evans ,0.784,2001-09-15,0.518,Carl Thomas,dance pop,7.0,1.0,97,2423gyT9B3zNqC9ZD8QfSu,89.591,4.0,Can't Believe,0.491
+97,Rascal Flatts,0.493,2001-09-15,0.635,none,contemporary country,5.0,1.0,98,2rsjgtDbLeSYttYBPL5L1m,142.12,4.0,While You Loved Me,0.194
+98,matchbox twenty,0.544,2001-09-15,0.659,none,neo mellow,9.0,1.0,99,2f5N826udWfjT9iomeaBJt,109.933,4.0,Mad Season,0.361
+99,Blink-182,0.41,2001-09-15,0.959,none,modern rock,9.0,1.0,100,2ydUT1pFhuLDnouelIv4WH,193.155,4.0,The Rock Show,0.83
+0,Jennifer Lopez ,0.708,2001-09-22,0.587,Ja Rule,dance pop,11.0,0.0,1,6MLsahMK3VvH9NUwXOktdS,83.46,4.0,I'm Real,0.554
+1,Alicia Keys,0.653,2001-09-22,0.609,none,hip pop,11.0,0.0,2,0KQx6HOpJueiSkztcS0r7D,95.982,3.0,Fallin',0.482
+2,Jagged Edge With Nelly,2.0,2001-09-22,2.0,none,NA,2.0,2.0,3,NA,2.0,2.0,Where The Party At,2.0
+3,Blu Cantrell,0.7,2001-09-22,0.774,none,hip pop,5.0,0.0,4,4zYTZvtcww7OWKie7fxA9E,90.0,4.0,Hit 'Em Up Style (Oops!),0.652
+4,Janet,0.729,2001-09-22,0.914,none,dance pop,2.0,1.0,5,3cNtjgYi1Z6zR35fOiNtuZ,127.907,4.0,Someone To Call My Lover,0.921
+5,Usher,0.657,2001-09-22,0.629,none,atl hip hop,6.0,1.0,6,2QsZVnbWVSjKMXK6K3uRBL,93.985,4.0,U Remind Me,0.726
+6,Staind,0.509,2001-09-22,0.774,none,alternative metal,6.0,1.0,7,25CMmGsl22APKhfuj4Tp7j,116.529,4.0,It's Been Awhile,0.0824
+7,Eve ,0.909,2001-09-22,0.539,Gwen Stefani,dance pop,8.0,0.0,8,3RmKpob8xzv1pzHEQrMJah,90.038,4.0,Let Me Blow Ya Mind,0.869
+8,Mary J. Blige,0.925,2001-09-22,0.56,none,dance pop,8.0,0.0,9,3aw9iWUQ3VrPQltgwvN9Xu,92.895,4.0,Family Affair,0.966
+9,Michael Jackson,0.854,2001-09-22,0.673,none,pop,4.0,0.0,10,1Lhwn4PqeGpM4LTVUowW76,95.0,4.0,You Rock My World,0.955
+10,Lifehouse,0.531,2001-09-22,0.855,none,alternative metal,1.0,1.0,11,0wqOReZDnrefefEsrIGeR4,124.578,4.0,Hanging By A Moment,0.424
+11,Train,2.0,2001-09-22,2.0,none,NA,2.0,2.0,12,NA,2.0,2.0,Drops Of Jupiter (Tell Me),2.0
+12,JAY-Z,2.0,2001-09-22,2.0,none,NA,2.0,2.0,13,NA,2.0,2.0,Izzo (H.O.V.A.),2.0
+13,Ginuwine,0.562,2001-09-22,0.594,none,dance pop,3.0,0.0,14,0Uyh92tLyb9JawG8lmWCzJ,62.876,4.0,Differences,0.423
+14,"Missy ""Misdemeanor"" Elliott",2.0,2001-09-22,2.0,none,NA,2.0,2.0,15,NA,2.0,2.0,One Minute Man,2.0
+15,Craig David,0.683,2001-09-22,0.748,none,dance pop,8.0,1.0,16,0UzsDmdpw0Q14KU4hieQss,132.486,4.0,Fill Me In,0.828
+16,112,0.677,2001-09-22,0.52,none,atl hip hop,4.0,0.0,17,2SLZ2rX5773RS16mcqBxG7,203.862,4.0,Peaches & Cream,0.768
+17,Sugar Ray,0.677,2001-09-22,0.771,none,alternative metal,4.0,1.0,18,3eWxADd1CLwJVhyPzrCpl8,99.91,4.0,When It's Over,0.936
+18,Afroman,0.8,2001-09-22,0.339,none,gangster rap,7.0,1.0,19,0rRboI6IRuGx56Dq3UdYY4,165.982,4.0,Because I Got High,0.844
+19,Trick Daddy,0.933,2001-09-22,0.562,none,crunk,11.0,1.0,20,6j2aNuhJJUnRj6UHcvn5PI,139.981,4.0,I'm A Thug,0.587
+20,The Isley Brothers ,0.697,2001-09-22,0.447,Ronald Isley,classic soul,4.0,0.0,21,7HjJQunSPwkXXVnGeItUEH,113.034,4.0,Contagious,0.207
+21,Incubus,0.645,2001-09-22,0.792,none,alternative metal,4.0,0.0,22,7nnWIPM5hwE3DaUBkvOIpy,90.565,4.0,Drive,0.666
+22,O-Town,0.641,2001-09-22,0.453,none,boy band,0.0,1.0,23,0WdaRmHBMhUoLPqHLdb9yg,126.872,4.0,All Or Nothing,0.216
+23,Blake Shelton,0.605,2001-09-22,0.609,none,contemporary country,7.0,1.0,24,2WQAknZHrJAEQOFXe0F44P,119.914,4.0,Austin,0.275
+24,Dave Matthews Band,0.406,2001-09-22,0.73,none,jam band,9.0,1.0,25,65KzDXZm9aQt8sA1k0ZVG3,170.032,4.0,The Space Between,0.207
+25,Cyndi Thomson,0.503,2001-09-22,0.671,none,contemporary country,1.0,1.0,26,2YhdP9Wq1yH2pshQ6sWnHo,140.115,4.0,What I Really Meant To Say,0.381
+26,Enya,0.418,2001-09-22,0.249,none,celtic,3.0,1.0,27,6FLwmdmW77N1Pxb1aWsZmO,82.803,4.0,Only Time,0.213
+27,Aaliyah,0.684,2001-09-22,0.642,none,NA,7.0,1.0,28,3Q6qrj7HIgu9fxhHBkfmdi,93.011,4.0,Rock The Boat,0.584
+28,Fabolous ,0.916,2001-09-22,0.821,Nate Dogg,dance pop,4.0,0.0,29,7K4Aq4awgYvDKEJdEvvl4j,90.04,4.0,Can't Deny It,0.592
+29,Smash Mouth,0.562,2001-09-22,0.967,none,alternative rock,6.0,1.0,30,1RC5Mb0VhnlhnMlFDnrvE0,82.388,4.0,I'm A Believer,0.869
+30,Ja Rule ,0.88,2001-09-22,0.766,Case,dance pop,6.0,1.0,31,0UZ5D7IZkiR3ZUYl6AK0do,106.034,4.0,Livin' It Up,0.658
+31,Toby Keith,0.674,2001-09-22,0.863,none,contemporary country,7.0,1.0,32,6CBRI05fAHw76JqDk2IRkK,123.872,4.0,I'm Just Talkin' About Tonight,0.821
+32,Uncle Kracker,0.817,2001-09-22,0.585,none,contemporary country,5.0,1.0,33,4KoecuyOpZaNFZ0UqVsllc,105.014,4.0,Follow Me,0.916
+33,Ludacris ,0.867,2001-09-22,0.692,Nate Dogg,atl hip hop,9.0,0.0,34,3lcC9CnN7Rpo1ugATzmYjY,101.027,4.0,Area Codes,0.637
+34,City High,0.732,2001-09-22,0.793,none,hip pop,7.0,1.0,35,1tJkic0TURTCXw3rBhYgWu,95.918,4.0,What Would You Do?,0.821
+35,The Wiseguys,0.688,2001-09-22,0.979,none,big beat,1.0,0.0,36,08Ty4imIKiJwamGWHuW0y8,119.901,4.0,Start The Commotion,0.958
+36,Michelle Branch,0.523,2001-09-22,0.828,none,candy pop,1.0,1.0,37,1u0l8zWpQeMYStFkc2mLD7,96.952,4.0,Everywhere,0.476
+37,Nelly Furtado,0.712,2001-09-22,0.673,none,canadian pop,2.0,1.0,38,7sVvY1tEvk5VfitXX2PDOk,90.164,4.0,Turn Off The Light,0.696
+38,3 Doors Down,0.487,2001-09-22,0.702,none,alternative metal,7.0,1.0,39,3PbHle8KhJp6GuO1jLdEmQ,95.973,4.0,Be Like That,0.306
+39,Bubba Sparxxx,0.751,2001-09-22,0.836,none,atl hip hop,6.0,1.0,40,3NOq1Gpiy4KwDni8NhOmHQ,90.846,4.0,Ugly,0.67
+40,Tim McGraw,2.0,2001-09-22,2.0,none,NA,2.0,2.0,41,NA,2.0,2.0,Angry All The Time,2.0
+41,Alan Jackson,0.726,2001-09-22,0.631,none,contemporary country,11.0,0.0,42,6ej1QJ8eIYmhsyTlvgDajy,124.711,4.0,Where I Come From,0.746
+42,Alien Ant Farm,0.647,2001-09-22,0.964,none,alternative metal,9.0,0.0,43,5z6xHjCZr7a7AIcy8sPBKy,126.942,4.0,Smooth Criminal,0.875
+43,LFO,0.689,2001-09-22,0.922,none,boy band,11.0,1.0,44,3uD4aRM8QoEAAhwpOke7QU,103.975,4.0,Every Other Time,0.72
+44,Brooks,0.512,2001-09-22,0.886,Dunn,contemporary country,4.0,1.0,45,3e41nkMyqcAwaQCXJVj87G,137.764,4.0,Only In America,0.693
+45,"P. Diddy, Black Rob",2.0,2001-09-22,2.0,Mark Curry,NA,2.0,2.0,46,NA,2.0,2.0,Bad Boy For Life,2.0
+46,Trisha Yearwood,0.371,2001-09-22,0.467,none,contemporary country,6.0,1.0,47,5ypO2aV9FHp4WulbTXepBx,137.852,4.0,I Would've Loved You Anyway,0.307
+47,Dido,0.722,2001-09-22,0.595,none,dance pop,1.0,0.0,48,751gBcu62kORDelX7FV0mM,79.98,4.0,Thank You,0.738
+48,Petey Pablo,0.735,2001-09-22,0.844,none,crunk,1.0,1.0,49,02GwPAncasVL82yC7y2hmN,156.069,4.0,Raise Up,0.742
+49,R. Kelly,0.737,2001-09-22,0.258,none,NA,10.0,1.0,50,7cFQFr1VpkSp3BTIn7X719,61.028,4.0,Feelin' On Yo Booty,0.83
+50,Willa Ford,0.647,2001-09-22,0.818,none,NA,9.0,0.0,51,6f67kjvFmXZTA47K8JNVBU,180.019,4.0,I Wanna Be Bad,0.816
+51,Toya,0.781,2001-09-22,0.583,none,hip pop,6.0,0.0,52,0NdEFLohwfZpyncrBCq1ZY,156.264,4.0,I Do!!,0.91
+52,Five For Fighting,0.382,2001-09-22,0.416,none,acoustic pop,0.0,1.0,53,3TwtrR1yNLY1PMPsrGQpOp,102.089,4.0,Superman (It's Not Easy),0.125
+53,Maxwell,0.695,2001-09-22,0.454,none,dance pop,9.0,1.0,54,0tXq1ob3ysGZN2oK1abtyp,127.986,4.0,Lifetime,0.496
+54,Keith Urban,0.496,2001-09-22,0.94,none,australian country,2.0,1.0,55,7qLQR9T8vL638MbPYCDAFk,158.967,4.0,Where The Blacktop Ends,0.95
+55,Phil Vassar,0.725,2001-09-22,0.733,none,contemporary country,0.0,1.0,56,23qDMWnwf8p0pr5slljB6i,100.311,4.0,Six-Pack Summer,0.843
+56,Gorillaz,0.663,2001-09-22,0.694,none,alternative hip hop,10.0,0.0,57,7yMiX7n9SBvadzox8T5jzT,167.964,4.0,Clint Eastwood,0.524
+57,Eve 6,0.583,2001-09-22,0.652,none,alternative metal,7.0,1.0,58,4tgeQrPu5xkrnwErym2JsJ,97.469,4.0,Here's To The Night,0.352
+58,Carolyn Dawn Johnson,2.0,2001-09-22,2.0,none,NA,2.0,2.0,59,NA,2.0,2.0,So Complicated,2.0
+59,Nickelback,0.446,2001-09-22,0.764,none,alternative metal,10.0,1.0,60,0gmbgwZ8iqyMPmXefof8Yf,172.094,4.0,How You Remind Me,0.543
+60,Jamie O'Neal,0.688,2001-09-22,0.834,none,contemporary country,11.0,1.0,61,3ERS3R0knFUvG68792i1r1,96.881,4.0,When I Think About Angels,0.519
+61,Destiny's Child,2.0,2001-09-22,2.0,none,NA,2.0,2.0,62,NA,2.0,2.0,Bootylicious,2.0
+62,'N Sync,2.0,2001-09-22,2.0,none,NA,2.0,2.0,63,NA,2.0,2.0,Gone,2.0
+63,American Hi-Fi,0.389,2001-09-22,0.959,none,pop punk,10.0,1.0,64,1UkMAtLU8NxsddE7j4zXGO,151.334,4.0,Flavor Of The Weak,0.597
+64,Juvenile,0.694,2001-09-22,0.586,none,bounce,6.0,1.0,65,44LFap7VrB4356vfbQOZHg,168.157,4.0,Set It Off,0.725
+65,Fuel,0.279,2001-09-22,0.728,none,alternative metal,9.0,1.0,66,4Tjtydj98uNQ9MwKtEybnT,175.917,4.0,Bad Day,0.2
+66,Jaheim,0.78,2001-09-22,0.572,none,dance pop,0.0,1.0,67,0YHBvFhfCJHyP5qfgtiX1o,100.999,4.0,Just In Case,0.695
+67,Jessica Simpson,0.659,2001-09-22,0.966,none,dance pop,8.0,0.0,68,2TVSa07y6g3HRn4oLWv57M,93.008,4.0,Irresistible,0.687
+68,112,0.912,2001-09-22,0.511,none,atl hip hop,9.0,1.0,69,6uRH1qMz30ZBwwUG0IYE5s,101.628,4.0,Dance With Me,0.611
+69,Reba,0.634,2001-09-22,0.646,none,contemporary country,2.0,1.0,70,0Fvw3mm5xy6CgsOWJWBs8s,88.834,4.0,I'm A Survivor,0.512
+70,Travis Tritt,0.324,2001-09-22,0.574,none,contemporary country,7.0,1.0,71,7dVINsv6faqqTUelZdvd5U,74.101,4.0,Love Of A Woman,0.335
+71,Trick Pony,0.599,2001-09-22,0.776,none,contemporary country,5.0,1.0,72,4ukCThz76ZkKJzTlmDlKpa,117.912,4.0,On A Night Like This,0.831
+72,Sum 41,0.574,2001-09-22,0.911,none,alternative metal,9.0,1.0,73,4KacUpvbA3Mfo05gttTjhN,98.075,4.0,Fat Lip,0.573
+73,Brian McKnight,0.597,2001-09-22,0.439,none,dance pop,6.0,1.0,74,0pCDds54QUooGedfpHUjtW,61.904,4.0,Love Of My Life,0.349
+74,Martina McBride,0.603,2001-09-22,0.707,none,contemporary country,2.0,1.0,75,78Pl98qYK16Egcle5fMx0G,141.837,4.0,When God-Fearin' Women Get The Blues,0.455
+75,Tool,2.0,2001-09-22,2.0,none,NA,2.0,2.0,76,NA,2.0,2.0,Schism,2.0
+76,Incubus,0.246,2001-09-22,0.768,none,alternative metal,9.0,1.0,77,6KtLECDztnah63TNmV4Plw,169.873,4.0,Wish You Were Here,0.35
+77,Gigi D'Agostino,2.0,2001-09-22,2.0,none,NA,2.0,2.0,78,NA,2.0,2.0,I'll Fly With You (L'amour Toujours),2.0
+78,Faith Hill,0.325,2001-09-22,0.532,none,contemporary country,8.0,1.0,79,1s2khOWzC99udpUaPICLJI,129.021,4.0,There You'll Be,0.162
+79,D12,0.762,2001-09-22,0.714,none,detroit hip hop,1.0,1.0,80,4Vx3lC2E2wr3ZlT7pA2jOT,125.28,4.0,Purple Hills,0.696
+80,Christina Milian,2.0,2001-09-22,2.0,none,NA,2.0,2.0,81,NA,2.0,2.0,AM To PM,2.0
+81,Jill Scott,0.725,2001-09-22,0.41,none,funk,1.0,1.0,82,49aUxrufliNDGj7MTm7pNU,140.394,4.0,The Way,0.436
+82,Erick Sermon ,0.896,2001-09-22,0.457,Marvin Gaye,alternative hip hop,8.0,0.0,83,2g4SumkFZpHOypfF5xng9Z,100.043,4.0,Music,0.921
+83,Linkin Park,0.58,2001-09-22,0.702,none,alternative metal,4.0,1.0,84,57BrRMwf9LrcmuOsyGilwr,105.076,4.0,Crawling,0.299
+84,Musiq Soulchild ,0.695,2001-09-22,0.637,Ayana,dance pop,1.0,1.0,85,4lyjlRP5xoJKsMqwiz7558,77.946,4.0,Girl Next Door,0.75
+85,Luther Vandross,0.752,2001-09-22,0.575,none,disco,8.0,1.0,86,650M98AP1WgRo1jJ0snmoI,86.004,4.0,Take You Out,0.569
+86,Backstreet Boys,0.58,2001-09-22,0.729,none,boy band,4.0,0.0,87,4XRUKxDIn28c7uHEzbGFgj,80.061,4.0,More Than That,0.483
+87,Violator ,0.931,2001-09-22,0.484,Busta Rhymes,NA,5.0,0.0,88,3xuobJ0EyP0Boajt7p8xWq,100.967,4.0,What It Is,0.664
+88,Jo Dee Messina,2.0,2001-09-22,2.0,none,NA,2.0,2.0,89,NA,2.0,2.0,Downtime,2.0
+89,Dream,0.662,2001-09-22,0.926,none,girl group,8.0,1.0,90,1s8MNZEUhMRlCJiFzHCkTY,78.053,4.0,This Is Me,0.918
+90,Ian Van Dahl ,0.572,2001-09-22,0.863,Marsha,bubble trance,0.0,0.0,91,1AyMm0UfxY4eKHdRvZxdHB,140.021,4.0,Castles In The Sky,0.681
+91,Coo Coo Cal,0.803,2001-09-22,0.955,none,NA,6.0,0.0,92,6wG3PktG367TkEPvWe6DkY,95.289,4.0,My Projects,0.814
+92,Usher,0.816,2001-09-22,0.5,none,atl hip hop,1.0,1.0,93,7J41dYQolQJEtj3UmKLu5r,124.037,4.0,U Got It Bad,0.649
+93,Darude,0.539,2001-09-22,0.98,none,eurodance,11.0,0.0,94,24CXuh2WNpgeSYUOvz14jk,136.087,4.0,Sandstorm,0.522
+94,Mariah Carey ,2.0,2001-09-22,2.0,Cameo,NA,2.0,2.0,95,NA,2.0,2.0,Loverboy,2.0
+95,Chris Cagle,0.47,2001-09-22,0.794,none,contemporary country,1.0,1.0,96,1FPdKaYo5DK8oxCwkUq0GS,159.983,4.0,Laredo,0.673
+96,Jimmy Cozier,2.0,2001-09-22,2.0,none,NA,2.0,2.0,97,NA,2.0,2.0,She's All I Got,2.0
+97,Babyface,0.745,2001-09-22,0.451,none,dance pop,11.0,0.0,98,4AFhkn04YASMuvUxVMJKmW,143.908,4.0,What If,0.481
+98,Lil' Wayne ,0.878,2001-09-22,0.688,"Baby, Mack 10",hip hop,9.0,0.0,99,2mUiyw2DFg4tNgsRkY1NCp,99.898,4.0,Shine,0.667
+99,Blink-182,0.41,2001-09-22,0.959,none,modern rock,9.0,1.0,100,2ydUT1pFhuLDnouelIv4WH,193.155,4.0,The Rock Show,0.83

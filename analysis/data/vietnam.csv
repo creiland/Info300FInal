@@ -1,0 +1,201 @@
+,artist,danceability,date,energy,featuring,genre,key,mode,rank,spotifyID,tempo,timesignature,track,valence
+0,The Beatles,0.59,1964-08-08,0.805,none,british invasion,0.0,1.0,1,5J2CHimS7dWYMImCHkEFaJ,138.514,4.0,A Hard Day's Night,0.797
+1,Dean Martin,0.26,1964-08-08,0.49,none,adult standards,3.0,0.0,2,78VG6M1i7JQXBdygmWFwye,80.599,4.0,Everybody Loves Somebody,0.399
+2,The Supremes,0.582,1964-08-08,0.636,none,adult standards,0.0,1.0,3,5uES1C2NgkdrNHiCwf9jRr,135.769,4.0,Where Did Our Love Go,0.715
+3,Jan,0.478,1964-08-08,0.817,Dean,adult standards,3.0,1.0,4,4F2w3xgfaVJdCSAqDtJULv,145.946,4.0,The Little Old Lady (From Pasadena),0.943
+4,The 4 Seasons ,0.452,1964-08-08,0.57,"the ""Sound of Frankie Valli""",adult standards,5.0,1.0,5,6BQVbqCKuROQNvc5WtwiPG,109.954,4.0,Rag Doll,0.677
+5,Dusty Springfield,0.679,1964-08-08,0.38,none,adult standards,11.0,1.0,6,7yr4IstGuyLUIYYPUu9xQh,108.133,4.0,Wishin' And Hopin',0.728
+6,The Drifters,0.747,1964-08-08,0.226,none,adult standards,7.0,1.0,7,65jrjEhWfAvysKfnojk1i0,123.789,4.0,Under The Boardwalk,0.778
+7,Roger Miller,0.564,1964-08-08,0.378,none,country gospel,9.0,1.0,8,20iH1uibQIUqNFk3wzG7AG,197.325,4.0,Dang Me,0.687
+8,The Jelly Beans,0.512,1964-08-08,0.604,none,brill building pop,1.0,1.0,9,4lvd9RUYyT5BGG1URmeUJz,121.899,4.0,I Wanna Love Him So Bad,0.564
+9,The Beach Boys,0.39,1964-08-08,0.625,none,brill building pop,9.0,0.0,10,3v9xlH6BpmRbqL7hgNJhfT,144.338,4.0,I Get Around,0.514
+10,Stan Getz/Astrud Gilberto,2.0,1964-08-08,2.0,none,NA,2.0,2.0,11,NA,2.0,2.0,The Girl From Ipanema,2.0
+11,Johnny Rivers,0.614,1964-08-08,0.794,none,brill building pop,4.0,1.0,12,5QqdnAVnNCfWp9CZ3pi5a0,90.653,4.0,Memphis,0.646
+12,Bobby Freeman,0.58,1964-08-08,0.575,none,doo-wop,5.0,0.0,13,7LAMmINm2WrXyvFAD1iVnD,78.797,4.0,C'mon And Swim,0.912
+13,Nancy Wilson,0.326,1964-08-08,0.441,none,adult standards,5.0,1.0,14,4YkN3JlceD5n2aMqL1kFnH,208.072,3.0,(You Don't Know) How Glad I Am,0.622
+14,Peter And Gordon,0.589,1964-08-08,0.787,none,brill building pop,4.0,0.0,15,7hW7DZ42AY4suLWXymcnXe,131.584,4.0,Nobody I Know,0.795
+15,The Dave Clark Five,0.717,1964-08-08,0.696,none,karaoke,9.0,0.0,16,5Oiss8oLizVFliNQU4FAaY,165.732,4.0,Can't You See That She's Mine,0.948
+16,The Impressions,0.635,1964-08-08,0.536,none,brill building pop,1.0,0.0,17,5mDEEfMs1fHTjoEffGvnvr,66.757,3.0,Keep On Pushing,0.727
+17,The Dixie Cups,0.587,1964-08-08,0.361,none,brill building pop,0.0,1.0,18,27M1TykdEo1TQc00E6gi0f,125.5,4.0,People Say,0.868
+18,Jimmy Hughes,0.583,1964-08-08,0.508,none,soul,4.0,1.0,19,1tG3zCppK6MN013nd36B3E,93.848,3.0,Steal Away,0.499
+19,The Ventures,0.485,1964-08-08,0.886,none,lounge,0.0,1.0,20,7lDboGMcLnBlmFipnaNOdC,149.074,1.0,Walk-Don't Run '64,0.653
+20,Gerry And The Pacemakers,0.617,1964-08-08,0.711,none,adult standards,9.0,1.0,21,5eEo0EILtjuK2yWZnVddCc,142.266,4.0,How Do You Do It?,0.963
+21,The Dave Clark Five,0.596,1964-08-08,0.58,none,NA,7.0,1.0,22,1dd9iqRXvxHLcDwHQcYZzj,123.313,4.0,Because,0.664
+22,Del Shannon,0.443,1964-08-08,0.936,none,adult standards,9.0,1.0,23,5NkT19r4Y4MjxnTrcKudB8,146.886,4.0,Handy Man,0.942
+23,The Rolling Stones,0.673,1964-08-08,0.78,none,karaoke,11.0,1.0,24,5n4jYHakT92Ia0005tNYPn,122.04,4.0,Tell Me (You're Coming Back),0.323
+24,The Beatles,0.596,1964-08-08,0.727,none,british invasion,4.0,1.0,25,1x7O7zaDSsAYRPEljPppBx,80.059,4.0,Ain't She Sweet,0.736
+25,Cilla Black,0.388,1964-08-08,0.368,none,adult standards,1.0,1.0,26,2hWfpElGMOzQavDEgVbtLz,95.735,3.0,You're My World,0.466
+26,The Miracles,0.606,1964-08-08,0.658,none,adult standards,2.0,1.0,27,2kRjJbZDhbrlkO9wDfAwqt,111.452,4.0,I Like It Like That,0.658
+27,Gene Chandler,0.551,1964-08-08,0.401,none,brill building pop,1.0,1.0,28,6tsjCzciIajxisQtbUkOUa,74.527,4.0,Just Be True,0.759
+28,The Ray Charles Singers,2.0,1964-08-08,2.0,none,NA,2.0,2.0,29,NA,2.0,2.0,Al-Di-La,2.0
+29,Marvin Gaye,0.654,1964-08-08,0.397,none,classic soul,10.0,1.0,30,34Ibs5Fkbs4QF3uqkzm2oo,108.527,4.0,Try It Baby,0.711
+30,Al (He's the King) Hirt,2.0,1964-08-08,2.0,none,NA,2.0,2.0,31,NA,2.0,2.0,Sugar Lips,2.0
+31,The Premiers,0.488,1964-08-08,0.897,none,classic garage rock,6.0,1.0,32,4J0aAZIzCpgFO9ejrNj6Mb,122.745,4.0,Farmer John,0.508
+32,The Bachelors,0.255,1964-08-08,0.439,none,brill building pop,2.0,1.0,33,6Ht8qiilFu3IyrM2DUckc6,203.346,3.0,I Believe,0.524
+33,The Ronettes,0.462,1964-08-08,0.714,none,adult standards,1.0,1.0,34,1XQOj2js9ridhhuRVnpKB0,144.952,4.0,Do I Love You?,0.381
+34,Elvis Presley With The Jordanaires,2.0,1964-08-08,2.0,none,NA,2.0,2.0,35,NA,2.0,2.0,Such A Night,2.0
+35,Barbra Streisand,0.481,1964-08-08,0.436,none,adult standards,7.0,1.0,36,0s7UEtczBGK68zYCi1y6W8,95.105,4.0,People,0.27
+36,Sam Cooke,0.674,1964-08-08,0.628,none,adult standards,2.0,1.0,37,4UcxTnA6C5vCW79PIZ38Vx,119.443,4.0,Good Times,0.914
+37,Earl-Jean,0.545,1964-08-08,0.657,none,NA,3.0,1.0,38,3EfVzkwQkJm26BM6rywtMj,121.386,4.0,I'm Into Somethin' Good,0.793
+38,The Searchers,0.539,1964-08-08,0.682,none,adult standards,6.0,1.0,39,79JSK9KJq20yINUKx0feVz,122.173,4.0,Don't Throw Your Love Away,0.803
+39,The Beatles,0.767,1964-08-08,0.331,none,british invasion,1.0,0.0,40,65vdMBskhx3akkG9vQlSH1,113.312,4.0,And I Love Her,0.636
+40,Millie Small,0.701,1964-08-08,0.444,none,rock steady,2.0,1.0,41,4yb9nJL8YatoQbz6YPB3hl,132.542,4.0,My Boy Lollipop,0.964
+41,Patty,0.597,1964-08-08,0.47,The Emblems,NA,5.0,1.0,42,1pVFchEqnrpIEtuGrB4srT,128.8,4.0,"Mixed-Up, Shook-Up, Girl",0.615
+42,Rene,0.7,1964-08-08,0.378,Rene,tejano,5.0,0.0,43,4G8asO3AOenqqlTzbQfUkg,111.846,4.0,Angelito,0.873
+43,The Beatles,0.643,1964-08-08,0.73,none,british invasion,7.0,1.0,44,01xMiErR26kH1KCif6uEYI,96.711,4.0,I'll Cry Instead,0.96
+44,Gerry And The Pacemakers,0.477,1964-08-08,0.352,none,adult standards,1.0,1.0,45,0ZMMtH875IR2TfkyC4PolD,106.773,4.0,Don't Let The Sun Catch You Crying,0.478
+45,Billy J. Kramer With The Dakotas,2.0,1964-08-08,2.0,none,NA,2.0,2.0,46,NA,2.0,2.0,I'll Keep You Satisfied,2.0
+46,The Chartbusters,0.578,1964-08-08,0.893,none,NA,2.0,1.0,47,0ZRLoRTvbwPRAjUiU4fvBa,83.858,4.0,She's The One,0.871
+47,The Marvelettes,0.604,1964-08-08,0.858,none,brill building pop,2.0,0.0,48,2hS2lJrCKNWJfKZdaxzjS9,125.35,4.0,You're My Remedy,0.908
+48,Jerry Wallace,0.593,1964-08-08,0.324,none,country gospel,11.0,1.0,49,0YqvyfzMgDHwZmDQQO4rwK,118.94,4.0,In The Misty Moonlight,0.669
+49,Lesley Gore,0.621,1964-08-08,0.458,none,adult standards,5.0,1.0,50,4GTSIdVIP1zCCqXnHPewrZ,123.279,4.0,Maybe I Know,0.787
+50,The Kingsmen,0.467,1964-08-08,0.673,none,NA,8.0,1.0,51,1O44CWBo8UGvxj4QN4CJtb,127.943,4.0,Little Latin Lupe Lu,0.934
+51,Irma Thomas,0.389,1964-08-08,0.29,none,classic soul,2.0,1.0,52,6L2woktiAuW35BrcROmhW5,185.005,3.0,Anyone Who Knows What Love Is (will understand),0.158
+52,Bobby Bland,0.245,1964-08-08,0.535,none,blues,5.0,1.0,53,3OlX7mBRRpgPOqxZqNSE4J,101.049,4.0,Share Your Love With Me,0.438
+53,Connie Francis,0.618,1964-08-08,0.712,none,adult standards,7.0,0.0,54,0FtZXH7ACUrxI8iCBR0mNu,131.002,4.0,Looking For Love,0.962
+54,Boston Pops Orchestra Arthur Fiedler,2.0,1964-08-08,2.0,none,NA,2.0,2.0,55,NA,2.0,2.0,I Want To Hold Your Hand,2.0
+55,The Tams,0.523,1964-08-08,0.5,none,beach music,10.0,1.0,56,3UbCQtvvWzivfkCnNxrOoi,134.819,4.0,Hey Girl Don't Bother Me,0.621
+56,Vic Dana,0.336,1964-08-08,0.41,none,NA,10.0,1.0,57,4ep8BNCyKcSj2zFbeUenSv,80.305,4.0,Love Is All We Need,0.515
+57,Ray Charles,2.0,1964-08-08,2.0,none,NA,2.0,2.0,58,NA,2.0,2.0,A Tear Fell,2.0
+58,The Beatles,0.682,1964-08-08,0.444,none,british invasion,7.0,1.0,59,3pU1CUgPiFfxPCpscwIwQR,130.704,4.0,I Should Have Known Better,0.91
+59,The Animals,0.295,1964-08-08,0.584,none,album rock,9.0,0.0,60,7BY005dacJkbO6EPiOh2wb,117.2,3.0,House Of The Rising Sun,0.228
+60,Siw Malmkvist-Umberto Marcato,2.0,1964-08-08,2.0,none,NA,2.0,2.0,61,NA,2.0,2.0,Sole Sole Sole,2.0
+61,Ray Charles,2.0,1964-08-08,2.0,none,NA,2.0,2.0,62,NA,2.0,2.0,No One To Cry To,2.0
+62,The Shirelles,0.706,1964-08-08,0.151,none,adult standards,6.0,1.0,63,3AQzEgGJ0VfJDedxatbgi7,102.429,4.0,Thank You Baby,0.602
+63,Gene Pitney,0.564,1964-08-08,0.74,none,adult standards,6.0,1.0,64,1KLqvYkYI5RrjZGgo9Jh0S,129.012,4.0,It Hurts To Be In Love,0.712
+64,Eydie Gorme,2.0,1964-08-08,2.0,none,NA,2.0,2.0,65,NA,2.0,2.0,I Want You To Meet My Baby,2.0
+65,Chuck Berry,0.577,1964-08-08,0.845,none,christmas,7.0,1.0,66,3WBkjGPK5489TmmR0GoU8W,157.266,4.0,You Never Can Tell,0.914
+66,Allan Sherman,2.0,1964-08-08,2.0,none,NA,2.0,2.0,67,NA,2.0,2.0,"Hello Mudduh, Hello Fadduh! (A Letter From Camp) (New 1964 Version)",2.0
+67,The Rolling Stones,0.34,1964-08-08,0.922,none,album rock,7.0,1.0,68,2rFoyoRGNu5XiHngfVLpKL,185.161,4.0,It's All Over Now,0.343
+68,Solomon Burke,0.625,1964-08-08,0.548,none,christmas,1.0,1.0,69,4NL8D4RQsC6ux6eI3m3Lg5,75.756,4.0,Everybody Needs Somebody To Love,0.879
+69,Jackie Ross,0.624,1964-08-08,0.593,none,chicago soul,7.0,1.0,70,0UHPn6AkofG7E2VRZd7Z5h,116.334,4.0,Selfish One,0.776
+70,Johnny Tillotson,0.37,1964-08-08,0.261,none,adult standards,6.0,1.0,71,14IH7JQeFY8fUWqDMfrWYW,82.172,4.0,Worry,0.475
+71,Ronny And The Daytonas,0.482,1964-08-08,0.615,none,bubblegum pop,4.0,1.0,72,5GvVxxwieOVIlZaCU9bG0R,83.117,4.0,G.T.O.,0.932
+72,Millie Small,2.0,1964-08-08,2.0,none,NA,2.0,2.0,73,NA,2.0,2.0,Sweet William,2.0
+73,Barbara Lynn,0.498,1964-08-08,0.671,none,brill building pop,9.0,1.0,74,4rqZUbzWuy93LEr5h8Wj2c,137.839,4.0,Oh! Baby (We Got A Good Thing Goin'),0.735
+74,Ruby And The Romantics,0.615,1964-08-08,0.682,none,rhythm and blues,10.0,1.0,75,2bC4lZSV2Ulp3v6XZr8CrP,106.774,4.0,Baby Come Home,0.928
+75,Brenda Holloway,0.463,1964-08-08,0.466,none,classic soul,11.0,0.0,76,1WetFltHqdcEaVUJ2EvRc8,152.764,3.0,I'll Always Love You,0.521
+76,Carla Thomas,0.476,1964-08-08,0.323,none,classic soul,10.0,1.0,77,76xLSPljcUsZlZCuJ23I9K,158.911,3.0,I've Got No Time To Lose,0.521
+77,The Ray Conniff Singers,0.588,1964-08-08,0.622,none,adult standards,0.0,1.0,78,6Reiz5tx7ubJ3G8rkNzYPB,118.338,4.0,Invisible Tears,0.856
+78,Bruce,0.476,1964-08-08,0.633,Terry,NA,5.0,1.0,79,4Z7iDFkWNxRfjd9jvLgbbI,77.69,4.0,Summer Means Fun,0.964
+79,The Greenwood County Singers,2.0,1964-08-08,2.0,none,NA,2.0,2.0,80,NA,2.0,2.0,Frankie And Johnny,2.0
+80,George Martin And His Orch.,2.0,1964-08-08,2.0,none,NA,2.0,2.0,81,NA,2.0,2.0,Ringo's Theme (This Boy),2.0
+81,Little Richard,0.517,1964-08-08,0.847,none,adult standards,10.0,1.0,82,1OFrZFdH7nNBd2DJCsX7Vd,77.724,4.0,Bama Lama Bama Loo,0.899
+82,The Chiffons,0.446,1964-08-08,0.348,none,adult standards,7.0,1.0,83,0CEIKXrsriBeQWTTE4eJvt,113.917,4.0,Sailor Boy,0.398
+83,The Tokens,0.409,1964-08-08,0.476,none,brill building pop,2.0,1.0,84,3TpkE4WMC7era1Nq5waLCa,108.929,4.0,He's In Town,0.439
+84,Dionne Warwick,0.273,1964-08-08,0.225,none,adult standards,5.0,1.0,85,3gLe1SDGLShBTQr0BAwDKl,72.588,4.0,A House Is Not A Home,0.246
+85,Neil Sedaka,0.606,1964-08-08,0.661,none,adult standards,2.0,1.0,86,7uNVqVGLikR52Cj0BOFnQ3,119.881,4.0,Sunny,0.866
+86,The Beatles,0.665,1964-08-08,0.31,none,british invasion,2.0,1.0,87,1hgvykolO4kBIEozATmpyj,108.211,4.0,If I Fell,0.568
+87,Bobby Vinton,0.46,1964-08-08,0.196,none,adult standards,0.0,1.0,88,7Dtab9QxjMZYupetS5RBhF,114.034,4.0,Clinging Vine,0.728
+88,Brook Benton,2.0,1964-08-08,2.0,none,NA,2.0,2.0,89,NA,2.0,2.0,A House Is Not A Home,2.0
+89,Brenda Lee,2.0,1964-08-08,2.0,none,NA,2.0,2.0,90,NA,2.0,2.0,When You Loved Me,2.0
+90,The Ramblers,2.0,1964-08-08,2.0,none,NA,2.0,2.0,91,NA,2.0,2.0,Father Sebastian,2.0
+91,The New Christy Minstrels,2.0,1964-08-08,2.0,none,NA,2.0,2.0,92,NA,2.0,2.0,Silly Ol' Summertime,2.0
+92,Ronnie Dove,0.191,1964-08-08,0.397,none,deep adult standards,4.0,1.0,93,5KgZEIpOM83br8d0pfr92W,205.603,3.0,Say You,0.305
+93,Lulu And The Luvers,2.0,1964-08-08,2.0,none,NA,2.0,2.0,94,NA,2.0,2.0,Shout,2.0
+94,Gale Garnett,0.536,1964-08-08,0.351,none,american folk revival,11.0,1.0,95,3WYYzUlLrl4NVNeoKd7MnG,106.73,4.0,We'll Sing In The Sunshine,0.532
+95,The Rip Chords,0.545,1964-08-08,0.572,none,NA,11.0,1.0,96,0t0lQGbNepBQLTmk8HQtMW,134.027,3.0,One Piece Topless Bathing Suit,0.965
+96,The Swinging Blue Jeans,0.623,1964-08-08,0.495,none,adult standards,0.0,1.0,97,0WiKz86jAqiP6ZnuAZv8nz,115.146,4.0,You're No Good,0.883
+97,Bobby Goldsboro,0.65,1964-08-08,0.18,none,adult standards,4.0,0.0,98,7gOC9ra2AE73qWEgtKAQj6,94.203,4.0,Me Japanese Boy I Love You,0.529
+98,Jumpin' Gene Simmons,0.605,1964-08-08,0.632,none,NA,9.0,1.0,99,77dBhsboEbsoO8heaoHlJ8,193.171,4.0,Haunted House,0.98
+99,Bobby Wood,0.37,1964-08-08,0.35,none,NA,5.0,1.0,100,5c8oQiQd2bj1rr5qRqEuPZ,86.74,4.0,If I'm A Fool For Loving You,0.593
+0,Dean Martin,0.26,1964-08-15,0.49,none,adult standards,3.0,0.0,1,78VG6M1i7JQXBdygmWFwye,80.599,4.0,Everybody Loves Somebody,0.399
+1,The Supremes,0.582,1964-08-15,0.636,none,adult standards,0.0,1.0,2,5uES1C2NgkdrNHiCwf9jRr,135.769,4.0,Where Did Our Love Go,0.715
+2,The Beatles,0.59,1964-08-15,0.805,none,british invasion,0.0,1.0,3,5J2CHimS7dWYMImCHkEFaJ,138.514,4.0,A Hard Day's Night,0.797
+3,The 4 Seasons ,0.452,1964-08-15,0.57,"the ""Sound of Frankie Valli""",adult standards,5.0,1.0,4,6BQVbqCKuROQNvc5WtwiPG,109.954,4.0,Rag Doll,0.677
+4,The Drifters,0.747,1964-08-15,0.226,none,adult standards,7.0,1.0,5,65jrjEhWfAvysKfnojk1i0,123.789,4.0,Under The Boardwalk,0.778
+5,Dusty Springfield,0.679,1964-08-15,0.38,none,adult standards,11.0,1.0,6,7yr4IstGuyLUIYYPUu9xQh,108.133,4.0,Wishin' And Hopin',0.728
+6,Jan,0.478,1964-08-15,0.817,Dean,adult standards,3.0,1.0,7,4F2w3xgfaVJdCSAqDtJULv,145.946,4.0,The Little Old Lady (From Pasadena),0.943
+7,Bobby Freeman,0.58,1964-08-15,0.575,none,doo-wop,5.0,0.0,8,7LAMmINm2WrXyvFAD1iVnD,78.797,4.0,C'mon And Swim,0.912
+8,The Jelly Beans,0.512,1964-08-15,0.604,none,brill building pop,1.0,1.0,9,4lvd9RUYyT5BGG1URmeUJz,121.899,4.0,I Wanna Love Him So Bad,0.564
+9,The Animals,0.295,1964-08-15,0.584,none,album rock,9.0,0.0,10,7BY005dacJkbO6EPiOh2wb,117.2,3.0,House Of The Rising Sun,0.228
+10,Nancy Wilson,0.326,1964-08-15,0.441,none,adult standards,5.0,1.0,11,4YkN3JlceD5n2aMqL1kFnH,208.072,3.0,(You Don't Know) How Glad I Am,0.622
+11,The Beach Boys,0.39,1964-08-15,0.625,none,brill building pop,9.0,0.0,12,3v9xlH6BpmRbqL7hgNJhfT,144.338,4.0,I Get Around,0.514
+12,The Ventures,0.485,1964-08-15,0.886,none,lounge,0.0,1.0,13,7lDboGMcLnBlmFipnaNOdC,149.074,1.0,Walk-Don't Run '64,0.653
+13,The Dave Clark Five,0.596,1964-08-15,0.58,none,NA,7.0,1.0,14,1dd9iqRXvxHLcDwHQcYZzj,123.313,4.0,Because,0.664
+14,The Dixie Cups,0.587,1964-08-15,0.361,none,brill building pop,0.0,1.0,15,27M1TykdEo1TQc00E6gi0f,125.5,4.0,People Say,0.868
+15,Gerry And The Pacemakers,0.617,1964-08-15,0.711,none,adult standards,9.0,1.0,16,5eEo0EILtjuK2yWZnVddCc,142.266,4.0,How Do You Do It?,0.963
+16,Jimmy Hughes,0.583,1964-08-15,0.508,none,soul,4.0,1.0,17,1tG3zCppK6MN013nd36B3E,93.848,3.0,Steal Away,0.499
+17,Roger Miller,0.564,1964-08-15,0.378,none,country gospel,9.0,1.0,18,20iH1uibQIUqNFk3wzG7AG,197.325,4.0,Dang Me,0.687
+18,Stan Getz/Astrud Gilberto,2.0,1964-08-15,2.0,none,NA,2.0,2.0,19,NA,2.0,2.0,The Girl From Ipanema,2.0
+19,Gene Chandler,0.551,1964-08-15,0.401,none,brill building pop,1.0,1.0,20,6tsjCzciIajxisQtbUkOUa,74.527,4.0,Just Be True,0.759
+20,The Impressions,0.635,1964-08-15,0.536,none,brill building pop,1.0,0.0,21,5mDEEfMs1fHTjoEffGvnvr,66.757,3.0,Keep On Pushing,0.727
+21,The Beatles,0.596,1964-08-15,0.727,none,british invasion,4.0,1.0,22,1x7O7zaDSsAYRPEljPppBx,80.059,4.0,Ain't She Sweet,0.736
+22,Del Shannon,0.443,1964-08-15,0.936,none,adult standards,9.0,1.0,23,5NkT19r4Y4MjxnTrcKudB8,146.886,4.0,Handy Man,0.942
+23,The Rolling Stones,0.673,1964-08-15,0.78,none,karaoke,11.0,1.0,24,5n4jYHakT92Ia0005tNYPn,122.04,4.0,Tell Me (You're Coming Back),0.323
+24,Peter And Gordon,0.589,1964-08-15,0.787,none,brill building pop,4.0,0.0,25,7hW7DZ42AY4suLWXymcnXe,131.584,4.0,Nobody I Know,0.795
+25,Johnny Rivers,0.614,1964-08-15,0.794,none,brill building pop,4.0,1.0,26,5QqdnAVnNCfWp9CZ3pi5a0,90.653,4.0,Memphis,0.646
+26,The Beatles,0.767,1964-08-15,0.331,none,british invasion,1.0,0.0,27,65vdMBskhx3akkG9vQlSH1,113.312,4.0,And I Love Her,0.636
+27,Elvis Presley With The Jordanaires,2.0,1964-08-15,2.0,none,NA,2.0,2.0,28,NA,2.0,2.0,Such A Night,2.0
+28,The Ray Charles Singers,2.0,1964-08-15,2.0,none,NA,2.0,2.0,29,NA,2.0,2.0,Al-Di-La,2.0
+29,Al (He's the King) Hirt,2.0,1964-08-15,2.0,none,NA,2.0,2.0,30,NA,2.0,2.0,Sugar Lips,2.0
+30,The Dave Clark Five,0.717,1964-08-15,0.696,none,karaoke,9.0,0.0,31,5Oiss8oLizVFliNQU4FAaY,165.732,4.0,Can't You See That She's Mine,0.948
+31,The Miracles,0.606,1964-08-15,0.658,none,adult standards,2.0,1.0,32,2kRjJbZDhbrlkO9wDfAwqt,111.452,4.0,I Like It Like That,0.658
+32,The Chartbusters,0.578,1964-08-15,0.893,none,NA,2.0,1.0,33,0ZRLoRTvbwPRAjUiU4fvBa,83.858,4.0,She's The One,0.871
+33,The Beatles,0.643,1964-08-15,0.73,none,british invasion,7.0,1.0,34,01xMiErR26kH1KCif6uEYI,96.711,4.0,I'll Cry Instead,0.96
+34,Billy J. Kramer With The Dakotas,2.0,1964-08-15,2.0,none,NA,2.0,2.0,35,NA,2.0,2.0,I'll Keep You Satisfied,2.0
+35,Cilla Black,0.388,1964-08-15,0.368,none,adult standards,1.0,1.0,36,2hWfpElGMOzQavDEgVbtLz,95.735,3.0,You're My World,0.466
+36,Patty,0.597,1964-08-15,0.47,The Emblems,NA,5.0,1.0,37,1pVFchEqnrpIEtuGrB4srT,128.8,4.0,"Mixed-Up, Shook-Up, Girl",0.615
+37,Jackie Ross,0.624,1964-08-15,0.593,none,chicago soul,7.0,1.0,38,0UHPn6AkofG7E2VRZd7Z5h,116.334,4.0,Selfish One,0.776
+38,Marvin Gaye,0.654,1964-08-15,0.397,none,classic soul,10.0,1.0,39,34Ibs5Fkbs4QF3uqkzm2oo,108.527,4.0,Try It Baby,0.711
+39,Lesley Gore,0.621,1964-08-15,0.458,none,adult standards,5.0,1.0,40,4GTSIdVIP1zCCqXnHPewrZ,123.279,4.0,Maybe I Know,0.787
+40,The Bachelors,0.255,1964-08-15,0.439,none,brill building pop,2.0,1.0,41,6Ht8qiilFu3IyrM2DUckc6,203.346,3.0,I Believe,0.524
+41,The Premiers,0.488,1964-08-15,0.897,none,classic garage rock,6.0,1.0,42,4J0aAZIzCpgFO9ejrNj6Mb,122.745,4.0,Farmer John,0.508
+42,Rene,0.7,1964-08-15,0.378,Rene,tejano,5.0,0.0,43,4G8asO3AOenqqlTzbQfUkg,111.846,4.0,Angelito,0.873
+43,The Ronettes,0.462,1964-08-15,0.714,none,adult standards,1.0,1.0,44,1XQOj2js9ridhhuRVnpKB0,144.952,4.0,Do I Love You?,0.381
+44,Jerry Wallace,0.593,1964-08-15,0.324,none,country gospel,11.0,1.0,45,0YqvyfzMgDHwZmDQQO4rwK,118.94,4.0,In The Misty Moonlight,0.669
+45,Earl-Jean,0.545,1964-08-15,0.657,none,NA,3.0,1.0,46,3EfVzkwQkJm26BM6rywtMj,121.386,4.0,I'm Into Somethin' Good,0.793
+46,Chuck Berry,0.577,1964-08-15,0.845,none,christmas,7.0,1.0,47,3WBkjGPK5489TmmR0GoU8W,157.266,4.0,You Never Can Tell,0.914
+47,Connie Francis,0.618,1964-08-15,0.712,none,adult standards,7.0,0.0,48,0FtZXH7ACUrxI8iCBR0mNu,131.002,4.0,Looking For Love,0.962
+48,The Tams,0.523,1964-08-15,0.5,none,beach music,10.0,1.0,49,3UbCQtvvWzivfkCnNxrOoi,134.819,4.0,Hey Girl Don't Bother Me,0.621
+49,Ronny And The Daytonas,0.482,1964-08-15,0.615,none,bubblegum pop,4.0,1.0,50,5GvVxxwieOVIlZaCU9bG0R,83.117,4.0,G.T.O.,0.932
+50,The Kingsmen,0.467,1964-08-15,0.673,none,NA,8.0,1.0,51,1O44CWBo8UGvxj4QN4CJtb,127.943,4.0,Little Latin Lupe Lu,0.934
+51,Gene Pitney,0.564,1964-08-15,0.74,none,adult standards,6.0,1.0,52,1KLqvYkYI5RrjZGgo9Jh0S,129.012,4.0,It Hurts To Be In Love,0.712
+52,The Beatles,0.682,1964-08-15,0.444,none,british invasion,7.0,1.0,53,3pU1CUgPiFfxPCpscwIwQR,130.704,4.0,I Should Have Known Better,0.91
+53,The Rolling Stones,0.34,1964-08-15,0.922,none,album rock,7.0,1.0,54,2rFoyoRGNu5XiHngfVLpKL,185.161,4.0,It's All Over Now,0.343
+54,Ray Charles,2.0,1964-08-15,2.0,none,NA,2.0,2.0,55,NA,2.0,2.0,A Tear Fell,2.0
+55,The Newbeats,0.71,1964-08-15,0.546,none,northern soul,2.0,1.0,56,4RJi2cYNOxfklHZZ7foR2y,82.182,4.0,Bread And Butter,0.897
+56,Johnny Tillotson,0.37,1964-08-15,0.261,none,adult standards,6.0,1.0,57,14IH7JQeFY8fUWqDMfrWYW,82.172,4.0,Worry,0.475
+57,Siw Malmkvist-Umberto Marcato,2.0,1964-08-15,2.0,none,NA,2.0,2.0,58,NA,2.0,2.0,Sole Sole Sole,2.0
+58,Vic Dana,0.336,1964-08-15,0.41,none,NA,10.0,1.0,59,4ep8BNCyKcSj2zFbeUenSv,80.305,4.0,Love Is All We Need,0.515
+59,Millie Small,2.0,1964-08-15,2.0,none,NA,2.0,2.0,60,NA,2.0,2.0,Sweet William,2.0
+60,Ray Charles,2.0,1964-08-15,2.0,none,NA,2.0,2.0,61,NA,2.0,2.0,No One To Cry To,2.0
+61,Eydie Gorme,2.0,1964-08-15,2.0,none,NA,2.0,2.0,62,NA,2.0,2.0,I Want You To Meet My Baby,2.0
+62,Bobby Vinton,0.46,1964-08-15,0.196,none,adult standards,0.0,1.0,63,7Dtab9QxjMZYupetS5RBhF,114.034,4.0,Clinging Vine,0.728
+63,Solomon Burke,0.625,1964-08-15,0.548,none,christmas,1.0,1.0,64,4NL8D4RQsC6ux6eI3m3Lg5,75.756,4.0,Everybody Needs Somebody To Love,0.879
+64,George Martin And His Orch.,2.0,1964-08-15,2.0,none,NA,2.0,2.0,65,NA,2.0,2.0,Ringo's Theme (This Boy),2.0
+65,The Marvelettes,0.604,1964-08-15,0.858,none,brill building pop,2.0,0.0,66,2hS2lJrCKNWJfKZdaxzjS9,125.35,4.0,You're My Remedy,0.908
+66,Allan Sherman,2.0,1964-08-15,2.0,none,NA,2.0,2.0,67,NA,2.0,2.0,"Hello Mudduh, Hello Fadduh! (A Letter From Camp) (New 1964 Version)",2.0
+67,Jumpin' Gene Simmons,0.605,1964-08-15,0.632,none,NA,9.0,1.0,68,77dBhsboEbsoO8heaoHlJ8,193.171,4.0,Haunted House,0.98
+68,Brenda Holloway,0.463,1964-08-15,0.466,none,classic soul,11.0,0.0,69,1WetFltHqdcEaVUJ2EvRc8,152.764,3.0,I'll Always Love You,0.521
+69,Johnny Rivers,0.598,1964-08-15,0.551,none,brill building pop,11.0,0.0,70,1kjJZ1cuWV8cBICGmQJcy4,92.573,4.0,Maybelline,0.898
+70,The Ray Conniff Singers,0.588,1964-08-15,0.622,none,adult standards,0.0,1.0,71,6Reiz5tx7ubJ3G8rkNzYPB,118.338,4.0,Invisible Tears,0.856
+71,The Beatles,0.665,1964-08-15,0.31,none,british invasion,2.0,1.0,72,1hgvykolO4kBIEozATmpyj,108.211,4.0,If I Fell,0.568
+72,James Brown And His Orchestra,2.0,1964-08-15,2.0,none,NA,2.0,2.0,73,NA,2.0,2.0,Out Of Sight,2.0
+73,The Tokens,0.409,1964-08-15,0.476,none,brill building pop,2.0,1.0,74,3TpkE4WMC7era1Nq5waLCa,108.929,4.0,He's In Town,0.439
+74,Brenda Lee,2.0,1964-08-15,2.0,none,NA,2.0,2.0,75,NA,2.0,2.0,When You Loved Me,2.0
+75,Carla Thomas,0.476,1964-08-15,0.323,none,classic soul,10.0,1.0,76,76xLSPljcUsZlZCuJ23I9K,158.911,3.0,I've Got No Time To Lose,0.521
+76,The Shirelles,0.706,1964-08-15,0.151,none,adult standards,6.0,1.0,77,3AQzEgGJ0VfJDedxatbgi7,102.429,4.0,Thank You Baby,0.602
+77,The Greenwood County Singers,2.0,1964-08-15,2.0,none,NA,2.0,2.0,78,NA,2.0,2.0,Frankie And Johnny,2.0
+78,Bruce,0.476,1964-08-15,0.633,Terry,NA,5.0,1.0,79,4Z7iDFkWNxRfjd9jvLgbbI,77.69,4.0,Summer Means Fun,0.964
+79,Gale Garnett,0.536,1964-08-15,0.351,none,american folk revival,11.0,1.0,80,3WYYzUlLrl4NVNeoKd7MnG,106.73,4.0,We'll Sing In The Sunshine,0.532
+80,The Chiffons,0.446,1964-08-15,0.348,none,adult standards,7.0,1.0,81,0CEIKXrsriBeQWTTE4eJvt,113.917,4.0,Sailor Boy,0.398
+81,Brook Benton,2.0,1964-08-15,2.0,none,NA,2.0,2.0,82,NA,2.0,2.0,A House Is Not A Home,2.0
+82,Ronnie Dove,0.191,1964-08-15,0.397,none,deep adult standards,4.0,1.0,83,5KgZEIpOM83br8d0pfr92W,205.603,3.0,Say You,0.305
+83,Joe Hinton,0.417,1964-08-15,0.406,none,NA,10.0,1.0,84,5lZ3sezVWHTpmdVbHyMDBT,102.458,3.0,Funny (How Time Slips Away),0.0978
+84,Dionne Warwick,0.273,1964-08-15,0.225,none,adult standards,5.0,1.0,85,3gLe1SDGLShBTQr0BAwDKl,72.588,4.0,A House Is Not A Home,0.246
+85,Jack Jones,0.192,1964-08-15,0.25,none,adult standards,7.0,1.0,86,64wVagLxOUsPiyjRvLnSvM,88.35,4.0,Where Love Has Gone,0.0391
+86,Dionne Warwick,0.669,1964-08-15,0.451,none,adult standards,8.0,1.0,87,0taWJ29dLX8811DhVal4UH,111.284,4.0,You'll Never Get To Heaven (If You Break My Heart),0.541
+87,Bobby Wood,0.37,1964-08-15,0.35,none,NA,5.0,1.0,88,5c8oQiQd2bj1rr5qRqEuPZ,86.74,4.0,If I'm A Fool For Loving You,0.593
+88,The Searchers,2.0,1964-08-15,2.0,none,NA,2.0,2.0,89,NA,2.0,2.0,Some Day We're Gonna Love Again,2.0
+89,Four Tops,0.632,1964-08-15,0.686,none,adult standards,0.0,0.0,90,3aCbwWCYCT3MJjZeUnlcp4,121.414,4.0,Baby I Need Your Loving,0.65
+90,The Ramblers,2.0,1964-08-15,2.0,none,NA,2.0,2.0,91,NA,2.0,2.0,Father Sebastian,2.0
+91,The New Christy Minstrels,2.0,1964-08-15,2.0,none,NA,2.0,2.0,92,NA,2.0,2.0,Silly Ol' Summertime,2.0
+92,Garnet Mimms,0.633,1964-08-15,0.41,The Enchanters,southern soul,7.0,0.0,93,34YeqxJZBuKNzlv26sRlhR,105.703,4.0,A Quiet Place,0.733
+93,Lulu And The Luvers,2.0,1964-08-15,2.0,none,NA,2.0,2.0,94,NA,2.0,2.0,Shout,2.0
+94,Bobby Goldsboro,0.65,1964-08-15,0.18,none,adult standards,4.0,0.0,95,7gOC9ra2AE73qWEgtKAQj6,94.203,4.0,Me Japanese Boy I Love You,0.529
+95,Al Martino,0.24,1964-08-15,0.267,none,adult standards,8.0,1.0,96,1eSaa2H6GMLnTcT7Jb8LzA,106.13,4.0,Always Together,0.241
+96,Chad,0.587,1964-08-15,0.414,Jeremy,brill building pop,9.0,1.0,97,5xM7bDmr2KUynKX6OfZufi,124.016,4.0,A Summer Song,0.497
+97,Booker T.,0.744,1964-08-15,0.399,The MG's,classic soul,5.0,1.0,98,3Q031ckN7rwljKZhEQvvcR,120.142,4.0,Soul Dressing,0.129
+98,Jerry Wallace,2.0,1964-08-15,2.0,none,NA,2.0,2.0,99,NA,2.0,2.0,It's A Cotton Candy World,2.0
+99,Al Martino,0.218,1964-08-15,0.285,none,adult standards,10.0,1.0,100,4I7bSumEvfi0ri5nTOysEM,81.563,3.0,I Can't Get You Out Of My Heart,0.208

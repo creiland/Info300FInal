@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1544570313431.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "648EDE20",
+    "lastKnownWriteTime" : 0,
+    "last_content_update" : 1544570313431,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "65C1E8D1",
+        "caption" : "valence_by_year",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=valence_by_year&cache_key=65C1E8D1",
+        "displayedObservations" : 42,
+        "environment" : "",
+        "object" : "valence_by_year",
+        "preview" : 0,
+        "totalObservations" : 42,
+        "variables" : 2
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

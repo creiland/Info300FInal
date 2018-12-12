@@ -1,0 +1,201 @@
+,artist,danceability,date,energy,featuring,genre,key,mode,rank,spotifyID,tempo,timesignature,track,valence
+0,Roberta Flack,0.477,1973-03-31,0.381,none,adult standards,5.0,0.0,1,3gsCAGsWr6pUm1Vy7CPPob,121.568,4.0,Killing Me Softly With His Song,0.329
+1,Deodato,0.448,1973-03-31,0.763,none,bossa nova jazz,0.0,1.0,2,6ywm0ilJ9ItgXRDg0yrJP1,117.938,4.0,Also Sprach Zarathustra (2001),0.513
+2,Gladys Knight And The Pips,0.525,1973-03-31,0.407,none,adult standards,5.0,1.0,3,76Gcy0ltMutGaK8oizgdrF,140.52,4.0,Neither One Of Us (Wants To Be The First To Say Goodbye),0.67
+3,The O'Jays,0.744,1973-03-31,0.568,none,classic soul,0.0,1.0,4,28285KFbyCq8sJofn58qlD,122.657,4.0,Love Train,0.687
+4,Four Tops,0.54,1973-03-31,0.553,none,adult standards,9.0,0.0,5,2mhFroJn2fNDzWc7DUHSVR,98.785,4.0,Ain't No Woman (Like The One I've Got),0.874
+5,The Stylistics,0.582,1973-03-31,0.299,none,adult standards,4.0,1.0,6,1F3n7rwgq0v4d2iW6IyV74,79.422,3.0,Break Up To Make Up,0.322
+6,Edward Bear,0.545,1973-03-31,0.421,none,classic canadian rock,6.0,1.0,7,5CNdxdDDEjZGmf0ho9oMDb,128.75,4.0,Last Song,0.717
+7,Anne Murray,0.512,1973-03-31,0.379,none,adult standards,11.0,0.0,8,5lQxMlCMTzCj3j4vyzdl8T,144.687,4.0,Danny's Song,0.522
+8,Carpenters,0.488,1973-03-31,0.282,none,adult standards,3.0,1.0,9,1W0eyV8mC2IaGkYEbeUpJy,139.905,4.0,Sing,0.329
+9,Vicki Lawrence,0.455,1973-03-31,0.417,none,NA,5.0,0.0,10,2VRpkHq6V8aiqdPsQqWI3e,172.015,4.0,The Night The Lights Went Out In Georgia,0.611
+10,Al Green,0.683,1973-03-31,0.392,none,classic soul,10.0,1.0,11,2THyR0on3DrsfXBtRrLZgK,99.79,4.0,Call Me (Come Back Home),0.679
+11,Deliverance/Eric Weissberg,2.0,1973-03-31,2.0,Steve Mandell,NA,2.0,2.0,12,NA,2.0,2.0,Dueling Banjos,2.0
+12,Dawn ,0.559,1973-03-31,0.615,Tony Orlando,NA,5.0,1.0,13,12UzVR0M7asW2MHAZRJk0I,87.601,4.0,Tie A Yellow Ribbon Round The Ole Oak Tree,0.68
+13,Dr. Hook And The Medicine Show,0.648,1973-03-31,0.472,none,bubblegum pop,9.0,1.0,14,3JYjHeKY0OSnkQGJGvw7P8,142.184,4.0,"The Cover Of ""Rolling Stone""",0.907
+14,Bread,0.326,1973-03-31,0.0902,none,adult standards,7.0,1.0,15,5ZEMPZdUIiJSxT4gIJOIpB,137.611,4.0,Aubrey,0.218
+15,Loudon Wainwright III,0.633,1973-03-31,0.655,none,alternative country,7.0,1.0,16,3NWpG50DNlO8IiVdx6Ig3w,146.868,4.0,Dead Skunk,0.967
+16,David Bowie,0.299,1973-03-31,0.443,none,art rock,0.0,1.0,17,72Z17vmmeQKAg8bptWvpVG,139.539,4.0,Space Oddity,0.434
+17,The Temptations,0.792,1973-03-31,0.391,none,brill building pop,10.0,0.0,18,4gAsVttMY36zJUCa7FYoJN,119.003,4.0,Masterpiece,0.889
+18,Johnny Nash,0.671,1973-03-31,0.567,none,bubblegum pop,2.0,1.0,19,3BT7TYH4vYIOYNrVDxnDuv,85.358,4.0,Stir It Up,0.902
+19,Seals,0.403,1973-03-31,0.444,Crofts,adult standards,2.0,0.0,20,0X5NtrCEqriFUemE5TQ9zC,92.781,4.0,Hummingbird,0.543
+20,War,0.849,1973-03-31,0.84,none,classic soul,9.0,0.0,21,5DvGqOJAB0OUDc8R9cLN3H,141.763,4.0,The Cisco Kid,0.96
+21,The Moody Blues,0.271,1973-03-31,0.859,none,album rock,6.0,0.0,22,7sXbG2xdtX18rHoXcGosFI,149.845,4.0,I'm Just A Singer (In A Rock And Roll Band),0.752
+22,Donny Osmond,0.427,1973-03-31,0.478,none,bubblegum pop,6.0,1.0,23,74NGDmt0oXeXesxoUGASTz,89.281,4.0,The Twelfth Of Never,0.281
+23,The Spinners,0.382,1973-03-31,0.727,none,classic soul,9.0,0.0,24,5i0urffBRKl09GSX2Jhdeh,207.265,4.0,Could It Be I'm Falling In Love,0.826
+24,The Sweet,0.733,1973-03-31,0.425,none,NA,11.0,1.0,25,2qrivL8tzkUvHQYGsmEpAU,127.844,4.0,Little Willy,0.823
+25,Helen Reddy,0.497,1973-03-31,0.33,none,adult standards,7.0,1.0,26,3v3oI0TcyelpENKfDxDrML,139.609,4.0,Peaceful,0.481
+26,Gallery,0.732,1973-03-31,0.731,none,bubblegum pop,2.0,1.0,27,6Ms7ZJwBsOqtJM3zpFQdQ8,128.713,4.0,Big City Miss Ruth Ann,0.971
+27,Jermaine Jackson,0.629,1973-03-31,0.439,none,disco,4.0,0.0,28,2tux0ui8n2qdHdGpBnkhol,81.223,3.0,Daddy's Home,0.56
+28,Stevie Wonder,0.519,1973-03-31,0.46,none,adult standards,11.0,1.0,29,0n2pjCIMKwHSXoYfEbYMfX,132.082,4.0,You Are The Sunshine Of My Life,0.675
+29,Bette Midler,0.384,1973-03-31,0.393,none,adult standards,7.0,0.0,30,2Hyis7pyTBDyR3zq4GNZCu,167.241,4.0,Do You Want To Dance?,0.446
+30,Lou Reed,0.575,1973-03-31,0.318,none,art rock,0.0,1.0,31,5p3JunprHCxClJjOmcLV8G,104.522,4.0,Walk On The Wild Side,0.385
+31,Judy Collins,0.488,1973-03-31,0.378,none,american folk revival,2.0,1.0,32,20cU9dg5zHpOvNV9nKyFqZ,148.34,4.0,Cook With Honey,0.753
+32,Aretha Franklin,0.332,1973-03-31,0.516,none,christmas,0.0,1.0,33,4q3MFOf4knEFp7aG86ejXo,186.076,4.0,Master Of Eyes (The Deepness Of Your Eyes),0.829
+33,Stealers Wheel,0.787,1973-03-31,0.541,none,classic rock,7.0,1.0,34,1b7LMtXCXGc2EwOIplI35z,124.194,4.0,Stuck In The Middle With You,0.962
+34,Bill Withers,0.838,1973-03-31,0.526,none,classic soul,1.0,1.0,35,262qk9k0LTyMXmjH9YT2xU,93.726,4.0,Kissing My Love,0.892
+35,Dobie Gray,0.508,1973-03-31,0.46,none,motown,11.0,1.0,36,11YWR8tzDTR2P4KZ3lAySj,75.836,4.0,Drift Away,0.565
+36,Jim Croce,0.697,1973-03-31,0.677,none,adult standards,0.0,1.0,37,1dYVNX9HYl18wcYssGAPFA,143.329,4.0,One Less Set Of Footsteps,0.955
+37,The Chi-lites,0.512,1973-03-31,0.477,none,chicago soul,9.0,1.0,38,2mnOh7OLEaxN4qa4CFYzJq,130.633,4.0,A Letter To Myself,0.502
+38,Skylark,0.457,1973-03-31,0.334,none,italian metal,5.0,1.0,39,1z0etghLnvdBptJMlzvbFA,126.38,4.0,Wildflower,0.462
+39,Jud Strunk,2.0,1973-03-31,2.0,none,NA,2.0,2.0,40,NA,2.0,2.0,Daisy A Day,2.0
+40,Melanie,0.572,1973-03-31,0.596,none,folk,3.0,1.0,41,2tMJAOWb2Qe9oJeMGZ5n5q,139.984,4.0,Bitter Bad,0.943
+41,Donna Fargo,0.611,1973-03-31,0.676,none,country gospel,11.0,1.0,42,78gI8beWZAdnAht7mKW7t1,99.769,4.0,Superman,0.954
+42,Joe Simon,0.719,1973-03-31,0.816,none,classic soul,2.0,1.0,43,3E3pehkueqX7imkUX2r73w,114.739,4.0,Step By Step,0.938
+43,Ronnie Dyson,0.384,1973-03-31,0.631,none,classic soul,5.0,1.0,44,1MNVplPox6xfC5rB1csyzK,174.679,4.0,One Man Band (Plays All Alone),0.748
+44,Elton John,0.626,1973-03-31,0.803,none,glam rock,4.0,0.0,45,6WCeFNVAXUtNczb7lqLiZU,149.918,4.0,Crocodile Rock,0.968
+45,Gilbert O'Sullivan,0.535,1973-03-31,0.717,none,adult standards,10.0,1.0,46,772P0xStGVB1aopd5aTbKb,205.359,4.0,Out Of The Question,0.846
+46,Alice Cooper,2.0,1973-03-31,2.0,none,NA,2.0,2.0,47,NA,2.0,2.0,Hello Hurray,2.0
+47,The New Seekers,0.475,1973-03-31,0.468,none,bubblegum pop,6.0,1.0,48,561H1vi4xYPD0uQ5EOPrch,130.239,4.0,"Pinball Wizard/See Me, Feel Me",0.542
+48,Steely Dan,0.527,1973-03-31,0.758,none,album rock,2.0,1.0,49,3Xe4JagghOfs9NF1xaqbb8,135.2,4.0,Reeling In The Years,0.77
+49,The Staple Singers,0.565,1973-03-31,0.857,none,brill building pop,7.0,1.0,50,1hKb6MXvSIxIaYDOyijdQX,141.874,4.0,Oh La De Da,0.91
+50,John Denver,0.455,1973-03-31,0.437,none,adult standards,4.0,1.0,51,5tlyFGagMcqqpbqo2jYKU5,81.396,4.0,Rocky Mountain High,0.724
+51,Jackson 5,0.683,1973-03-31,0.959,none,christmas,0.0,1.0,52,3Bf6hiZXLfflOZ3RttXoch,126.933,4.0,Hallelujah Day,0.892
+52,Diana Ross,0.344,1973-03-31,0.187,none,adult standards,5.0,0.0,53,3jE3WBIYBQDseLfQKc5wyW,181.049,3.0,Good Morning Heartache,0.285
+53,Barbara Mason,0.54,1973-03-31,0.597,none,classic soul,4.0,0.0,54,3rNgQNJ8dFcTxabYUnFwXd,85.471,4.0,Give Me Your Love,0.768
+54,Joe Stampley,2.0,1973-03-31,2.0,none,NA,2.0,2.0,55,NA,2.0,2.0,Soul Song,2.0
+55,Neil Diamond,0.34,1973-03-31,0.948,none,adult standards,9.0,1.0,56,18ocy9Be9SxWEEnOLGDfkS,172.349,4.0,"""Cherry Cherry"" from Hot August Night",0.604
+56,James Brown,0.538,1973-03-31,0.535,none,christmas,1.0,1.0,57,0jOnm3CL79MflZQSZiimpg,173.67,4.0,Down And Out In New York City,0.835
+57,New York City,0.842,1973-03-31,0.641,none,classic soul,0.0,1.0,58,2G5ohWJfctEeCfYFKzQIkO,117.194,4.0,I'm Doin' Fine Now,0.82
+58,Ohio Players,0.681,1973-03-31,0.651,none,classic soul,2.0,0.0,59,4SGcV28NuS1IdCaEsnYKi5,86.604,4.0,Funky Worm,0.96
+59,Faces,0.728,1973-03-31,0.806,none,album rock,10.0,1.0,60,3w0ZmyR5gMRPZvqQA3p2G2,107.636,4.0,Cindy Incidentally,0.944
+60,The Grass Roots,2.0,1973-03-31,2.0,none,NA,2.0,2.0,61,NA,2.0,2.0,Love Is What You Make It,2.0
+61,Johnny Rivers,0.402,1973-03-31,0.701,none,brill building pop,9.0,1.0,62,1yZOeMCm8ko2pwc21dcXXi,175.429,4.0,Blue Suede Shoes,0.962
+62,Focus,0.262,1973-03-31,0.818,none,album rock,2.0,1.0,63,2uzyiRdvfNI5WxUiItv1y9,183.629,4.0,Hocus Pocus,0.395
+63,Hurricane Smith,0.567,1973-03-31,0.655,none,NA,7.0,1.0,64,0kMGzfjUkE4pYUCuVaO0Ir,118.661,4.0,Who Was It?,0.776
+64,Candi Staton,2.0,1973-03-31,2.0,none,NA,2.0,2.0,65,NA,2.0,2.0,Do It In The Name Of Love,2.0
+65,The Hollies,0.551,1973-03-31,0.683,none,adult standards,4.0,1.0,66,0xobShHrREruqFBUeXHytE,92.582,4.0,Magic Woman Touch,0.706
+66,Albert Hammond,0.602,1973-03-31,0.605,none,bubblegum pop,7.0,0.0,67,3uhCXccMeZyjFrUGC7J2fs,77.541,4.0,If You Gotta Break Another Heart,0.676
+67,Joe Cocker,0.634,1973-03-31,0.56,none,blues-rock,7.0,0.0,68,2n4r6bOB36BqmbbpriXCw1,107.906,3.0,Pardon Me Sir,0.727
+68,Brownsville Station,0.849,1973-03-31,0.73,none,classic rock,9.0,1.0,69,0pcp9kETdrLJBVzTG0xn7l,129.15,4.0,Let Your Yeah Be Yeah,0.966
+69,Carly Simon,0.363,1973-03-31,0.602,none,adult standards,0.0,1.0,70,6sKwPF9awJx0EwSs55G8BE,184.525,4.0,The Right Thing To Do,0.81
+70,Harold Melvin And The Blue Notes,0.483,1973-03-31,0.494,none,classic soul,5.0,1.0,71,0ESwmqvB5v7GYHSbfl5P03,112.82,3.0,Yesterday I Had The Blues,0.372
+71,First Choice,0.623,1973-03-31,0.691,none,chicago house,5.0,0.0,72,4nCvv4edRpHOJnCgl5FTl8,123.284,4.0,Armed And Extremely Dangerous,0.823
+72,Glen Campbell,0.804,1973-03-31,0.873,none,adult standards,0.0,1.0,73,16ewlETX7KJ4WUfWK6PqBU,124.431,4.0,I Knew Jesus (Before He Was A Star),0.98
+73,Clint Holmes,0.704,1973-03-31,0.681,none,NA,5.0,1.0,74,0ckaiscpV8eaZ9WWJLdFbs,125.209,4.0,Playground In My Mind,0.927
+74,Barbara Fairchild,0.555,1973-03-31,0.309,none,country gospel,9.0,1.0,75,4xbK9VtSMiXdww9RZWipBg,71.231,4.0,Teddy Bear Song,0.5
+75,Raspberries,0.419,1973-03-31,0.827,none,bubblegum pop,0.0,1.0,76,3tF4TjrAO9dxg0AzBRmk5R,110.885,4.0,Let's Pretend,0.718
+76,Slade,2.0,1973-03-31,2.0,none,NA,2.0,2.0,77,NA,2.0,2.0,Gudbuy T' Jane,2.0
+77,Edgar Winter Group,0.625,1973-03-31,0.733,none,album rock,5.0,1.0,78,4aK0vJsPXFsFdBUh8hPaDT,95.211,4.0,Frankenstein,0.524
+78,Loggins,0.625,1973-03-31,0.509,Messina,album rock,2.0,1.0,79,6aNNkAJPuE5dY3fcCalNMz,125.045,4.0,Thinking Of You,0.973
+79,The Beach Boys,0.627,1973-03-31,0.631,none,brill building pop,9.0,0.0,80,3U4hSjTlK6WU0wORlAne9H,109.983,3.0,Sail On Sailor,0.679
+80,Cal Smith,0.673,1973-03-31,0.498,none,country gospel,9.0,1.0,81,3JY8XOrpQwh217mZfraYs9,88.912,1.0,The Lord Knows I'm Drinking,0.869
+81,Bobby Womack,0.547,1973-03-31,0.8,Peace,classic soul,11.0,0.0,82,3E0dHzJ1WIkm58RhJAe13n,112.248,4.0,Across 110th Street,0.517
+82,Mac Davis,0.546,1973-03-31,0.41,none,bubblegum pop,9.0,1.0,83,1fAE4ICN7VonYMxRu9iooE,85.025,4.0,Dream Me Home,0.689
+83,The Blue Ridge Rangers,2.0,1973-03-31,2.0,none,NA,2.0,2.0,84,NA,2.0,2.0,Hearts Of Stone,2.0
+84,Sonny,2.0,1973-03-31,2.0,Cher,NA,2.0,2.0,85,NA,2.0,2.0,"Mama Was A Rock And Roll Singer, Papa Used To Write All Her Songs Part 1",2.0
+85,The New Birth,0.774,1973-03-31,0.859,none,classic soul,8.0,0.0,86,2vG7huoIsTX45GXIGWryyy,125.077,4.0,I Can Understand It,0.826
+86,Don McLean,0.559,1973-03-31,0.323,none,adult standards,2.0,1.0,87,3VrgdoAzs5plHzLlVGlJJt,109.777,4.0,If We Try,0.536
+87,Archie Bell,2.0,1973-03-31,2.0,The Drells,NA,2.0,2.0,88,NA,2.0,2.0,Dancing To Your Music,2.0
+88,The Sylvers,2.0,1973-03-31,2.0,none,NA,2.0,2.0,89,NA,2.0,2.0,Wish That I Could Talk To You,2.0
+89,Herb Alpert,0.666,1973-03-31,0.55,The Tijuana Brass,adult standards,0.0,0.0,90,2jgq1Kk01aVCi61w4PRvYC,99.877,4.0,Last Tango In Paris,0.858
+90,Uncle Dog,2.0,1973-03-31,2.0,none,NA,2.0,2.0,91,NA,2.0,2.0,River Road,2.0
+91,Sylvia (r&b),2.0,1973-03-31,2.0,none,NA,2.0,2.0,92,NA,2.0,2.0,Pillow Talk,2.0
+92,Ramsey Lewis,2.0,1973-03-31,2.0,none,NA,2.0,2.0,93,NA,2.0,2.0,Kufanya Mapenzi (Making Love),2.0
+93,Brenda Lee,0.477,1973-03-31,0.275,none,adult standards,8.0,1.0,94,52xsKlgKMEVzWI8Xi05ocQ,79.031,4.0,Nobody Wins,0.367
+94,Don Fardon,2.0,1973-03-31,2.0,none,NA,2.0,2.0,95,NA,2.0,2.0,Delta Queen,2.0
+95,Bee Gees,0.432,1973-03-31,0.354,none,disco,9.0,1.0,96,5JFT06fmzJa1eCYx4gszX0,111.056,4.0,Saw A New Morning,0.201
+96,Gunhill Road,2.0,1973-03-31,2.0,none,NA,2.0,2.0,97,NA,2.0,2.0,Back When My Hair Was Short,2.0
+97,The J. Geils Band,0.601,1973-03-31,0.531,none,album rock,0.0,1.0,98,100LcDDP2l9F43MgOVnzrg,117.676,4.0,Give It To Me,0.818
+98,Billy Preston,0.689,1973-03-31,0.871,none,funk,1.0,1.0,99,5YLVhkyMsAuYKOKihHJo21,98.396,4.0,Will It Go Round In Circles,0.898
+99,Nolan Porter,0.764,1973-03-31,0.573,none,northern soul,9.0,0.0,100,3X9MzewfAXyBbdPuWQDJUa,123.328,4.0,If I Could Only Be Sure,0.806
+0,Vicki Lawrence,0.455,1973-04-07,0.417,none,NA,5.0,0.0,1,2VRpkHq6V8aiqdPsQqWI3e,172.015,4.0,The Night The Lights Went Out In Georgia,0.611
+1,Gladys Knight And The Pips,0.525,1973-04-07,0.407,none,adult standards,5.0,1.0,2,76Gcy0ltMutGaK8oizgdrF,140.52,4.0,Neither One Of Us (Wants To Be The First To Say Goodbye),0.67
+2,Roberta Flack,0.477,1973-04-07,0.381,none,adult standards,5.0,0.0,3,3gsCAGsWr6pUm1Vy7CPPob,121.568,4.0,Killing Me Softly With His Song,0.329
+3,Four Tops,0.54,1973-04-07,0.553,none,adult standards,9.0,0.0,4,2mhFroJn2fNDzWc7DUHSVR,98.785,4.0,Ain't No Woman (Like The One I've Got),0.874
+4,The Stylistics,0.582,1973-04-07,0.299,none,adult standards,4.0,1.0,5,1F3n7rwgq0v4d2iW6IyV74,79.422,3.0,Break Up To Make Up,0.322
+5,Dawn ,0.559,1973-04-07,0.615,Tony Orlando,NA,5.0,1.0,6,12UzVR0M7asW2MHAZRJk0I,87.601,4.0,Tie A Yellow Ribbon Round The Ole Oak Tree,0.68
+6,Carpenters,0.488,1973-04-07,0.282,none,adult standards,3.0,1.0,7,1W0eyV8mC2IaGkYEbeUpJy,139.905,4.0,Sing,0.329
+7,Anne Murray,0.512,1973-04-07,0.379,none,adult standards,11.0,0.0,8,5lQxMlCMTzCj3j4vyzdl8T,144.687,4.0,Danny's Song,0.522
+8,Deodato,0.448,1973-04-07,0.763,none,bossa nova jazz,0.0,1.0,9,6ywm0ilJ9ItgXRDg0yrJP1,117.938,4.0,Also Sprach Zarathustra (2001),0.513
+9,War,0.849,1973-04-07,0.84,none,classic soul,9.0,0.0,10,5DvGqOJAB0OUDc8R9cLN3H,141.763,4.0,The Cisco Kid,0.96
+10,Al Green,0.683,1973-04-07,0.392,none,classic soul,10.0,1.0,11,2THyR0on3DrsfXBtRrLZgK,99.79,4.0,Call Me (Come Back Home),0.679
+11,The O'Jays,0.744,1973-04-07,0.568,none,classic soul,0.0,1.0,12,28285KFbyCq8sJofn58qlD,122.657,4.0,Love Train,0.687
+12,Edward Bear,0.545,1973-04-07,0.421,none,classic canadian rock,6.0,1.0,13,5CNdxdDDEjZGmf0ho9oMDb,128.75,4.0,Last Song,0.717
+13,The Temptations,0.792,1973-04-07,0.391,none,brill building pop,10.0,0.0,14,4gAsVttMY36zJUCa7FYoJN,119.003,4.0,Masterpiece,0.889
+14,David Bowie,0.299,1973-04-07,0.443,none,art rock,0.0,1.0,15,72Z17vmmeQKAg8bptWvpVG,139.539,4.0,Space Oddity,0.434
+15,Johnny Nash,0.671,1973-04-07,0.567,none,bubblegum pop,2.0,1.0,16,3BT7TYH4vYIOYNrVDxnDuv,85.358,4.0,Stir It Up,0.902
+16,Loudon Wainwright III,0.633,1973-04-07,0.655,none,alternative country,7.0,1.0,17,3NWpG50DNlO8IiVdx6Ig3w,146.868,4.0,Dead Skunk,0.967
+17,Donny Osmond,0.427,1973-04-07,0.478,none,bubblegum pop,6.0,1.0,18,74NGDmt0oXeXesxoUGASTz,89.281,4.0,The Twelfth Of Never,0.281
+18,Deliverance/Eric Weissberg,2.0,1973-04-07,2.0,Steve Mandell,NA,2.0,2.0,19,NA,2.0,2.0,Dueling Banjos,2.0
+19,The Sweet,0.733,1973-04-07,0.425,none,NA,11.0,1.0,20,2qrivL8tzkUvHQYGsmEpAU,127.844,4.0,Little Willy,0.823
+20,Dr. Hook And The Medicine Show,0.648,1973-04-07,0.472,none,bubblegum pop,9.0,1.0,21,3JYjHeKY0OSnkQGJGvw7P8,142.184,4.0,"The Cover Of ""Rolling Stone""",0.907
+21,Seals,0.403,1973-04-07,0.444,Crofts,adult standards,2.0,0.0,22,0X5NtrCEqriFUemE5TQ9zC,92.781,4.0,Hummingbird,0.543
+22,Helen Reddy,0.497,1973-04-07,0.33,none,adult standards,7.0,1.0,23,3v3oI0TcyelpENKfDxDrML,139.609,4.0,Peaceful,0.481
+23,Stealers Wheel,0.787,1973-04-07,0.541,none,classic rock,7.0,1.0,24,1b7LMtXCXGc2EwOIplI35z,124.194,4.0,Stuck In The Middle With You,0.962
+24,Stevie Wonder,0.519,1973-04-07,0.46,none,adult standards,11.0,1.0,25,0n2pjCIMKwHSXoYfEbYMfX,132.082,4.0,You Are The Sunshine Of My Life,0.675
+25,Bread,0.326,1973-04-07,0.0902,none,adult standards,7.0,1.0,26,5ZEMPZdUIiJSxT4gIJOIpB,137.611,4.0,Aubrey,0.218
+26,The Spinners,0.382,1973-04-07,0.727,none,classic soul,9.0,0.0,27,5i0urffBRKl09GSX2Jhdeh,207.265,4.0,Could It Be I'm Falling In Love,0.826
+27,Lou Reed,0.575,1973-04-07,0.318,none,art rock,0.0,1.0,28,5p3JunprHCxClJjOmcLV8G,104.522,4.0,Walk On The Wild Side,0.385
+28,Dobie Gray,0.508,1973-04-07,0.46,none,motown,11.0,1.0,29,11YWR8tzDTR2P4KZ3lAySj,75.836,4.0,Drift Away,0.565
+29,The Moody Blues,0.271,1973-04-07,0.859,none,album rock,6.0,0.0,30,7sXbG2xdtX18rHoXcGosFI,149.845,4.0,I'm Just A Singer (In A Rock And Roll Band),0.752
+30,Skylark,0.457,1973-04-07,0.334,none,italian metal,5.0,1.0,31,1z0etghLnvdBptJMlzvbFA,126.38,4.0,Wildflower,0.462
+31,Judy Collins,0.488,1973-04-07,0.378,none,american folk revival,2.0,1.0,32,20cU9dg5zHpOvNV9nKyFqZ,148.34,4.0,Cook With Honey,0.753
+32,Jermaine Jackson,0.629,1973-04-07,0.439,none,disco,4.0,0.0,33,2tux0ui8n2qdHdGpBnkhol,81.223,3.0,Daddy's Home,0.56
+33,The Chi-lites,0.512,1973-04-07,0.477,none,chicago soul,9.0,1.0,34,2mnOh7OLEaxN4qa4CFYzJq,130.633,4.0,A Letter To Myself,0.502
+34,Jud Strunk,2.0,1973-04-07,2.0,none,NA,2.0,2.0,35,NA,2.0,2.0,Daisy A Day,2.0
+35,Aretha Franklin,0.332,1973-04-07,0.516,none,christmas,0.0,1.0,36,4q3MFOf4knEFp7aG86ejXo,186.076,4.0,Master Of Eyes (The Deepness Of Your Eyes),0.829
+36,Ronnie Dyson,0.384,1973-04-07,0.631,none,classic soul,5.0,1.0,37,1MNVplPox6xfC5rB1csyzK,174.679,4.0,One Man Band (Plays All Alone),0.748
+37,Melanie,0.572,1973-04-07,0.596,none,folk,3.0,1.0,38,2tMJAOWb2Qe9oJeMGZ5n5q,139.984,4.0,Bitter Bad,0.943
+38,Steely Dan,0.527,1973-04-07,0.758,none,album rock,2.0,1.0,39,3Xe4JagghOfs9NF1xaqbb8,135.2,4.0,Reeling In The Years,0.77
+39,Gilbert O'Sullivan,0.535,1973-04-07,0.717,none,adult standards,10.0,1.0,40,772P0xStGVB1aopd5aTbKb,205.359,4.0,Out Of The Question,0.846
+40,Donna Fargo,0.611,1973-04-07,0.676,none,country gospel,11.0,1.0,41,78gI8beWZAdnAht7mKW7t1,99.769,4.0,Superman,0.954
+41,Joe Simon,0.719,1973-04-07,0.816,none,classic soul,2.0,1.0,42,3E3pehkueqX7imkUX2r73w,114.739,4.0,Step By Step,0.938
+42,Jackson 5,0.683,1973-04-07,0.959,none,christmas,0.0,1.0,43,3Bf6hiZXLfflOZ3RttXoch,126.933,4.0,Hallelujah Day,0.892
+43,The Staple Singers,0.565,1973-04-07,0.857,none,brill building pop,7.0,1.0,44,1hKb6MXvSIxIaYDOyijdQX,141.874,4.0,Oh La De Da,0.91
+44,The New Seekers,0.475,1973-04-07,0.468,none,bubblegum pop,6.0,1.0,45,561H1vi4xYPD0uQ5EOPrch,130.239,4.0,"Pinball Wizard/See Me, Feel Me",0.542
+45,Bill Withers,0.838,1973-04-07,0.526,none,classic soul,1.0,1.0,46,262qk9k0LTyMXmjH9YT2xU,93.726,4.0,Kissing My Love,0.892
+46,Ohio Players,0.681,1973-04-07,0.651,none,classic soul,2.0,0.0,47,4SGcV28NuS1IdCaEsnYKi5,86.604,4.0,Funky Worm,0.96
+47,Gallery,0.732,1973-04-07,0.731,none,bubblegum pop,2.0,1.0,48,6Ms7ZJwBsOqtJM3zpFQdQ8,128.713,4.0,Big City Miss Ruth Ann,0.971
+48,Neil Diamond,0.34,1973-04-07,0.948,none,adult standards,9.0,1.0,49,18ocy9Be9SxWEEnOLGDfkS,172.349,4.0,"""Cherry Cherry"" from Hot August Night",0.604
+49,Bette Midler,0.384,1973-04-07,0.393,none,adult standards,7.0,0.0,50,2Hyis7pyTBDyR3zq4GNZCu,167.241,4.0,Do You Want To Dance?,0.446
+50,New York City,0.842,1973-04-07,0.641,none,classic soul,0.0,1.0,51,2G5ohWJfctEeCfYFKzQIkO,117.194,4.0,I'm Doin' Fine Now,0.82
+51,James Brown,0.538,1973-04-07,0.535,none,christmas,1.0,1.0,52,0jOnm3CL79MflZQSZiimpg,173.67,4.0,Down And Out In New York City,0.835
+52,Jim Croce,0.697,1973-04-07,0.677,none,adult standards,0.0,1.0,53,1dYVNX9HYl18wcYssGAPFA,143.329,4.0,One Less Set Of Footsteps,0.955
+53,Faces,0.728,1973-04-07,0.806,none,album rock,10.0,1.0,54,3w0ZmyR5gMRPZvqQA3p2G2,107.636,4.0,Cindy Incidentally,0.944
+54,Focus,0.262,1973-04-07,0.818,none,album rock,2.0,1.0,55,2uzyiRdvfNI5WxUiItv1y9,183.629,4.0,Hocus Pocus,0.395
+55,Johnny Rivers,0.402,1973-04-07,0.701,none,brill building pop,9.0,1.0,56,1yZOeMCm8ko2pwc21dcXXi,175.429,4.0,Blue Suede Shoes,0.962
+56,Diana Ross,0.344,1973-04-07,0.187,none,adult standards,5.0,0.0,57,3jE3WBIYBQDseLfQKc5wyW,181.049,3.0,Good Morning Heartache,0.285
+57,Hurricane Smith,0.567,1973-04-07,0.655,none,NA,7.0,1.0,58,0kMGzfjUkE4pYUCuVaO0Ir,118.661,4.0,Who Was It?,0.776
+58,Edgar Winter Group,0.625,1973-04-07,0.733,none,album rock,5.0,1.0,59,4aK0vJsPXFsFdBUh8hPaDT,95.211,4.0,Frankenstein,0.524
+59,Carly Simon,0.363,1973-04-07,0.602,none,adult standards,0.0,1.0,60,6sKwPF9awJx0EwSs55G8BE,184.525,4.0,The Right Thing To Do,0.81
+60,First Choice,0.623,1973-04-07,0.691,none,chicago house,5.0,0.0,61,4nCvv4edRpHOJnCgl5FTl8,123.284,4.0,Armed And Extremely Dangerous,0.823
+61,Loggins,0.625,1973-04-07,0.509,Messina,album rock,2.0,1.0,62,6aNNkAJPuE5dY3fcCalNMz,125.045,4.0,Thinking Of You,0.973
+62,Albert Hammond,0.602,1973-04-07,0.605,none,bubblegum pop,7.0,0.0,63,3uhCXccMeZyjFrUGC7J2fs,77.541,4.0,If You Gotta Break Another Heart,0.676
+63,Brownsville Station,0.849,1973-04-07,0.73,none,classic rock,9.0,1.0,64,0pcp9kETdrLJBVzTG0xn7l,129.15,4.0,Let Your Yeah Be Yeah,0.966
+64,Glen Campbell,0.804,1973-04-07,0.873,none,adult standards,0.0,1.0,65,16ewlETX7KJ4WUfWK6PqBU,124.431,4.0,I Knew Jesus (Before He Was A Star),0.98
+65,Raspberries,0.419,1973-04-07,0.827,none,bubblegum pop,0.0,1.0,66,3tF4TjrAO9dxg0AzBRmk5R,110.885,4.0,Let's Pretend,0.718
+66,Harold Melvin And The Blue Notes,0.483,1973-04-07,0.494,none,classic soul,5.0,1.0,67,0ESwmqvB5v7GYHSbfl5P03,112.82,3.0,Yesterday I Had The Blues,0.372
+67,Clint Holmes,0.704,1973-04-07,0.681,none,NA,5.0,1.0,68,0ckaiscpV8eaZ9WWJLdFbs,125.209,4.0,Playground In My Mind,0.927
+68,Alice Cooper,2.0,1973-04-07,2.0,none,NA,2.0,2.0,69,NA,2.0,2.0,Hello Hurray,2.0
+69,Barbara Fairchild,0.555,1973-04-07,0.309,none,country gospel,9.0,1.0,70,4xbK9VtSMiXdww9RZWipBg,71.231,4.0,Teddy Bear Song,0.5
+70,The Blue Ridge Rangers,2.0,1973-04-07,2.0,none,NA,2.0,2.0,71,NA,2.0,2.0,Hearts Of Stone,2.0
+71,Slade,2.0,1973-04-07,2.0,none,NA,2.0,2.0,72,NA,2.0,2.0,Gudbuy T' Jane,2.0
+72,Joe Cocker,0.634,1973-04-07,0.56,none,blues-rock,7.0,0.0,73,2n4r6bOB36BqmbbpriXCw1,107.906,3.0,Pardon Me Sir,0.727
+73,Bobby Womack,0.547,1973-04-07,0.8,Peace,classic soul,11.0,0.0,74,3E0dHzJ1WIkm58RhJAe13n,112.248,4.0,Across 110th Street,0.517
+74,Cal Smith,0.673,1973-04-07,0.498,none,country gospel,9.0,1.0,75,3JY8XOrpQwh217mZfraYs9,88.912,1.0,The Lord Knows I'm Drinking,0.869
+75,Don McLean,0.559,1973-04-07,0.323,none,adult standards,2.0,1.0,76,3VrgdoAzs5plHzLlVGlJJt,109.777,4.0,If We Try,0.536
+76,Elton John,0.691,1973-04-07,0.467,none,glam rock,0.0,1.0,77,1BvJmtaXsqtH438BcDPeBb,132.019,4.0,Daniel,0.904
+77,The New Birth,0.774,1973-04-07,0.859,none,classic soul,8.0,0.0,78,2vG7huoIsTX45GXIGWryyy,125.077,4.0,I Can Understand It,0.826
+78,Sylvia (r&b),2.0,1973-04-07,2.0,none,NA,2.0,2.0,79,NA,2.0,2.0,Pillow Talk,2.0
+79,Sonny,2.0,1973-04-07,2.0,Cher,NA,2.0,2.0,80,NA,2.0,2.0,"Mama Was A Rock And Roll Singer, Papa Used To Write All Her Songs Part 1",2.0
+80,Jerry Lee Lewis,2.0,1973-04-07,2.0,none,NA,2.0,2.0,81,NA,2.0,2.0,Drinking Wine Spo-dee O'dee,2.0
+81,The Beach Boys,0.627,1973-04-07,0.631,none,brill building pop,9.0,0.0,82,3U4hSjTlK6WU0wORlAne9H,109.983,3.0,Sail On Sailor,0.679
+82,Gunhill Road,2.0,1973-04-07,2.0,none,NA,2.0,2.0,83,NA,2.0,2.0,Back When My Hair Was Short,2.0
+83,Archie Bell,2.0,1973-04-07,2.0,The Drells,NA,2.0,2.0,84,NA,2.0,2.0,Dancing To Your Music,2.0
+84,Lobo,0.485,1973-04-07,0.415,none,adult standards,4.0,1.0,85,4bbbRNUiDC9GQtnAv6DmEF,150.912,4.0,"It Sure Took A Long, Long Time",0.506
+85,Brenda Lee,0.477,1973-04-07,0.275,none,adult standards,8.0,1.0,86,52xsKlgKMEVzWI8Xi05ocQ,79.031,4.0,Nobody Wins,0.367
+86,The Independents,0.655,1973-04-07,0.438,none,NA,1.0,1.0,87,4nU5cXDOCsWd0IOkI6mqX2,73.394,4.0,Leaving Me,0.571
+87,Herb Alpert,0.666,1973-04-07,0.55,The Tijuana Brass,adult standards,0.0,0.0,88,2jgq1Kk01aVCi61w4PRvYC,99.877,4.0,Last Tango In Paris,0.858
+88,Uncle Dog,2.0,1973-04-07,2.0,none,NA,2.0,2.0,89,NA,2.0,2.0,River Road,2.0
+89,Billy Preston,0.689,1973-04-07,0.871,none,funk,1.0,1.0,90,5YLVhkyMsAuYKOKihHJo21,98.396,4.0,Will It Go Round In Circles,0.898
+90,The J. Geils Band,0.601,1973-04-07,0.531,none,album rock,0.0,1.0,91,100LcDDP2l9F43MgOVnzrg,117.676,4.0,Give It To Me,0.818
+91,Don Fardon,2.0,1973-04-07,2.0,none,NA,2.0,2.0,92,NA,2.0,2.0,Delta Queen,2.0
+92,Luther Ingram,0.619,1973-04-07,0.614,none,classic soul,8.0,1.0,93,3JMs4Z63YNSK5RnHUhpeOe,106.617,3.0,Always,0.703
+93,Bee Gees,0.432,1973-04-07,0.354,none,disco,9.0,1.0,94,5JFT06fmzJa1eCYx4gszX0,111.056,4.0,Saw A New Morning,0.201
+94,Timmy Thomas,2.0,1973-04-07,2.0,none,NA,2.0,2.0,95,NA,2.0,2.0,People Are Changin',2.0
+95,Nolan Porter,0.764,1973-04-07,0.573,none,northern soul,9.0,0.0,96,3X9MzewfAXyBbdPuWQDJUa,123.328,4.0,If I Could Only Be Sure,0.806
+96,Billy Paul,0.477,1973-04-07,0.954,none,classic soul,8.0,1.0,97,3FAq5uwpjSPTzsiXoPzhe4,190.93,4.0,Am I Black Enough For You,0.857
+97,The Sylvers,2.0,1973-04-07,2.0,none,NA,2.0,2.0,98,NA,2.0,2.0,Wish That I Could Talk To You,2.0
+98,Bill Quateman,0.345,1973-04-07,0.734,none,deep soft rock,1.0,0.0,99,614D2rzF4H94mc3LKWE2Wb,187.158,4.0,Only Love,0.738
+99,Kris Kristofferson,0.416,1973-04-07,0.191,none,country rock,7.0,1.0,100,6n3VD8CbR307p1e4RECHHb,82.088,3.0,Why Me,0.286

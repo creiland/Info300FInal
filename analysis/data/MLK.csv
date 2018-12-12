@@ -1,0 +1,201 @@
+,artist,danceability,date,energy,featuring,genre,key,mode,rank,spotifyID,tempo,timesignature,track,valence
+0,The Angels,0.679,1963-08-31,0.871,none,australian rock,3.0,1.0,1,5NiFSI8iIDtVm1NCwdYrHS,135.111,4.0,My Boyfriend's Back,0.964
+1,Allan Sherman,0.591,1963-08-31,0.337,none,comic,9.0,1.0,2,1WvcgDbT79xeAa7Mv0klkK,120.17,4.0,"Hello Mudduh, Hello Fadduh! (A Letter From Camp)",0.729
+2,Little Stevie Wonder,2.0,1963-08-31,2.0,none,NA,2.0,2.0,3,NA,2.0,2.0,Fingertips - Pt 2,2.0
+3,The 4 Seasons,0.644,1963-08-31,0.52,none,adult standards,5.0,1.0,4,4AFLFG6pyvhBLC37FbDwc2,126.204,4.0,Candy Girl,0.715
+4,"Peter, Paul",0.381,1963-08-31,0.0848,Mary,american folk revival,5.0,1.0,5,62Yu8QL1g9pdbvN4XL9Rah,155.036,4.0,Blowin' In The Wind,0.557
+5,Trini Lopez,0.468,1963-08-31,0.933,none,adult standards,11.0,0.0,6,4JMl6POnS2IPBpVVwDl06P,85.505,4.0,If I Had A Hammer,0.867
+6,Lesley Gore,0.739,1963-08-31,0.551,none,adult standards,11.0,0.0,7,5Vb0SgInHwS0tq46dApdBY,129.081,4.0,Judy's Turn To Cry,0.962
+7,Inez Foxx with Charlie Foxx,2.0,1963-08-31,2.0,none,NA,2.0,2.0,8,NA,2.0,2.0,Mockingbird,2.0
+8,Kai Winding,0.435,1963-08-31,0.554,Orchestra,jazz brass,4.0,0.0,9,05f3cqpj6Mf5EU0xiVLA4e,134.115,4.0,More,0.754
+9,Randy,0.547,1963-08-31,0.678,The Rainbows,doo-wop,5.0,0.0,10,2uyTuHLAB3unDK1vkjViH5,125.883,4.0,Denise,0.895
+10,Bobby Vinton,0.376,1963-08-31,0.246,none,adult standards,10.0,1.0,11,4QelFzhVgLomeQhvKrwM1S,80.167,1.0,Blue Velvet,0.282
+11,Major Lance,0.799,1963-08-31,0.689,none,brill building pop,5.0,1.0,12,0VtvetMMdBu88MbUeM5YnL,123.169,4.0,The Monkey Time,0.948
+12,The Beach Boys,0.522,1963-08-31,0.37,none,brill building pop,2.0,1.0,13,1AJ5F0FMTC3yFU3ocjy1gE,105.826,3.0,Surfer Girl,0.653
+13,Martha,0.624,1963-08-31,0.61,The Vandellas,brill building pop,0.0,0.0,14,3VgrSJEKBRT3xmwzpaxxEF,82.65,4.0,Heat Wave,0.759
+14,Freddie Scott,0.394,1963-08-31,0.297,none,southern soul,5.0,1.0,15,3vZyw7jyBpwgIEExgEOGJd,85.804,4.0,"Hey, Girl",0.5
+15,Wayne Newton And The Newton Brothers,2.0,1963-08-31,2.0,none,NA,2.0,2.0,16,NA,2.0,2.0,Danke Schoen,2.0
+16,Elvis Presley With The Jordanaires,2.0,1963-08-31,2.0,none,NA,2.0,2.0,17,NA,2.0,2.0,(You're the) Devil In Disguise,2.0
+17,The Surfaris,0.352,1963-08-31,0.613,none,surf music,0.0,1.0,18,4anUinKv803lyDD1vaSXhU,152.437,4.0,Wipe Out,0.52
+18,Sam Cooke,0.515,1963-08-31,0.486,none,adult standards,5.0,1.0,19,4wJw1D8jb09iHuawQawYda,118.218,4.0,Frankie And Johnny,0.555
+19,The Crystals,0.44,1963-08-31,0.682,none,adult standards,4.0,1.0,20,5usNPz6U1acDrkUYekGYDY,135.917,4.0,Then He Kissed Me,0.626
+20,Al Martino,0.348,1963-08-31,0.309,none,adult standards,7.0,1.0,21,5f4LwMkyw5ldc4TCrvDoy6,103.603,4.0,"Painted, Tainted Rose",0.403
+21,The Tymes,0.538,1963-08-31,0.484,none,brill building pop,4.0,1.0,22,6h0LLmMVZY108wNzD5UM6O,75.656,4.0,So Much In Love,0.419
+22,Gene Pitney,0.471,1963-08-31,0.509,none,adult standards,7.0,1.0,23,6D06zb501VBESteKxkWvIg,108.83,3.0,True Love Never Runs Smooth,0.508
+23,The New Christy Minstrels,0.628,1963-08-31,0.783,none,american folk revival,5.0,1.0,24,62FgmkaAc47fWDWW24NGWK,140.475,4.0,"Green, Green",0.897
+24,Jan,0.469,1963-08-31,0.647,Dean,adult standards,8.0,1.0,25,4ZzXPeOfMXk0iKNQGdlzDq,147.878,4.0,Surf City,0.942
+25,Timi Yuro,0.315,1963-08-31,0.36,none,NA,6.0,1.0,26,588hXr5A0VURVbUehZzFHa,57.18,4.0,Make The World Go Away,0.474
+26,Darlene Love,0.619,1963-08-31,0.699,none,adult standards,5.0,1.0,27,3kl7f6V6BG31GCtHxusxXg,148.821,4.0,Wait Til' My Bobby Gets Home,0.846
+27,Chubby Checker,0.477,1963-08-31,0.84,none,adult standards,8.0,1.0,28,4V9WukPJV3VmOuTXMdYzuc,184.649,4.0,Twist It Up,0.961
+28,Steve,0.62,1963-08-31,0.486,Eydie,adult standards,0.0,1.0,29,7bdlmyOAMwUwLmE85K8mN2,100.506,4.0,I Want To Stay Here,0.96
+29,Johnny Tillotson,0.526,1963-08-31,0.432,none,adult standards,5.0,1.0,30,2MwH3x396GF5H5EEk9t3YG,114.994,4.0,You Can Never Stop Me Loving You,0.769
+30,Ben E. King,0.446,1963-08-31,0.262,none,adult standards,0.0,1.0,31,2iXEV6fZUCUvJmKvAMGVkL,152.07,4.0,I (Who Have Nothing),0.155
+31,George Hamilton IV,0.63,1963-08-31,0.448,none,country gospel,5.0,1.0,32,5bA26v8eeZrbHJpD4YPKAX,104.024,4.0,Abilene,0.753
+32,The Ran-Dells,0.358,1963-08-31,0.759,none,NA,6.0,1.0,33,71hK82252yG9hfFj0jRz1d,129.618,4.0,Martian Hop,0.783
+33,The Raindrops,0.552,1963-08-31,0.674,none,brill building pop,7.0,1.0,34,26j1AFFgKumXtOdcmZX3YF,100.758,4.0,The Kind Of Boy You Can't Forget,0.51
+34,The Tymes,0.542,1963-08-31,0.39,none,brill building pop,10.0,1.0,35,7MKw6Ymv5XMwCfOvCLyl77,70.231,4.0,Wonderful! Wonderful!,0.493
+35,The Kingston Trio,0.725,1963-08-31,0.382,none,american folk revival,4.0,1.0,36,0RoFfoNIoo8crKUbVlC1TT,115.797,4.0,Desert Pete,0.606
+36,Brenda Lee,0.762,1963-08-31,0.45,none,adult standards,10.0,1.0,37,5TwBbUyRLMiat8RUkcd6D0,128.627,4.0,My Whole World Is Falling Down,0.848
+37,Connie Francis,2.0,1963-08-31,2.0,none,NA,2.0,2.0,38,NA,2.0,2.0,Drownin' My Sorrows,2.0
+38,The Miracles,0.694,1963-08-31,0.873,none,adult standards,2.0,0.0,39,28ODIjaThE6hBOUAAl7y3W,93.216,4.0,Mickey's Monkey,0.729
+39,Ruby And The Romantics,0.561,1963-08-31,0.371,none,rhythm and blues,5.0,1.0,40,3EyO59J9LIkMD9NgKu0Mhg,88.222,4.0,Hey There Lonely Boy,0.624
+40,The Essex,0.799,1963-08-31,0.523,none,karaoke,4.0,1.0,41,5MjejbOEAjPjTU8lP9uZAy,138.459,4.0,Easier Said Than Done,0.852
+41,The 4 Seasons,0.705,1963-08-31,0.848,none,adult standards,8.0,1.0,42,6Pzbv8zwmq31mq998fBG5i,130.462,4.0,Marlena,0.947
+42,Diane Ray,2.0,1963-08-31,2.0,none,NA,2.0,2.0,43,NA,2.0,2.0,Please Don't Talk To The Lifeguard,2.0
+43,Mel Carter,0.575,1963-08-31,0.423,none,NA,8.0,1.0,44,3Rd2sk3FcMwndH2PCFgv7t,113.817,4.0,When A Boy Falls In Love,0.761
+44,Andrea Carroll,2.0,1963-08-31,2.0,none,NA,2.0,2.0,45,NA,2.0,2.0,It Hurts To Be Sixteen,2.0
+45,Bobby Bare,0.519,1963-08-31,0.319,none,country,11.0,1.0,46,7eNM9suHz80f4fbC8aobod,121.647,4.0,Detroit City,0.473
+46,Doris Troy,0.856,1963-08-31,0.436,none,brill building pop,5.0,1.0,47,154uJXAUVoqvV5on0w03a0,107.967,4.0,Just One Look,0.944
+47,Lonnie Mack,0.521,1963-08-31,0.774,none,blues,7.0,1.0,48,5WRFCQ3VJEQ4byX7OmsuSt,100.954,4.0,Memphis,0.971
+48,Andy Williams,0.311,1963-08-31,0.317,none,adult standards,0.0,1.0,49,0r3dzk4ewWIFyZKeZA0Hog,83.461,4.0,Hopeless,0.428
+49,The Beach Boys,0.665,1963-08-31,0.701,none,brill building pop,8.0,1.0,50,75WMOzv7195ziyx0qEw1yE,133.853,1.0,Little Deuce Coupe,0.977
+50,Jack Nitzsche,0.301,1963-08-31,0.634,none,surf music,5.0,1.0,51,0CxWbbbU0PB7ccm6CgHnrf,106.06,4.0,The Lonely Surfer,0.403
+51,Al Casey,0.501,1963-08-31,0.927,none,NA,1.0,0.0,52,1bR9kvOV0ZUwy43fqFIuXd,85.732,4.0,Surfin' Hootenanny,0.657
+52,Wilson Pickett,0.42,1963-08-31,0.276,none,adult standards,0.0,1.0,53,1ueDEIC7FyoCf7MPRLSCoX,185.738,3.0,It's Too Late,0.707
+53,Barbara Lewis,0.648,1963-08-31,0.475,none,brill building pop,0.0,1.0,54,6XwYHLWmkHPIIRYIlFEe2t,116.019,4.0,Straighten Up Your Heart,0.705
+54,Billy Abbott And The Jewels,0.492,1963-08-31,0.43,none,NA,7.0,1.0,55,1hxZhZlC2jCuADQW6i32zl,101.809,3.0,Groovy Baby,0.323
+55,The High Keyes,2.0,1963-08-31,2.0,none,NA,2.0,2.0,56,NA,2.0,2.0,"Que Sera, Sera (Whatever Will Be, Will Be)",2.0
+56,Neil Sedaka,0.594,1963-08-31,0.771,none,adult standards,11.0,1.0,57,01ti2HFHInilWhcII7oyeX,128.405,4.0,The Dreamer,0.884
+57,Freddy Cannon,0.534,1963-08-31,0.849,none,brill building pop,8.0,1.0,58,6HROMYV69bB8qzrAdQoKaM,145.214,4.0,Everybody Monkey,0.969
+58,The Duprees featuring Joey Vann,2.0,1963-08-31,2.0,none,NA,2.0,2.0,59,NA,2.0,2.0,Why Don't You Believe Me,2.0
+59,The Rooftop Singers,0.757,1963-08-31,0.49,none,american folk revival,8.0,1.0,60,4biXHBMoLHA2dHvyxuIkcq,114.151,4.0,Mama Don't Allow,0.961
+60,The Blenders,2.0,1963-08-31,2.0,none,NA,2.0,2.0,61,NA,2.0,2.0,Daughter,2.0
+61,Jay,0.677,1963-08-31,0.446,The Americans,adult standards,2.0,1.0,62,6X4Sn2nTswhtxuo7Lf80h3,81.545,4.0,Only In America,0.773
+62,The Jaynetts,0.694,1963-08-31,0.453,none,classic girl group,2.0,1.0,63,31s2mbxcx4LX1EtZg1fUvA,146.6,4.0,"Sally, Go 'round The Roses",0.457
+63,Brenda Lee,0.529,1963-08-31,0.168,none,adult standards,10.0,1.0,64,1qxSpM8ExFGmQkkbrqwYA4,101.227,3.0,I Wonder,0.46
+64,Baby Washington,0.649,1963-08-31,0.502,none,beach music,9.0,1.0,65,0V0taT8CDOCW5sbjdiDc6r,120.358,4.0,Leave Me Alone,0.844
+65,The Essex ,2.0,1963-08-31,2.0,Anita Humes,NA,2.0,2.0,66,NA,2.0,2.0,A Walkin' Miracle,2.0
+66,Burl Ives,0.254,1963-08-31,0.11,none,adult standards,5.0,1.0,67,4IuHGG9vPFYMQFxUY3nzzo,179.155,3.0,This Is All I Ask,0.151
+67,Cliff Richard,0.686,1963-08-31,0.481,none,adult standards,4.0,1.0,68,4xHXqIwdjXRYJvwT8HNByt,144.862,4.0,Lucky Lips,0.902
+68,Garnet Mimms,0.48,1963-08-31,0.405,The Enchanters,southern soul,10.0,1.0,69,6BiQOxPWVZvum3BZ2Bd4a7,152.646,3.0,Cry Baby,0.668
+69,Tony Bennett,0.216,1963-08-31,0.192,none,adult standards,3.0,1.0,70,7nOVRsOQX8xfxi0w0YjOoY,67.805,4.0,This Is All I Ask,0.138
+70,Vic Dana,0.295,1963-08-31,0.478,none,NA,11.0,0.0,71,1bltfamMcxuxLvw6VzEYDC,101.05,3.0,More,0.481
+71,Bill Anderson,0.4,1963-08-31,0.235,none,country gospel,5.0,1.0,72,0R6PIalA9f5AQgD6DQk5gz,93.236,4.0,8 X 10,0.507
+72,The Pixies Three,0.534,1963-08-31,0.491,none,classic girl group,11.0,0.0,73,2JjYsmbIK6Kh02H5cYWb69,169.45,4.0,Birthday Party,0.914
+73,Little Johnny Taylor,0.467,1963-08-31,0.712,none,soul blues,5.0,1.0,74,6mt8GPZpoucW99UEfyA9pc,172.365,4.0,Part Time Love,0.833
+74,Jackie Wilson,0.524,1963-08-31,0.616,none,adult standards,8.0,1.0,75,0KQolPzEP07EMfBug5LZCK,101.178,4.0,Shake! Shake! Shake!,0.946
+75,Kyu Sakamoto,2.0,1963-08-31,2.0,none,NA,2.0,2.0,76,NA,2.0,2.0,China Nights (Shina No Yoru),2.0
+76,James Brown And The Famous Flames,2.0,1963-08-31,2.0,none,NA,2.0,2.0,77,NA,2.0,2.0,These Foolish Things,2.0
+77,Gene McDaniels,2.0,1963-08-31,2.0,none,NA,2.0,2.0,78,NA,2.0,2.0,It's A Lonely Town (Lonely Without You),2.0
+78,The Marvelettes,0.785,1963-08-31,0.756,none,brill building pop,3.0,1.0,79,0XnePuhsh6Z2txXwWbM8dB,117.361,4.0,My Daddy Knows Best,0.86
+79,The Supremes,0.604,1963-08-31,0.529,none,adult standards,2.0,1.0,80,1ePIjPuiQvrLKKYJhW7dPh,109.627,4.0,A Breath Taking Guy,0.8
+80,Dionne Warwick,0.557,1963-08-31,0.117,none,adult standards,0.0,1.0,81,0elZdXAqbBu3fJGUbzvxqa,92.895,4.0,Make The Music Play,0.586
+81,Barbara Lynn,0.579,1963-08-31,0.299,none,brill building pop,7.0,1.0,82,1kWnbqS0pNBX9UNFIdBoXw,89.463,3.0,(I Cried at) Laura's Wedding,0.194
+82,Bobby Darin,0.612,1963-08-31,0.332,none,adult standards,0.0,1.0,83,2nH8k1bk6a5q9cGR5aeWg5,141.68,4.0,Treat My Baby Good,0.844
+83,Lonnie Mack,0.473,1963-08-31,0.939,none,blues,5.0,1.0,84,5bl3qKqYDjmxC7N6EDEILU,97.702,4.0,Wham!,0.603
+84,Paul and Paula,0.664,1963-08-31,0.232,none,NA,4.0,0.0,85,44bYUSTnQmg2FUV2PfLaro,104.996,3.0,"Something Old, Something New",0.329
+85,Etta James,0.744,1963-08-31,0.628,none,adult standards,9.0,0.0,86,1yal6iLzB19q1RufNTQv23,123.667,4.0,Pay Back,0.851
+86,Theola Kilgore,0.333,1963-08-31,0.244,none,NA,2.0,1.0,87,49jjqrwdxyALm7KFdGklmJ,164.172,3.0,This Is My Prayer,0.268
+87,Gene Chandler,0.626,1963-08-31,0.39,none,brill building pop,7.0,0.0,88,1Wn37xGKGoyX4MOEHU00ED,88.857,4.0,Man's Temptation,0.616
+88,"Dave ""Baby"" Cortez",2.0,1963-08-31,2.0,none,NA,2.0,2.0,89,NA,2.0,2.0,Organ Shout,2.0
+89,The Ronettes,0.511,1963-08-31,0.769,none,adult standards,4.0,1.0,90,2G2YzndIA6jeWFPBXhUjh5,129.657,4.0,Be My Baby,0.818
+90,The Rip Chords,0.407,1963-08-31,0.862,none,surf music,8.0,1.0,91,6tA3SPyCtfuhneMvqv64iL,123.152,4.0,Gone,0.628
+91,The Surfaris,0.455,1963-08-31,0.784,none,surf music,7.0,1.0,92,1HwgyG7HjF5b9zNZx1Xe9M,161.564,4.0,Surfer Joe,0.899
+92,Nancy Wilson,0.336,1963-08-31,0.0531,none,adult standards,1.0,1.0,93,4vwWoQ2CtxgVTjQqmtsSSW,182.472,3.0,Tell Me The Truth,0.24
+93,The Tokens,0.502,1963-08-31,0.521,none,brill building pop,5.0,1.0,94,69QS5AgPawph9CK9G84ylB,106.592,4.0,Hear The Bells,0.863
+94,Kim Weston,0.263,1963-08-31,0.644,none,motown,2.0,1.0,95,70Ku5YKVxSyueEFiLSWDVW,186.517,3.0,Love Me All The Way,0.741
+95,Booker T.,0.781,1963-08-31,0.432,The MG's,classic soul,5.0,1.0,96,0MyGuEPxayhpnKbYu0d171,114.623,4.0,Chinese Checkers,0.885
+96,Nat King Cole,0.249,1963-08-31,0.46,none,adult standards,1.0,1.0,97,3SWIQx1j5erTiT9IXcaRNH,82.495,4.0,"That Sunday, That Summer",0.462
+97,Patsy Cline,0.452,1963-08-31,0.181,none,adult standards,3.0,1.0,98,38QAcUDEgGywXQnTHlTHfP,91.717,4.0,Faded Love,0.419
+98,The Dovells,0.397,1963-08-31,0.872,none,brill building pop,5.0,1.0,99,6GRsBT5CdW83MZv4awUL45,163.999,4.0,Betty In Bermudas,0.913
+99,Ray Price,0.327,1963-08-31,0.251,none,country gospel,1.0,1.0,100,6GdUQeyYPcRX33xZ5JcUGW,136.942,4.0,Make The World Go Away,0.405
+0,The Angels,0.679,1963-09-07,0.871,none,australian rock,3.0,1.0,1,5NiFSI8iIDtVm1NCwdYrHS,135.111,4.0,My Boyfriend's Back,0.964
+1,Allan Sherman,0.591,1963-09-07,0.337,none,comic,9.0,1.0,2,1WvcgDbT79xeAa7Mv0klkK,120.17,4.0,"Hello Mudduh, Hello Fadduh! (A Letter From Camp)",0.729
+2,Trini Lopez,0.468,1963-09-07,0.933,none,adult standards,11.0,0.0,3,4JMl6POnS2IPBpVVwDl06P,85.505,4.0,If I Had A Hammer,0.867
+3,Bobby Vinton,0.376,1963-09-07,0.246,none,adult standards,10.0,1.0,4,4QelFzhVgLomeQhvKrwM1S,80.167,1.0,Blue Velvet,0.282
+4,The 4 Seasons,0.644,1963-09-07,0.52,none,adult standards,5.0,1.0,5,4AFLFG6pyvhBLC37FbDwc2,126.204,4.0,Candy Girl,0.715
+5,Martha,0.624,1963-09-07,0.61,The Vandellas,brill building pop,0.0,0.0,6,3VgrSJEKBRT3xmwzpaxxEF,82.65,4.0,Heat Wave,0.759
+6,Inez Foxx with Charlie Foxx,2.0,1963-09-07,2.0,none,NA,2.0,2.0,7,NA,2.0,2.0,Mockingbird,2.0
+7,Major Lance,0.799,1963-09-07,0.689,none,brill building pop,5.0,1.0,8,0VtvetMMdBu88MbUeM5YnL,123.169,4.0,The Monkey Time,0.948
+8,"Peter, Paul",0.381,1963-09-07,0.0848,Mary,american folk revival,5.0,1.0,9,62Yu8QL1g9pdbvN4XL9Rah,155.036,4.0,Blowin' In The Wind,0.557
+9,Freddie Scott,0.394,1963-09-07,0.297,none,southern soul,5.0,1.0,10,3vZyw7jyBpwgIEExgEOGJd,85.804,4.0,"Hey, Girl",0.5
+10,Little Stevie Wonder,2.0,1963-09-07,2.0,none,NA,2.0,2.0,11,NA,2.0,2.0,Fingertips - Pt 2,2.0
+11,The Beach Boys,0.522,1963-09-07,0.37,none,brill building pop,2.0,1.0,12,1AJ5F0FMTC3yFU3ocjy1gE,105.826,3.0,Surfer Girl,0.653
+12,Randy,0.547,1963-09-07,0.678,The Rainbows,doo-wop,5.0,0.0,13,2uyTuHLAB3unDK1vkjViH5,125.883,4.0,Denise,0.895
+13,Sam Cooke,0.515,1963-09-07,0.486,none,adult standards,5.0,1.0,14,4wJw1D8jb09iHuawQawYda,118.218,4.0,Frankie And Johnny,0.555
+14,The Crystals,0.44,1963-09-07,0.682,none,adult standards,4.0,1.0,15,5usNPz6U1acDrkUYekGYDY,135.917,4.0,Then He Kissed Me,0.626
+15,Wayne Newton And The Newton Brothers,2.0,1963-09-07,2.0,none,NA,2.0,2.0,16,NA,2.0,2.0,Danke Schoen,2.0
+16,Kai Winding,0.435,1963-09-07,0.554,Orchestra,jazz brass,4.0,0.0,17,05f3cqpj6Mf5EU0xiVLA4e,134.115,4.0,More,0.754
+17,Lesley Gore,0.739,1963-09-07,0.551,none,adult standards,11.0,0.0,18,5Vb0SgInHwS0tq46dApdBY,129.081,4.0,Judy's Turn To Cry,0.962
+18,Johnny Tillotson,0.526,1963-09-07,0.432,none,adult standards,5.0,1.0,19,2MwH3x396GF5H5EEk9t3YG,114.994,4.0,You Can Never Stop Me Loving You,0.769
+19,Al Martino,0.348,1963-09-07,0.309,none,adult standards,7.0,1.0,20,5f4LwMkyw5ldc4TCrvDoy6,103.603,4.0,"Painted, Tainted Rose",0.403
+20,The Miracles,0.694,1963-09-07,0.873,none,adult standards,2.0,0.0,21,28ODIjaThE6hBOUAAl7y3W,93.216,4.0,Mickey's Monkey,0.729
+21,The Tymes,0.542,1963-09-07,0.39,none,brill building pop,10.0,1.0,22,7MKw6Ymv5XMwCfOvCLyl77,70.231,4.0,Wonderful! Wonderful!,0.493
+22,The Surfaris,0.352,1963-09-07,0.613,none,surf music,0.0,1.0,23,4anUinKv803lyDD1vaSXhU,152.437,4.0,Wipe Out,0.52
+23,Timi Yuro,0.315,1963-09-07,0.36,none,NA,6.0,1.0,24,588hXr5A0VURVbUehZzFHa,57.18,4.0,Make The World Go Away,0.474
+24,The New Christy Minstrels,0.628,1963-09-07,0.783,none,american folk revival,5.0,1.0,25,62FgmkaAc47fWDWW24NGWK,140.475,4.0,"Green, Green",0.897
+25,Darlene Love,0.619,1963-09-07,0.699,none,adult standards,5.0,1.0,26,3kl7f6V6BG31GCtHxusxXg,148.821,4.0,Wait Til' My Bobby Gets Home,0.846
+26,The Raindrops,0.552,1963-09-07,0.674,none,brill building pop,7.0,1.0,27,26j1AFFgKumXtOdcmZX3YF,100.758,4.0,The Kind Of Boy You Can't Forget,0.51
+27,Steve,0.62,1963-09-07,0.486,Eydie,adult standards,0.0,1.0,28,7bdlmyOAMwUwLmE85K8mN2,100.506,4.0,I Want To Stay Here,0.96
+28,The Jaynetts,0.694,1963-09-07,0.453,none,classic girl group,2.0,1.0,29,31s2mbxcx4LX1EtZg1fUvA,146.6,4.0,"Sally, Go 'round The Roses",0.457
+29,The Ran-Dells,0.358,1963-09-07,0.759,none,NA,6.0,1.0,30,71hK82252yG9hfFj0jRz1d,129.618,4.0,Martian Hop,0.783
+30,Garnet Mimms,0.48,1963-09-07,0.405,The Enchanters,southern soul,10.0,1.0,31,6BiQOxPWVZvum3BZ2Bd4a7,152.646,3.0,Cry Baby,0.668
+31,Gene Pitney,0.471,1963-09-07,0.509,none,adult standards,7.0,1.0,32,6D06zb501VBESteKxkWvIg,108.83,3.0,True Love Never Runs Smooth,0.508
+32,The Tymes,0.538,1963-09-07,0.484,none,brill building pop,4.0,1.0,33,6h0LLmMVZY108wNzD5UM6O,75.656,4.0,So Much In Love,0.419
+33,The Kingston Trio,0.725,1963-09-07,0.382,none,american folk revival,4.0,1.0,34,0RoFfoNIoo8crKUbVlC1TT,115.797,4.0,Desert Pete,0.606
+34,Ruby And The Romantics,0.561,1963-09-07,0.371,none,rhythm and blues,5.0,1.0,35,3EyO59J9LIkMD9NgKu0Mhg,88.222,4.0,Hey There Lonely Boy,0.624
+35,Connie Francis,2.0,1963-09-07,2.0,none,NA,2.0,2.0,36,NA,2.0,2.0,Drownin' My Sorrows,2.0
+36,Diane Ray,2.0,1963-09-07,2.0,none,NA,2.0,2.0,37,NA,2.0,2.0,Please Don't Talk To The Lifeguard,2.0
+37,The Beach Boys,0.665,1963-09-07,0.701,none,brill building pop,8.0,1.0,38,75WMOzv7195ziyx0qEw1yE,133.853,1.0,Little Deuce Coupe,0.977
+38,Ben E. King,0.446,1963-09-07,0.262,none,adult standards,0.0,1.0,39,2iXEV6fZUCUvJmKvAMGVkL,152.07,4.0,I (Who Have Nothing),0.155
+39,Jack Nitzsche,0.301,1963-09-07,0.634,none,surf music,5.0,1.0,40,0CxWbbbU0PB7ccm6CgHnrf,106.06,4.0,The Lonely Surfer,0.403
+40,Chubby Checker,0.477,1963-09-07,0.84,none,adult standards,8.0,1.0,41,4V9WukPJV3VmOuTXMdYzuc,184.649,4.0,Twist It Up,0.961
+41,Elvis Presley With The Jordanaires,2.0,1963-09-07,2.0,none,NA,2.0,2.0,42,NA,2.0,2.0,(You're the) Devil In Disguise,2.0
+42,Little Johnny Taylor,0.467,1963-09-07,0.712,none,soul blues,5.0,1.0,43,6mt8GPZpoucW99UEfyA9pc,172.365,4.0,Part Time Love,0.833
+43,Jan,0.469,1963-09-07,0.647,Dean,adult standards,8.0,1.0,44,4ZzXPeOfMXk0iKNQGdlzDq,147.878,4.0,Surf City,0.942
+44,The Essex ,2.0,1963-09-07,2.0,Anita Humes,NA,2.0,2.0,45,NA,2.0,2.0,A Walkin' Miracle,2.0
+45,Jay,0.677,1963-09-07,0.446,The Americans,adult standards,2.0,1.0,46,6X4Sn2nTswhtxuo7Lf80h3,81.545,4.0,Only In America,0.773
+46,George Hamilton IV,0.63,1963-09-07,0.448,none,country gospel,5.0,1.0,47,5bA26v8eeZrbHJpD4YPKAX,104.024,4.0,Abilene,0.753
+47,The Duprees featuring Joey Vann,2.0,1963-09-07,2.0,none,NA,2.0,2.0,48,NA,2.0,2.0,Why Don't You Believe Me,2.0
+48,Wilson Pickett,0.42,1963-09-07,0.276,none,adult standards,0.0,1.0,49,1ueDEIC7FyoCf7MPRLSCoX,185.738,3.0,It's Too Late,0.707
+49,Barbara Lewis,0.648,1963-09-07,0.475,none,brill building pop,0.0,1.0,50,6XwYHLWmkHPIIRYIlFEe2t,116.019,4.0,Straighten Up Your Heart,0.705
+50,Andrea Carroll,2.0,1963-09-07,2.0,none,NA,2.0,2.0,51,NA,2.0,2.0,It Hurts To Be Sixteen,2.0
+51,Freddy Cannon,0.534,1963-09-07,0.849,none,brill building pop,8.0,1.0,52,6HROMYV69bB8qzrAdQoKaM,145.214,4.0,Everybody Monkey,0.969
+52,The High Keyes,2.0,1963-09-07,2.0,none,NA,2.0,2.0,53,NA,2.0,2.0,"Que Sera, Sera (Whatever Will Be, Will Be)",2.0
+53,Vic Dana,0.295,1963-09-07,0.478,none,NA,11.0,0.0,54,1bltfamMcxuxLvw6VzEYDC,101.05,3.0,More,0.481
+54,The Ronettes,0.511,1963-09-07,0.769,none,adult standards,4.0,1.0,55,2G2YzndIA6jeWFPBXhUjh5,129.657,4.0,Be My Baby,0.818
+55,Lonnie Mack,0.473,1963-09-07,0.939,none,blues,5.0,1.0,56,5bl3qKqYDjmxC7N6EDEILU,97.702,4.0,Wham!,0.603
+56,Billy Abbott And The Jewels,0.492,1963-09-07,0.43,none,NA,7.0,1.0,57,1hxZhZlC2jCuADQW6i32zl,101.809,3.0,Groovy Baby,0.323
+57,Doris Troy,0.856,1963-09-07,0.436,none,brill building pop,5.0,1.0,58,154uJXAUVoqvV5on0w03a0,107.967,4.0,Just One Look,0.944
+58,Mel Carter,0.575,1963-09-07,0.423,none,NA,8.0,1.0,59,3Rd2sk3FcMwndH2PCFgv7t,113.817,4.0,When A Boy Falls In Love,0.761
+59,Neil Sedaka,0.594,1963-09-07,0.771,none,adult standards,11.0,1.0,60,01ti2HFHInilWhcII7oyeX,128.405,4.0,The Dreamer,0.884
+60,The Pixies Three,0.534,1963-09-07,0.491,none,classic girl group,11.0,0.0,61,2JjYsmbIK6Kh02H5cYWb69,169.45,4.0,Birthday Party,0.914
+61,Bill Anderson,0.4,1963-09-07,0.235,none,country gospel,5.0,1.0,62,0R6PIalA9f5AQgD6DQk5gz,93.236,4.0,8 X 10,0.507
+62,Bobby Darin,0.612,1963-09-07,0.332,none,adult standards,0.0,1.0,63,2nH8k1bk6a5q9cGR5aeWg5,141.68,4.0,Treat My Baby Good,0.844
+63,Cliff Richard,0.686,1963-09-07,0.481,none,adult standards,4.0,1.0,64,4xHXqIwdjXRYJvwT8HNByt,144.862,4.0,Lucky Lips,0.902
+64,Kyu Sakamoto,2.0,1963-09-07,2.0,none,NA,2.0,2.0,65,NA,2.0,2.0,China Nights (Shina No Yoru),2.0
+65,Ray Charles and his Orchestra,2.0,1963-09-07,2.0,none,NA,2.0,2.0,66,NA,2.0,2.0,Busted,2.0
+66,Theola Kilgore,0.333,1963-09-07,0.244,none,NA,2.0,1.0,67,49jjqrwdxyALm7KFdGklmJ,164.172,3.0,This Is My Prayer,0.268
+67,Gene McDaniels,2.0,1963-09-07,2.0,none,NA,2.0,2.0,68,NA,2.0,2.0,It's A Lonely Town (Lonely Without You),2.0
+68,Baby Washington,0.649,1963-09-07,0.502,none,beach music,9.0,1.0,69,0V0taT8CDOCW5sbjdiDc6r,120.358,4.0,Leave Me Alone,0.844
+69,Barbara Lynn,0.579,1963-09-07,0.299,none,brill building pop,7.0,1.0,70,1kWnbqS0pNBX9UNFIdBoXw,89.463,3.0,(I Cried at) Laura's Wedding,0.194
+70,Gene Chandler,0.626,1963-09-07,0.39,none,brill building pop,7.0,0.0,71,1Wn37xGKGoyX4MOEHU00ED,88.857,4.0,Man's Temptation,0.616
+71,The Busters,0.445,1963-09-07,0.787,none,euroska,6.0,1.0,72,7zEljZMuwrvMLSOj0LhGL8,121.472,4.0,Bust Out,0.857
+72,The Marvelettes,0.785,1963-09-07,0.756,none,brill building pop,3.0,1.0,73,0XnePuhsh6Z2txXwWbM8dB,117.361,4.0,My Daddy Knows Best,0.86
+73,Little Peggy March,2.0,1963-09-07,2.0,none,NA,2.0,2.0,74,NA,2.0,2.0,"Hello Heartache, Goodbye Love",2.0
+74,The Supremes,0.604,1963-09-07,0.529,none,adult standards,2.0,1.0,75,1ePIjPuiQvrLKKYJhW7dPh,109.627,4.0,A Breath Taking Guy,0.8
+75,"Dave ""Baby"" Cortez",2.0,1963-09-07,2.0,none,NA,2.0,2.0,76,NA,2.0,2.0,Organ Shout,2.0
+76,Skeeter Davis,0.552,1963-09-07,0.666,none,brill building pop,1.0,1.0,77,0ijOfCj9PHvhnrX6WXrQns,120.292,4.0,I Can't Stay Mad At You,0.914
+77,Paul and Paula,0.664,1963-09-07,0.232,none,NA,4.0,0.0,78,44bYUSTnQmg2FUV2PfLaro,104.996,3.0,"Something Old, Something New",0.329
+78,Nat King Cole,0.249,1963-09-07,0.46,none,adult standards,1.0,1.0,79,3SWIQx1j5erTiT9IXcaRNH,82.495,4.0,"That Sunday, That Summer",0.462
+79,Sunny,0.377,1963-09-07,0.523,The Sunglows,classic soul,7.0,1.0,80,5JHwqC86I4RA1cPEBEJRDz,121.164,3.0,Talk To Me,0.55
+80,The Surfaris,0.455,1963-09-07,0.784,none,surf music,7.0,1.0,81,1HwgyG7HjF5b9zNZx1Xe9M,161.564,4.0,Surfer Joe,0.899
+81,The Righteous Brothers,0.748,1963-09-07,0.88,none,adult standards,0.0,1.0,82,4hpqwNxOhexxVStNtP9T2A,112.078,4.0,My Babe,0.412
+82,Nancy Wilson,0.336,1963-09-07,0.0531,none,adult standards,1.0,1.0,83,4vwWoQ2CtxgVTjQqmtsSSW,182.472,3.0,Tell Me The Truth,0.24
+83,The Drifters,0.597,1963-09-07,0.384,none,adult standards,7.0,1.0,84,2eFTEkvuCiR0KsgUbo9WqM,140.927,4.0,I'll Take You Home,0.965
+84,Etta James,0.744,1963-09-07,0.628,none,adult standards,9.0,0.0,85,1yal6iLzB19q1RufNTQv23,123.667,4.0,Pay Back,0.851
+85,Booker T.,0.781,1963-09-07,0.432,The MG's,classic soul,5.0,1.0,86,0MyGuEPxayhpnKbYu0d171,114.623,4.0,Chinese Checkers,0.885
+86,Johnny Mathis,0.211,1963-09-07,0.31,none,adult standards,0.0,1.0,87,3RMBmHpLtkfxf3TwdEx2T4,79.957,4.0,Sooner Or Later,0.135
+87,The Rip Chords,0.407,1963-09-07,0.862,none,surf music,8.0,1.0,88,6tA3SPyCtfuhneMvqv64iL,123.152,4.0,Gone,0.628
+88,The Shirelles,0.753,1963-09-07,0.536,none,adult standards,7.0,1.0,89,0yFKTptGHBOtMN5CwRFAYg,117.495,4.0,What Does A Girl Do?,0.928
+89,Roy Orbison,0.303,1963-09-07,0.793,none,adult standards,9.0,1.0,90,3hOGSSOLRb2rg3XOPpD8mN,165.61,4.0,Mean Woman Blues,0.732
+90,The Dovells,0.397,1963-09-07,0.872,none,brill building pop,5.0,1.0,91,6GRsBT5CdW83MZv4awUL45,163.999,4.0,Betty In Bermudas,0.913
+91,King Curtis,0.643,1963-09-07,0.908,none,jazz blues,10.0,1.0,92,0ipAdWU3FibeMoNIngFDzo,128.879,4.0,Do The Monkey,0.969
+92,Jan,0.512,1963-09-07,0.813,Dean,adult standards,3.0,1.0,93,5stfCnP5f0oXkCUYRLGMI8,153.751,4.0,Honolulu Lulu,0.9
+93,Kim Weston,0.263,1963-09-07,0.644,none,motown,2.0,1.0,94,70Ku5YKVxSyueEFiLSWDVW,186.517,3.0,Love Me All The Way,0.741
+94,Jimmy Durante,0.373,1963-09-07,0.518,none,adult standards,0.0,1.0,95,0Z0i0WjaGReiOxSgELp4P6,85.639,4.0,September Song,0.419
+95,Patsy Cline,0.452,1963-09-07,0.181,none,adult standards,3.0,1.0,96,38QAcUDEgGywXQnTHlTHfP,91.717,4.0,Faded Love,0.419
+96,Frank Ifield,2.0,1963-09-07,2.0,none,NA,2.0,2.0,97,NA,2.0,2.0,I'm Confessin' (That I Love You),2.0
+97,Brook Benton,2.0,1963-09-07,2.0,none,NA,2.0,2.0,98,NA,2.0,2.0,Two Tickets To Paradise,2.0
+98,Johnny Crawford,2.0,1963-09-07,2.0,none,NA,2.0,2.0,99,NA,2.0,2.0,Cindy's Gonna Cry,2.0
+99,The Chiffons,0.515,1963-09-07,0.886,none,adult standards,0.0,1.0,100,2Z5rJNI4Wdxud3vwm42l4n,101.227,4.0,A Love So Fine,0.953

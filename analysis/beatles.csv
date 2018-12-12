@@ -1,0 +1,201 @@
+,artist,danceability,date,energy,featuring,genre,key,mode,rank,spotifyID,tempo,timesignature,track,valence
+0,The Beatles,0.443,1970-04-11,0.403,none,british invasion,0.0,1.0,1,7iN1s7xHE4ifF5povM6A48,143.462,4.0,Let It Be,0.41
+1,Jackson 5,0.736,1970-04-11,0.689,none,christmas,8.0,1.0,2,6wDviYDtmSDZ0S6TVMM9Vc,93.781,4.0,ABC,0.95
+2,John Ono Lennon,0.624,1970-04-11,0.931,none,album rock,11.0,0.0,3,2E9wKgL8NN7Tvydqcjoh7v,119.887,4.0,Instant Karma (We All Shine On),0.14
+3,Norman Greenbaum,0.601,1970-04-11,0.643,none,classic rock,2.0,1.0,4,0Y2SrByf4G3kbq2nBEHQRn,128.262,4.0,Spirit In The Sky,0.552
+4,Simon,0.149,1970-04-11,0.206,Garfunkel,folk,3.0,1.0,5,6l8EbYRtQMgKOyc1gcDHF9,79.764,4.0,Bridge Over Troubled Water,0.264
+5,Edison Lighthouse,0.565,1970-04-11,0.668,none,bubblegum pop,9.0,1.0,6,6i1pTt7tsEmn0KTboxWZSV,117.742,4.0,Love Grows (Where My Rosemary Goes),0.637
+6,Frijid Pink,0.315,1970-04-11,0.776,none,psychedelic blues-rock,9.0,1.0,7,6IjvCFBNprUHhlamLey2Tb,114.49,4.0,House Of The Rising Sun,0.212
+7,Badfinger,0.616,1970-04-11,0.629,none,album rock,8.0,1.0,8,0wb21I1NV5uVUolRXIqlJF,94.004,4.0,Come And Get It,0.606
+8,Bobby Sherman,0.539,1970-04-11,0.386,none,bubblegum pop,4.0,1.0,9,4Ht8wlFBxdNiQQSdWTBOik,142.823,4.0,"Easy Come, Easy Go",0.755
+9,The Jaggerz,0.822,1970-04-11,0.7,none,bubblegum pop,9.0,1.0,10,0s1PceKn7sF0Pc8bsnDN1t,120.376,4.0,The Rapper,0.961
+10,The Supremes,0.535,1970-04-11,0.565,none,adult standards,10.0,1.0,11,2sHahlW8ib7C7GkuV39tKR,120.146,4.0,Up The Ladder To The Roof,0.673
+11,The Originals,0.236,1970-04-11,0.724,none,classic soul,5.0,0.0,12,0hpIRQCG6mf4RApr0SDuDP,174.195,3.0,The Bells,0.494
+12,Aretha Franklin,2.0,1970-04-11,2.0,none,NA,2.0,2.0,13,NA,2.0,2.0,Call Me/Son Of A Preacher Man,2.0
+13,The Friends Of Distinction,0.525,1970-04-11,0.433,none,classic soul,9.0,1.0,14,4uW80X0ObmZ5YV3zeXU2Dm,96.453,4.0,Love Or Let Me Be Lonely,0.462
+14,The Guess Who,2.0,1970-04-11,2.0,none,NA,2.0,2.0,15,NA,2.0,2.0,American Woman/No Sugar Tonight,2.0
+15,Brook Benton,2.0,1970-04-11,2.0,none,NA,2.0,2.0,16,NA,2.0,2.0,Rainy Night In Georgia/Rubberneckin',2.0
+16,Chairman Of The Board,2.0,1970-04-11,2.0,none,NA,2.0,2.0,17,NA,2.0,2.0,Give Me Just A Little More Time,2.0
+17,Santana,0.704,1970-04-11,0.528,none,blues-rock,5.0,1.0,18,5tmrnhMxx39jnu3kjopMdP,117.472,4.0,Evil Ways,0.73
+18,The Hollies,0.319,1970-04-11,0.275,none,adult standards,7.0,1.0,19,6f5sSC3ORfpUMYtE4J06VW,75.754,4.0,"He Ain't Heavy, He's My Brother",0.253
+19,Three Dog Night,0.46,1970-04-11,0.498,none,album rock,5.0,1.0,20,5RiLHDGPrVvAEtpvICiqYM,101.419,4.0,Celebrate,0.831
+20,Kenny Rogers,0.44,1970-04-11,0.338,The First Edition,NA,9.0,1.0,21,4m9zF5OiikfhWTjcXTHAJx,93.62,4.0,Something's Burning,0.384
+21,Tyrone Davis,0.563,1970-04-11,0.655,none,chicago soul,6.0,1.0,22,5o3qMny3Ym8O512RKrNoLw,117.794,4.0,Turn Back The Hands Of Time,0.866
+22,Jr. Walker,0.61,1970-04-11,0.689,The All Stars,brill building pop,1.0,1.0,23,2dlVeyhP1kM1xdfJGN6gpG,113.482,4.0,Gotta Hold On To This Feeling,0.863
+23,Little Sister,2.0,1970-04-11,2.0,none,NA,2.0,2.0,24,NA,2.0,2.0,You're The One-Part II,2.0
+24,Neil Diamond,0.498,1970-04-11,0.61,none,adult standards,0.0,1.0,25,1qy5SpKS8o90FvrgQYUhM2,135.421,4.0,Shilo,0.501
+25,Michael Parks,0.605,1970-04-11,0.263,none,NA,2.0,1.0,26,7qHGRefOGiaPqrG4IEckcv,85.112,4.0,Long Lonesome Highway,0.343
+26,Jack Blanchard,0.711,1970-04-11,0.819,Misty Morgan,NA,0.0,1.0,27,4xSrLrL3N7dDenrJ4cplzw,130.224,4.0,Tennessee Bird Walk,0.88
+27,The Delfonics,0.484,1970-04-11,0.59,none,classic soul,9.0,1.0,28,1NeKY4qWsCnhY8fvhwQa7q,140.588,4.0,Didn't I (Blow Your Mind This Time),0.324
+28,The Tee Set,2.0,1970-04-11,2.0,none,NA,2.0,2.0,29,NA,2.0,2.0,Ma Belle Amie,2.0
+29,The Marmalade,0.505,1970-04-11,0.626,none,NA,7.0,1.0,30,6rfD32x69f5xbUj5wnRMmi,94.669,4.0,Reflections Of My Life,0.407
+30,Elvis Presley,0.431,1970-04-11,0.444,none,christmas,0.0,1.0,31,2jZ0RcOfjdhoyvylgqNrvh,105.657,4.0,Kentucky Rain,0.559
+31,Bobbie Gentry,0.427,1970-04-11,0.338,Glen Campbell,nashville sound,3.0,1.0,32,3FUGhktHS6iEAReiDwXuqm,95.133,4.0,All I Have To Do Is Dream,0.603
+32,"Crosby, Stills, Nash",0.458,1970-04-11,0.539,Young,album rock,4.0,0.0,33,2iqKVzMZpyUVPwxIVaQkhm,118.928,4.0,Woodstock,0.56
+33,Gladys Knight And The Pips,0.729,1970-04-11,0.878,none,adult standards,10.0,0.0,34,1nnzQEn5dc5IXfEiHZhmRB,104.245,4.0,You Need Love Like I Do (Don't You),0.832
+34,Rare Earth,0.619,1970-04-11,0.833,none,blues-rock,2.0,0.0,35,6s908FOHbvhdyTJLPoqxPg,136.783,4.0,Get Ready,0.963
+35,Rufus Thomas,0.731,1970-04-11,0.528,none,classic soul,1.0,0.0,36,5lxw9o6P1cYDoSXPygM0q3,85.039,4.0,Do The Funky Chicken,0.656
+36,B.J. Thomas,0.417,1970-04-11,0.484,none,adult standards,5.0,1.0,37,184oLWuOMlV5GikWtOdzUh,82.149,4.0,Everybody's Out Of Town,0.651
+37,The Ides Of March,0.474,1970-04-11,0.734,none,NA,10.0,0.0,38,6hnyQ0YpiO35rutiLLHLmr,101.751,4.0,Vehicle,0.926
+38,Bobbi Martin,0.699,1970-04-11,0.359,none,NA,0.0,1.0,39,0mI3I8bE8cvL5qhgg9bBmA,114.977,4.0,For The Love Of Him,0.427
+39,George Baker Selection,0.702,1970-04-11,0.736,none,NA,7.0,1.0,40,2RWMaxTOvjadKecWquqq09,103.447,4.0,Little Green Bag,0.867
+40,Mary Hopkin,2.0,1970-04-11,2.0,none,NA,2.0,2.0,41,NA,2.0,2.0,Temma Harbour,2.0
+41,Marty Robbins,0.429,1970-04-11,0.317,none,christmas,0.0,1.0,42,7K40sZ0ZV6vGjzSso2nFyr,102.109,3.0,"My Woman, My Woman, My Wife",0.302
+42,The Shocking Blue,2.0,1970-04-11,2.0,none,NA,2.0,2.0,43,NA,2.0,2.0,Mighty Joe,2.0
+43,The Archies,0.647,1970-04-11,0.869,none,brill building pop,9.0,1.0,44,4Q30qlfiBbVV3NxZVBb6j9,110.717,4.0,Who's Your Baby?,0.894
+44,Gary Puckett And The Union Gap,0.379,1970-04-11,0.588,none,adult standards,9.0,1.0,45,2RXN9XJzT2TN2HyYxWnZSb,94.015,4.0,Let's Give Adam And Eve Another Chance,0.443
+45,Jerry Butler,0.569,1970-04-11,0.436,none,brill building pop,10.0,1.0,46,3edeGySwO4sM6THpipOkPy,130.216,4.0,I Could Write A Book,0.647
+46,Eddie Floyd,0.593,1970-04-11,0.538,none,classic soul,1.0,1.0,47,1WnDrUJJAUDe9F3j8gBmxW,102.556,4.0,California Girl,0.827
+47,Rick Nelson,2.0,1970-04-11,2.0,none,NA,2.0,2.0,48,NA,2.0,2.0,Easy To Be Free,2.0
+48,Street People,2.0,1970-04-11,2.0,none,NA,2.0,2.0,49,NA,2.0,2.0,Jennifer Tomkins,2.0
+49,Doris Duke,0.432,1970-04-11,0.358,none,southern soul,7.0,1.0,50,2nRk3PqhhekI963sCvoRrm,147.127,4.0,To The Other Woman (I'm The Other Woman),0.455
+50,James Brown,0.71,1970-04-11,0.794,none,christmas,0.0,1.0,51,5WPm3B8vaBHSUW3L12saUh,96.789,4.0,Funky Drummer (Part 1),0.781
+51,Ray Stevens,0.37,1970-04-11,0.378,none,bubblegum pop,5.0,1.0,52,3rrrMhc76FDnS4N7wu2KfH,112.159,4.0,Everything Is Beautiful,0.722
+52,Tommy James And The Shondells,0.657,1970-04-11,0.818,none,bubblegum pop,9.0,1.0,53,2G2UIrNn8RzuLopnjnSzuj,148.327,4.0,Gotta Get Back To You,0.851
+53,Joe South,0.507,1970-04-11,0.577,none,bubblegum pop,8.0,1.0,54,3NcbI0iX8VQyR9D3qsmNjl,89.271,4.0,Children,0.731
+54,The Village Soul Choir,2.0,1970-04-11,2.0,none,NA,2.0,2.0,55,NA,2.0,2.0,The Cat Walk,2.0
+55,The Moments,0.472,1970-04-11,0.339,none,classic soul,2.0,1.0,56,2gImbBWvXQWQ9ZDSQUWvNI,141.357,4.0,Love On A Two-Way Street,0.242
+56,Chicago,0.641,1970-04-11,0.697,none,adult standards,3.0,1.0,57,7k0UY4Kabh7SUHXowyfKj7,125.0,4.0,Make Me Smile,0.781
+57,Ike,0.762,1970-04-11,0.252,Tina Turner,brill building pop,3.0,0.0,58,03mWW5Mpi0RMRGHDki19bi,79.445,4.0,Come Together,0.302
+58,Van Morrison,0.656,1970-04-11,0.594,none,classic rock,9.0,1.0,59,340k3JIT2OD06pNNpH38KW,98.356,4.0,Come Running,0.778
+59,Jay,0.809,1970-04-11,0.428,The Americans,NA,8.0,1.0,60,7LcqujFVOGN4cfc7NGp41y,127.143,4.0,Capture The Moment,0.257
+60,The 5th Dimension,0.518,1970-04-11,0.368,none,adult standards,2.0,0.0,61,1uXNGtOIfzozjRBX5ELZKM,115.312,4.0,The Girls' Song,0.529
+61,Dennis Yost And The Classics IV,2.0,1970-04-11,2.0,none,NA,2.0,2.0,62,NA,2.0,2.0,The Funniest Thing,2.0
+62,Bill Deal,0.62,1970-04-11,0.734,The Rhondels,beach music,1.0,1.0,63,3HZeaD9anHDrTM1AW5PY7y,123.607,4.0,Nothing Succeeds Like Success,0.926
+63,Charles Wright And The Watts 103rd Street Rhythm Band,0.669,1970-04-11,0.514,none,classic soul,0.0,0.0,64,5tMuapLvDtmai49KiqXKnu,96.356,4.0,Love Land,0.866
+64,Led Zeppelin,0.475,1970-04-11,0.808,none,album rock,9.0,1.0,65,49C6EGQhCUSgyADHYvJ7ez,152.098,4.0,Living Loving Maid (She's Just A Woman),0.896
+65,Johnny Cash,0.681,1970-04-11,0.385,none,outlaw country,4.0,1.0,66,0snyjt8NMg7Dc7E3xnDH9b,86.139,4.0,What Is Truth,0.629
+66,The 5 Stairsteps,0.505,1970-04-11,0.63,none,chicago soul,2.0,1.0,67,7agk25vHxeKe626vePNxqz,163.769,4.0,Dear Prudence,0.686
+67,Simon,0.755,1970-04-11,0.876,Garfunkel,folk,0.0,1.0,68,6QhXQOpyYvbpdbyjgAqKdY,102.762,4.0,Cecilia,0.954
+68,Jerry Naylor,0.453,1970-04-11,0.637,none,NA,3.0,1.0,69,5SX9wQDM4Zbf87SDQoldLH,105.509,4.0,But For Love,0.696
+69,Charley Pride,0.711,1970-04-11,0.407,none,country,2.0,1.0,70,2hbrah0o7ppR1HeQkDvLhj,116.626,4.0,Is Anybody Goin' To San Antone,0.875
+70,The O'Jays,0.575,1970-04-11,0.562,none,classic soul,3.0,1.0,71,1PSfY3lSwBD888PZW0s5JH,169.362,4.0,Deeper (In Love With You),0.902
+71,George Perkins,2.0,1970-04-11,2.0,The Silver Stars,NA,2.0,2.0,72,NA,2.0,2.0,Cryin' In The Streets (Part 1),2.0
+72,The Poppy Family (,0.508,1970-04-11,0.67,Susan Jacks),bubblegum pop,1.0,1.0,73,6TtWuzlHNTvtnpO0pI83MU,93.406,4.0,Which Way You Goin' Billy?,0.646
+73,The Meters,0.612,1970-04-11,0.623,none,afrobeat,9.0,1.0,74,5wM6XpfVG7SdvQPt86KgIH,100.996,4.0,Chicken Strut,0.757
+74,B.B. King,0.681,1970-04-11,0.778,none,blues,7.0,1.0,75,3mrrWFfuesBi5fswdz1Xxf,138.718,4.0,So Excited,0.866
+75,The Cuff Links,2.0,1970-04-11,2.0,none,NA,2.0,2.0,76,NA,2.0,2.0,Run Sally Run,2.0
+76,Steppenwolf,0.594,1970-04-11,0.807,none,album rock,1.0,0.0,77,7uBFTvkmgnCpaIe5c2MU7x,98.65,4.0,Hey Lawdy Mama,0.55
+77,Syndicate Of Sound,2.0,1970-04-11,2.0,none,NA,2.0,2.0,78,NA,2.0,2.0,Brown Paper Bag,2.0
+78,Bobbie Gentry,0.58,1970-04-11,0.347,none,nashville sound,0.0,0.0,79,2gMxsK1P5PF65J6q4rsCYl,156.288,4.0,He Made A Woman Out Of Me,0.825
+79,Funkadelic,0.515,1970-04-11,0.877,none,funk,2.0,1.0,80,2jPXEgRWL09g6Z9wY7BZEQ,76.361,4.0,"I Got A Thing, You Got A Thing, Everybody's Got A Thing",0.645
+80,Mark Lindsay,0.239,1970-04-11,0.551,none,bubblegum pop,4.0,1.0,81,18fLsmC4wj5Xf8QgkOraFZ,178.044,4.0,Miss America,0.36
+81,Eddie Holman,2.0,1970-04-11,2.0,none,NA,2.0,2.0,82,NA,2.0,2.0,Don't Stop Now/Since I Don't Have You,2.0
+82,Vanity Fare,0.73,1970-04-11,0.643,none,brill building pop,0.0,1.0,83,4dfXR186pboAgONCVQwMz6,130.748,4.0,Hitchin' A Ride,0.977
+83,Bobby Goldsboro,0.43,1970-04-11,0.593,none,adult standards,2.0,1.0,84,6pEjBxiCswWA00t9MhEfjh,97.537,4.0,Can You Feel It,0.449
+84,Turley Richards,2.0,1970-04-11,2.0,none,NA,2.0,2.0,85,NA,2.0,2.0,Love Minus Zero-No Limit,2.0
+85,Flamingos,2.0,1970-04-11,2.0,none,NA,2.0,2.0,86,NA,2.0,2.0,Buffalo Soldier,2.0
+86,Charlie Rich,0.674,1970-04-11,0.244,none,country,9.0,1.0,87,0a32BQVIZxqDYiSHtvpAkb,118.795,4.0,"July 12, 1939",0.635
+87,The Sandpipers,0.168,1970-04-11,0.593,none,bubblegum pop,2.0,1.0,88,6CktzfYm1SNLwFiyV9XwJY,155.247,3.0,Come Saturday Morning,0.718
+88,El Chicano,2.0,1970-04-11,2.0,none,NA,2.0,2.0,89,NA,2.0,2.0,Viva Tirado - Part I,2.0
+89,Vincent Bell,2.0,1970-04-11,2.0,none,NA,2.0,2.0,90,NA,2.0,2.0,Airport Love Theme (Gwen And Vern),2.0
+90,Eddie,2.0,1970-04-11,2.0,Dutch,NA,2.0,2.0,91,NA,2.0,2.0,"My Wife, The Dancer",2.0
+91,Wilson Pickett,0.446,1970-04-11,0.4,none,adult standards,7.0,1.0,92,6eOEZUvy3lXFrpDpLOyqN8,140.091,4.0,"Cole, Cooke & Redding",0.625
+92,The Lettermen,2.0,1970-04-11,2.0,none,NA,2.0,2.0,93,NA,2.0,2.0,Hang On Sloopy,2.0
+93,Mountain,0.58,1970-04-11,0.624,none,album rock,9.0,1.0,94,4vO9dmzNRqDhFY3jD1a3P7,139.72,4.0,Mississippi Queen,0.639
+94,Glen Campbell,0.166,1970-04-11,0.445,none,adult standards,2.0,1.0,95,03BmLn9FpEZ0bXwtAX0pv8,189.186,3.0,Oh Happy Day,0.384
+95,Bob Seger System,2.0,1970-04-11,2.0,none,NA,2.0,2.0,96,NA,2.0,2.0,Lucifer,2.0
+96,The Doors,2.0,1970-04-11,2.0,none,NA,2.0,2.0,97,NA,2.0,2.0,You Make Me Real/Roadhouse Blues,2.0
+97,Bee Gees,0.335,1970-04-11,0.391,none,disco,2.0,1.0,98,49TAefltwdGl085fK0EcUV,142.851,4.0,If Only I Had My Mind On Something Else,0.599
+98,Clarence Carter,0.694,1970-04-11,0.445,none,classic soul,6.0,1.0,99,01qWCNkkknoQktSrxjIHF8,112.594,4.0,I Can't Leave Your Love Alone,0.96
+99,Oliver,2.0,1970-04-11,2.0,none,NA,2.0,2.0,100,NA,2.0,2.0,Angelica,2.0
+0,The Beatles,0.443,1970-04-18,0.403,none,british invasion,0.0,1.0,1,7iN1s7xHE4ifF5povM6A48,143.462,4.0,Let It Be,0.41
+1,Jackson 5,0.736,1970-04-18,0.689,none,christmas,8.0,1.0,2,6wDviYDtmSDZ0S6TVMM9Vc,93.781,4.0,ABC,0.95
+2,Norman Greenbaum,0.601,1970-04-18,0.643,none,classic rock,2.0,1.0,3,0Y2SrByf4G3kbq2nBEHQRn,128.262,4.0,Spirit In The Sky,0.552
+3,John Ono Lennon,0.624,1970-04-18,0.931,none,album rock,11.0,0.0,4,2E9wKgL8NN7Tvydqcjoh7v,119.887,4.0,Instant Karma (We All Shine On),0.14
+4,Edison Lighthouse,0.565,1970-04-18,0.668,none,bubblegum pop,9.0,1.0,5,6i1pTt7tsEmn0KTboxWZSV,117.742,4.0,Love Grows (Where My Rosemary Goes),0.637
+5,Simon,0.149,1970-04-18,0.206,Garfunkel,folk,3.0,1.0,6,6l8EbYRtQMgKOyc1gcDHF9,79.764,4.0,Bridge Over Troubled Water,0.264
+6,Badfinger,0.616,1970-04-18,0.629,none,album rock,8.0,1.0,7,0wb21I1NV5uVUolRXIqlJF,94.004,4.0,Come And Get It,0.606
+7,The Friends Of Distinction,0.525,1970-04-18,0.433,none,classic soul,9.0,1.0,8,4uW80X0ObmZ5YV3zeXU2Dm,96.453,4.0,Love Or Let Me Be Lonely,0.462
+8,The Guess Who,2.0,1970-04-18,2.0,none,NA,2.0,2.0,9,NA,2.0,2.0,American Woman/No Sugar Tonight,2.0
+9,The Supremes,0.535,1970-04-18,0.565,none,adult standards,10.0,1.0,10,2sHahlW8ib7C7GkuV39tKR,120.146,4.0,Up The Ladder To The Roof,0.673
+10,Bobby Sherman,0.539,1970-04-18,0.386,none,bubblegum pop,4.0,1.0,11,4Ht8wlFBxdNiQQSdWTBOik,142.823,4.0,"Easy Come, Easy Go",0.755
+11,The Originals,0.236,1970-04-18,0.724,none,classic soul,5.0,0.0,12,0hpIRQCG6mf4RApr0SDuDP,174.195,3.0,The Bells,0.494
+12,Frijid Pink,0.315,1970-04-18,0.776,none,psychedelic blues-rock,9.0,1.0,13,6IjvCFBNprUHhlamLey2Tb,114.49,4.0,House Of The Rising Sun,0.212
+13,The Jaggerz,0.822,1970-04-18,0.7,none,bubblegum pop,9.0,1.0,14,0s1PceKn7sF0Pc8bsnDN1t,120.376,4.0,The Rapper,0.961
+14,Kenny Rogers,0.44,1970-04-18,0.338,The First Edition,NA,9.0,1.0,15,4m9zF5OiikfhWTjcXTHAJx,93.62,4.0,Something's Burning,0.384
+15,Tyrone Davis,0.563,1970-04-18,0.655,none,chicago soul,6.0,1.0,16,5o3qMny3Ym8O512RKrNoLw,117.794,4.0,Turn Back The Hands Of Time,0.866
+16,"Crosby, Stills, Nash",0.458,1970-04-18,0.539,Young,album rock,4.0,0.0,17,2iqKVzMZpyUVPwxIVaQkhm,118.928,4.0,Woodstock,0.56
+17,The Marmalade,0.505,1970-04-18,0.626,none,NA,7.0,1.0,18,6rfD32x69f5xbUj5wnRMmi,94.669,4.0,Reflections Of My Life,0.407
+18,Chairman Of The Board,2.0,1970-04-18,2.0,none,NA,2.0,2.0,19,NA,2.0,2.0,Give Me Just A Little More Time,2.0
+19,Michael Parks,0.605,1970-04-18,0.263,none,NA,2.0,1.0,20,7qHGRefOGiaPqrG4IEckcv,85.112,4.0,Long Lonesome Highway,0.343
+20,Santana,0.704,1970-04-18,0.528,none,blues-rock,5.0,1.0,21,5tmrnhMxx39jnu3kjopMdP,117.472,4.0,Evil Ways,0.73
+21,Three Dog Night,0.46,1970-04-18,0.498,none,album rock,5.0,1.0,22,5RiLHDGPrVvAEtpvICiqYM,101.419,4.0,Celebrate,0.831
+22,Little Sister,2.0,1970-04-18,2.0,none,NA,2.0,2.0,23,NA,2.0,2.0,You're The One-Part II,2.0
+23,Jack Blanchard,0.711,1970-04-18,0.819,Misty Morgan,NA,0.0,1.0,24,4xSrLrL3N7dDenrJ4cplzw,130.224,4.0,Tennessee Bird Walk,0.88
+24,Neil Diamond,0.498,1970-04-18,0.61,none,adult standards,0.0,1.0,25,1qy5SpKS8o90FvrgQYUhM2,135.421,4.0,Shilo,0.501
+25,Aretha Franklin,2.0,1970-04-18,2.0,none,NA,2.0,2.0,26,NA,2.0,2.0,Call Me/Son Of A Preacher Man,2.0
+26,The Hollies,0.319,1970-04-18,0.275,none,adult standards,7.0,1.0,27,6f5sSC3ORfpUMYtE4J06VW,75.754,4.0,"He Ain't Heavy, He's My Brother",0.253
+27,Bobbi Martin,0.699,1970-04-18,0.359,none,NA,0.0,1.0,28,0mI3I8bE8cvL5qhgg9bBmA,114.977,4.0,For The Love Of Him,0.427
+28,Jr. Walker,0.61,1970-04-18,0.689,The All Stars,brill building pop,1.0,1.0,29,2dlVeyhP1kM1xdfJGN6gpG,113.482,4.0,Gotta Hold On To This Feeling,0.863
+29,Gladys Knight And The Pips,0.729,1970-04-18,0.878,none,adult standards,10.0,0.0,30,1nnzQEn5dc5IXfEiHZhmRB,104.245,4.0,You Need Love Like I Do (Don't You),0.832
+30,Brook Benton,2.0,1970-04-18,2.0,none,NA,2.0,2.0,31,NA,2.0,2.0,Rainy Night In Georgia/Rubberneckin',2.0
+31,The Ides Of March,0.474,1970-04-18,0.734,none,NA,10.0,0.0,32,6hnyQ0YpiO35rutiLLHLmr,101.751,4.0,Vehicle,0.926
+32,Rare Earth,0.619,1970-04-18,0.833,none,blues-rock,2.0,0.0,33,6s908FOHbvhdyTJLPoqxPg,136.783,4.0,Get Ready,0.963
+33,B.J. Thomas,0.417,1970-04-18,0.484,none,adult standards,5.0,1.0,34,184oLWuOMlV5GikWtOdzUh,82.149,4.0,Everybody's Out Of Town,0.651
+34,George Baker Selection,0.702,1970-04-18,0.736,none,NA,7.0,1.0,35,2RWMaxTOvjadKecWquqq09,103.447,4.0,Little Green Bag,0.867
+35,Bobbie Gentry,0.427,1970-04-18,0.338,Glen Campbell,nashville sound,3.0,1.0,36,3FUGhktHS6iEAReiDwXuqm,95.133,4.0,All I Have To Do Is Dream,0.603
+36,Ray Stevens,0.37,1970-04-18,0.378,none,bubblegum pop,5.0,1.0,37,3rrrMhc76FDnS4N7wu2KfH,112.159,4.0,Everything Is Beautiful,0.722
+37,Simon,0.755,1970-04-18,0.876,Garfunkel,folk,0.0,1.0,38,6QhXQOpyYvbpdbyjgAqKdY,102.762,4.0,Cecilia,0.954
+38,Rufus Thomas,0.731,1970-04-18,0.528,none,classic soul,1.0,0.0,39,5lxw9o6P1cYDoSXPygM0q3,85.039,4.0,Do The Funky Chicken,0.656
+39,The Moments,0.472,1970-04-18,0.339,none,classic soul,2.0,1.0,40,2gImbBWvXQWQ9ZDSQUWvNI,141.357,4.0,Love On A Two-Way Street,0.242
+40,Chicago,0.641,1970-04-18,0.697,none,adult standards,3.0,1.0,41,7k0UY4Kabh7SUHXowyfKj7,125.0,4.0,Make Me Smile,0.781
+41,Marty Robbins,0.429,1970-04-18,0.317,none,christmas,0.0,1.0,42,7K40sZ0ZV6vGjzSso2nFyr,102.109,3.0,"My Woman, My Woman, My Wife",0.302
+42,Van Morrison,0.656,1970-04-18,0.594,none,classic rock,9.0,1.0,43,340k3JIT2OD06pNNpH38KW,98.356,4.0,Come Running,0.778
+43,Vincent Bell,2.0,1970-04-18,2.0,none,NA,2.0,2.0,44,NA,2.0,2.0,Airport Love Theme (Gwen And Vern),2.0
+44,Eddie Floyd,0.593,1970-04-18,0.538,none,classic soul,1.0,1.0,45,1WnDrUJJAUDe9F3j8gBmxW,102.556,4.0,California Girl,0.827
+45,Johnny Cash,0.681,1970-04-18,0.385,none,outlaw country,4.0,1.0,46,0snyjt8NMg7Dc7E3xnDH9b,86.139,4.0,What Is Truth,0.629
+46,The 5th Dimension,0.518,1970-04-18,0.368,none,adult standards,2.0,0.0,47,1uXNGtOIfzozjRBX5ELZKM,115.312,4.0,The Girls' Song,0.529
+47,The Poppy Family (,0.508,1970-04-18,0.67,Susan Jacks),bubblegum pop,1.0,1.0,48,6TtWuzlHNTvtnpO0pI83MU,93.406,4.0,Which Way You Goin' Billy?,0.646
+48,The Archies,0.647,1970-04-18,0.869,none,brill building pop,9.0,1.0,49,4Q30qlfiBbVV3NxZVBb6j9,110.717,4.0,Who's Your Baby?,0.894
+49,The Shocking Blue,2.0,1970-04-18,2.0,none,NA,2.0,2.0,50,NA,2.0,2.0,Mighty Joe,2.0
+50,Gary Puckett And The Union Gap,0.379,1970-04-18,0.588,none,adult standards,9.0,1.0,51,2RXN9XJzT2TN2HyYxWnZSb,94.015,4.0,Let's Give Adam And Eve Another Chance,0.443
+51,Glen Campbell,0.166,1970-04-18,0.445,none,adult standards,2.0,1.0,52,03BmLn9FpEZ0bXwtAX0pv8,189.186,3.0,Oh Happy Day,0.384
+52,Jerry Butler,0.569,1970-04-18,0.436,none,brill building pop,10.0,1.0,53,3edeGySwO4sM6THpipOkPy,130.216,4.0,I Could Write A Book,0.647
+53,Joe South,0.507,1970-04-18,0.577,none,bubblegum pop,8.0,1.0,54,3NcbI0iX8VQyR9D3qsmNjl,89.271,4.0,Children,0.731
+54,The Village Soul Choir,2.0,1970-04-18,2.0,none,NA,2.0,2.0,55,NA,2.0,2.0,The Cat Walk,2.0
+55,James Brown,0.71,1970-04-18,0.794,none,christmas,0.0,1.0,56,5WPm3B8vaBHSUW3L12saUh,96.789,4.0,Funky Drummer (Part 1),0.781
+56,Jay,0.809,1970-04-18,0.428,The Americans,NA,8.0,1.0,57,7LcqujFVOGN4cfc7NGp41y,127.143,4.0,Capture The Moment,0.257
+57,Ike,0.762,1970-04-18,0.252,Tina Turner,brill building pop,3.0,0.0,58,03mWW5Mpi0RMRGHDki19bi,79.445,4.0,Come Together,0.302
+58,Dennis Yost And The Classics IV,2.0,1970-04-18,2.0,none,NA,2.0,2.0,59,NA,2.0,2.0,The Funniest Thing,2.0
+59,Doris Duke,0.432,1970-04-18,0.358,none,southern soul,7.0,1.0,60,2nRk3PqhhekI963sCvoRrm,147.127,4.0,To The Other Woman (I'm The Other Woman),0.455
+60,The Sandpipers,0.168,1970-04-18,0.593,none,bubblegum pop,2.0,1.0,61,6CktzfYm1SNLwFiyV9XwJY,155.247,3.0,Come Saturday Morning,0.718
+61,Bill Deal,0.62,1970-04-18,0.734,The Rhondels,beach music,1.0,1.0,62,3HZeaD9anHDrTM1AW5PY7y,123.607,4.0,Nothing Succeeds Like Success,0.926
+62,Charles Wright And The Watts 103rd Street Rhythm Band,0.669,1970-04-18,0.514,none,classic soul,0.0,0.0,63,5tMuapLvDtmai49KiqXKnu,96.356,4.0,Love Land,0.866
+63,Mark Lindsay,0.239,1970-04-18,0.551,none,bubblegum pop,4.0,1.0,64,18fLsmC4wj5Xf8QgkOraFZ,178.044,4.0,Miss America,0.36
+64,Steppenwolf,0.594,1970-04-18,0.807,none,album rock,1.0,0.0,65,7uBFTvkmgnCpaIe5c2MU7x,98.65,4.0,Hey Lawdy Mama,0.55
+65,The 5 Stairsteps,0.505,1970-04-18,0.63,none,chicago soul,2.0,1.0,66,7agk25vHxeKe626vePNxqz,163.769,4.0,Dear Prudence,0.686
+66,The Meters,0.612,1970-04-18,0.623,none,afrobeat,9.0,1.0,67,5wM6XpfVG7SdvQPt86KgIH,100.996,4.0,Chicken Strut,0.757
+67,George Perkins,2.0,1970-04-18,2.0,The Silver Stars,NA,2.0,2.0,68,NA,2.0,2.0,Cryin' In The Streets (Part 1),2.0
+68,Jerry Naylor,0.453,1970-04-18,0.637,none,NA,3.0,1.0,69,5SX9wQDM4Zbf87SDQoldLH,105.509,4.0,But For Love,0.696
+69,The O'Jays,0.575,1970-04-18,0.562,none,classic soul,3.0,1.0,70,1PSfY3lSwBD888PZW0s5JH,169.362,4.0,Deeper (In Love With You),0.902
+70,Charley Pride,0.711,1970-04-18,0.407,none,country,2.0,1.0,71,2hbrah0o7ppR1HeQkDvLhj,116.626,4.0,Is Anybody Goin' To San Antone,0.875
+71,Joe Cocker with Leon Russell,2.0,1970-04-18,2.0,The Shelter People,NA,2.0,2.0,72,NA,2.0,2.0,The Letter,2.0
+72,B.B. King,0.681,1970-04-18,0.778,none,blues,7.0,1.0,73,3mrrWFfuesBi5fswdz1Xxf,138.718,4.0,So Excited,0.866
+73,Bobbie Gentry,0.58,1970-04-18,0.347,none,nashville sound,0.0,0.0,74,2gMxsK1P5PF65J6q4rsCYl,156.288,4.0,He Made A Woman Out Of Me,0.825
+74,The Doors,2.0,1970-04-18,2.0,none,NA,2.0,2.0,75,NA,2.0,2.0,You Make Me Real/Roadhouse Blues,2.0
+75,El Chicano,2.0,1970-04-18,2.0,none,NA,2.0,2.0,76,NA,2.0,2.0,Viva Tirado - Part I,2.0
+76,Vanity Fare,0.73,1970-04-18,0.643,none,brill building pop,0.0,1.0,77,4dfXR186pboAgONCVQwMz6,130.748,4.0,Hitchin' A Ride,0.977
+77,Syndicate Of Sound,2.0,1970-04-18,2.0,none,NA,2.0,2.0,78,NA,2.0,2.0,Brown Paper Bag,2.0
+78,Eddie,2.0,1970-04-18,2.0,Dutch,NA,2.0,2.0,79,NA,2.0,2.0,"My Wife, The Dancer",2.0
+79,Eddie Holman,2.0,1970-04-18,2.0,none,NA,2.0,2.0,80,NA,2.0,2.0,Don't Stop Now/Since I Don't Have You,2.0
+80,Carpenters,0.248,1970-04-18,0.417,none,adult standards,10.0,1.0,81,3PyQV3cDjV5tEJGpYYH2K1,180.074,4.0,Ticket To Ride,0.222
+81,Bobby Goldsboro,0.43,1970-04-18,0.593,none,adult standards,2.0,1.0,82,6pEjBxiCswWA00t9MhEfjh,97.537,4.0,Can You Feel It,0.449
+82,Liquid Smoke,0.397,1970-04-18,0.271,none,NA,7.0,0.0,83,1yq5V3dKI7PdQGJDmBSIPk,151.499,3.0,I Who Have Nothing,0.37
+83,Turley Richards,2.0,1970-04-18,2.0,none,NA,2.0,2.0,84,NA,2.0,2.0,Love Minus Zero-No Limit,2.0
+84,Funkadelic,0.515,1970-04-18,0.877,none,funk,2.0,1.0,85,2jPXEgRWL09g6Z9wY7BZEQ,76.361,4.0,"I Got A Thing, You Got A Thing, Everybody's Got A Thing",0.645
+85,The 5th Dimension,0.53,1970-04-18,0.687,none,adult standards,7.0,1.0,86,0OJmo2GQf6WL95gWjnzbut,92.683,4.0,Puppet Man,0.892
+86,Charlie Rich,0.674,1970-04-18,0.244,none,country,9.0,1.0,87,0a32BQVIZxqDYiSHtvpAkb,118.795,4.0,"July 12, 1939",0.635
+87,Dionne Warwick,0.535,1970-04-18,0.313,none,adult standards,11.0,1.0,88,4xNaafNxNUJDOibIjR9ozV,99.642,3.0,Let Me Go To Him,0.306
+88,Joe Simon,0.47,1970-04-18,0.49,none,classic soul,2.0,1.0,89,1Fj16GGVNFdPut4SFG2vvp,176.523,4.0,Farther On Down The Road,0.644
+89,The Who,0.312,1970-04-18,0.693,none,album rock,7.0,1.0,90,2TSUqWz3F1h08y8jeXcqTC,179.634,4.0,The Seeker,0.694
+90,White Plains,0.685,1970-04-18,0.743,none,bubblegum pop,10.0,1.0,91,58uiNKZ1w4B89gHRfRLeJJ,132.083,4.0,My Baby Loves Lovin',0.714
+91,Wilson Pickett,0.446,1970-04-18,0.4,none,adult standards,7.0,1.0,92,6eOEZUvy3lXFrpDpLOyqN8,140.091,4.0,"Cole, Cooke & Redding",0.625
+92,The Brotherhood Of Man,2.0,1970-04-18,2.0,none,NA,2.0,2.0,93,NA,2.0,2.0,United We Stand,2.0
+93,Paul Davis,0.736,1970-04-18,0.262,none,album rock,0.0,1.0,94,4lgZJvM3yx4jdfRRUjDG3I,126.596,4.0,A Little Bit Of Soap,0.738
+94,The Dells,2.0,1970-04-18,2.0,none,NA,2.0,2.0,95,NA,2.0,2.0,Open Up My Heart/Nadine,2.0
+95,Marvin Gaye,2.0,1970-04-18,2.0,Tammi Terrell,NA,2.0,2.0,96,NA,2.0,2.0,The Onion Song/California Soul,2.0
+96,Brook Benton,0.593,1970-04-18,0.32,none,adult standards,1.0,1.0,97,0fcvrAmbVEy6V9szoadvNY,108.284,4.0,My Way,0.595
+97,The Gentrys,0.692,1970-04-18,0.474,none,bubblegum pop,7.0,1.0,98,52J4vJn4VHKFocvwBDQyN3,107.222,4.0,Cinnamon Girl,0.941
+98,Clarence Carter,0.694,1970-04-18,0.445,none,classic soul,6.0,1.0,99,01qWCNkkknoQktSrxjIHF8,112.594,4.0,I Can't Leave Your Love Alone,0.96
+99,Archie Bell,0.527,1970-04-18,0.545,The Drells,brill building pop,4.0,0.0,100,1NyYgY2eqKQWJJrnp5kgPW,74.922,4.0,Don't Let The Music Slip Away,0.732

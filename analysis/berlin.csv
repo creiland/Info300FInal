@@ -1,0 +1,201 @@
+,artist,danceability,date,energy,featuring,genre,key,mode,rank,spotifyID,tempo,timesignature,track,valence
+0,Bad English,0.495,1989-11-18,0.609,none,album rock,7.0,1.0,1,0tKjVEJlX3IZ5L1rEJc5hh,135.671,4.0,When I See You Smile,0.33
+1,Milli Vanilli,0.758,1989-11-18,0.827,none,new wave pop,4.0,0.0,2,2dPpQv8sCPeEaA4oz7ZjQC,97.515,4.0,Blame It On The Rain,0.506
+2,The B-52s,0.715,1989-11-18,0.817,none,art rock,5.0,0.0,3,4W4wYHtsrgDiivRASVOINL,133.858,4.0,Love Shack,0.871
+3,Paula Abdul,0.805,1989-11-18,0.863,none,dance pop,1.0,1.0,4,41DB7gQ5IraC9I2ICfSLf2,119.982,4.0,(It's Just) The Way That You Love Me,0.833
+4,Roxette,0.539,1989-11-18,0.583,none,europop,1.0,0.0,5,78TnMTAFmWUWWCgNXR7D3K,86.063,4.0,Listen To Your Heart,0.337
+5,Billy Joel,0.712,1989-11-18,0.967,none,album rock,7.0,1.0,6,3Cx4yrFaX8CeHwBMReOWXI,145.024,4.0,We Didn't Start The Fire,0.895
+6,Richard Marx,0.54,1989-11-18,0.64,none,album rock,8.0,1.0,7,2cG2bZy32qIxWVbFrobSQ1,97.033,4.0,Angelia,0.523
+7,New Kids On The Block,0.641,1989-11-18,0.43,none,boy band,1.0,0.0,8,3UxhGH45xEy6J2JJwm3izJ,137.807,4.0,Didn't I (Blow Your Mind),0.506
+8,Alice Cooper,0.28,1989-11-18,0.908,none,album rock,2.0,0.0,9,5XcZRgJv3zMhTqCyESjQrF,118.698,4.0,Poison,0.26
+9,Soul II Soul,0.817,1989-11-18,0.485,none,disco,7.0,1.0,10,7vvRkLPIvfjjmCIqNxBuEZ,100.978,4.0,Back To Life,0.672
+10,Janet Jackson,0.711,1989-11-18,0.975,none,dance pop,6.0,0.0,11,4r5VaK6H1bq0cTGPMTN97Z,115.19,4.0,Miss You Much,0.645
+11,Linda Ronstadt (,0.401,1989-11-18,0.285,Aaron Neville),adult standards,11.0,1.0,12,4x9y3JSvsjBTbm4uEnBrdT,130.465,4.0,Don't Know Much,0.267
+12,New Kids On The Block,0.721,1989-11-18,0.765,none,boy band,6.0,1.0,13,6CCYX0JVy5qYqUvWpCvHXh,119.948,4.0,Cover Girl,0.948
+13,Gloria Estefan,0.724,1989-11-18,0.779,none,dance pop,9.0,1.0,14,7awBgmQ3B0YscMXPBwE1gQ,123.934,4.0,Get On Your Feet,0.93
+14,KIX,0.537,1989-11-18,0.382,none,album rock,7.0,0.0,15,7wrBlgNqYBAC5yFfO4fnYb,148.061,4.0,Don't Close Your Eyes,0.338
+15,Young M.C.,2.0,1989-11-18,2.0,none,NA,2.0,2.0,16,NA,2.0,2.0,Bust A Move,2.0
+16,Tears For Fears,0.208,1989-11-18,0.793,none,art rock,0.0,1.0,17,5bEr0tYW6xvT73OiKVcEgq,174.472,4.0,Sowing The Seeds Of Love,0.708
+17,Belinda Carlisle,0.56,1989-11-18,0.798,none,australian pop,2.0,1.0,18,6XEoRP3ligos6GnuCkxBkj,128.702,4.0,Leave A Light On,0.545
+18,Bobby Brown,0.696,1989-11-18,0.561,none,funk,11.0,0.0,19,7BVMXNnQSswMX8IJeZUb5T,77.506,4.0,Rock Wit'cha,0.901
+19,Taylor Dayne,0.764,1989-11-18,0.835,none,dance pop,5.0,1.0,20,75EWMglG5w7sNFnRpRTAHV,121.341,4.0,With Every Beat Of My Heart,0.975
+20,Bon Jovi,0.267,1989-11-18,0.793,none,glam metal,4.0,1.0,21,4urd42euwvihhC3j1G8Jt2,174.118,4.0,Living In Sin,0.526
+21,Phil Collins,0.78,1989-11-18,0.565,none,mellow gold,3.0,0.0,22,1NCuYqMc8hKMb4cpNTcJbD,101.967,4.0,Another Day In Paradise,0.365
+22,Kevin Paige,0.672,1989-11-18,0.883,none,NA,10.0,0.0,23,0AuDfYjzzablkkCHFhAxso,105.129,4.0,Don't Shut Me Out,0.681
+23,Aerosmith,0.436,1989-11-18,0.966,none,album rock,4.0,1.0,24,1l6DV8qhmCdgOKLSAFzPOe,93.88,4.0,Love In An Elevator,0.601
+24,Technotronic ,0.862,1989-11-18,0.918,Felly,eurodance,10.0,0.0,25,0UAEHlFR79k9CJvknSGUNf,124.811,4.0,Pump Up The Jam,0.651
+25,The 2 Live Crew,2.0,1989-11-18,2.0,none,NA,2.0,2.0,26,NA,2.0,2.0,Me So Horny,2.0
+26,Dino,0.73,1989-11-18,0.52,none,freestyle,5.0,1.0,27,2PMqneh7p2gAZKntR93ney,104.367,4.0,Sunshine,0.956
+27,Thompson Twins,0.724,1989-11-18,0.569,none,dance rock,0.0,1.0,28,4ZfbRpQREzNvG0E91S7jY9,109.936,4.0,Sugar Daddy,0.923
+28,Sybil,0.607,1989-11-18,0.786,none,diva house,0.0,1.0,29,2QXeYzNsXgtI4YLeyr42aj,96.569,4.0,Don't Make Me Over,0.905
+29,Don Henley,0.731,1989-11-18,0.505,none,album rock,5.0,1.0,30,5xFXOthzXYku3MvAlc5EKg,99.99,4.0,The Last Worthless Evening,0.396
+30,Tesla,0.354,1989-11-18,0.326,none,album rock,7.0,1.0,31,0vJUdIefT5caKla9H8b1q4,165.882,4.0,Love Song,0.315
+31,Billy Ocean,2.0,1989-11-18,2.0,none,NA,2.0,2.0,32,NA,2.0,2.0,Licence To Chill,2.0
+32,Motley Crue,0.535,1989-11-18,0.967,none,album rock,2.0,1.0,33,5X0bLSho0KTiSQYCI0IOcl,110.97,4.0,Dr. Feelgood,0.347
+33,Janet Jackson,0.637,1989-11-18,0.933,none,dance pop,1.0,1.0,34,4nTYxxF8iWBq54LO3dBUie,109.111,4.0,Rhythm Nation,0.687
+34,Cher,0.405,1989-11-18,0.563,none,dance pop,8.0,1.0,35,5JGdpqo9wrRtOZtui5GShI,137.979,4.0,Just Like Jesse James,0.478
+35,Jody Watley,0.584,1989-11-18,0.683,none,disco,0.0,1.0,36,6Bv2bQvYZDJLVlMPbmuFQm,164.094,4.0,Everything,0.583
+36,Lou Gramm,0.742,1989-11-18,0.753,none,album rock,0.0,1.0,37,1fMvhGvNGrumP5MKKDf61e,121.519,4.0,Just Between You And Me,0.878
+37,Great White,0.594,1989-11-18,0.21,none,album rock,9.0,0.0,38,1JxRLFVoFx2f7zumJwRDSw,110.415,4.0,The Angel Song,0.099
+38,Poco,0.546,1989-11-18,0.622,none,album rock,9.0,1.0,39,2pFLsd3LCZAxhBzkbql331,104.493,4.0,Call It Love,0.372
+39,Expose,0.455,1989-11-18,0.713,none,freestyle,8.0,1.0,40,3AkbIT2UydYAB1FkwIaiiB,169.633,4.0,When I Looked At Him,0.469
+40,Tina Turner,0.681,1989-11-18,0.83,none,disco,0.0,1.0,41,2W2ieVidLIx9TDvxu0ZT6F,103.777,4.0,The Best,0.817
+41,Babyface,0.802,1989-11-18,0.802,none,dance pop,2.0,1.0,42,2zFqQ0xLiMHOVUuV5zw9Gq,116.316,4.0,It's No Crime,0.912
+42,Jive Bunny,0.865,1989-11-18,0.512,The Mastermixers,NA,8.0,1.0,43,3Aimpqxpvmz7jhJlNnEd5c,92.512,4.0,Swing The Mood,0.879
+43,Michael Bolton,0.541,1989-11-18,0.44,none,adult standards,10.0,1.0,44,3RMeOetCdXttthQK0clPuz,140.273,4.0,How Am I Supposed To Live Without You,0.232
+44,Madonna,0.576,1989-11-18,0.268,none,dance pop,0.0,1.0,45,5vk7txLRuAjNatZD8OCrf4,115.952,3.0,Oh Father,0.175
+45,Paul Carrack,0.682,1989-11-18,0.748,none,adult standards,9.0,0.0,46,77LVgYgRJU8LVDcC87otHv,122.847,4.0,I Live By The Groove,0.933
+46,Prince With Sheena Easton,2.0,1989-11-18,2.0,none,NA,2.0,2.0,47,NA,2.0,2.0,The Arms Of Orion,2.0
+47,The Rolling Stones,0.693,1989-11-18,0.826,none,album rock,9.0,0.0,48,1N44JSbAPNZYQVRulWBE6k,129.049,4.0,Rock And A Hard Place,0.93
+48,New Kids On The Block,0.594,1989-11-18,0.421,none,boy band,7.0,0.0,49,78bDGxqn2KF2VU1G3Kz6J0,74.041,4.0,This One's For The Children,0.637
+49,Elton John,0.626,1989-11-18,0.809,none,glam rock,2.0,1.0,50,4rxCQMELiiH0gk8nbTd2tR,112.321,4.0,Healing Hands,0.788
+50,The Cure,0.586,1989-11-18,0.868,none,alternative rock,9.0,0.0,51,7K71priwuwcWwbgfHVQJdq,139.94,4.0,Love Song,0.737
+51,Joe Cocker,0.535,1989-11-18,0.63,none,blues-rock,1.0,1.0,52,2HM42m9OHA1kEHbB5j7rDk,82.003,4.0,When The Night Comes,0.454
+52,Tom Petty,0.63,1989-11-18,0.449,none,album rock,5.0,1.0,53,5tVA6TkbaAH9QMITTQRrNv,84.378,4.0,Free Fallin',0.623
+53,Milli Vanilli,0.754,1989-11-18,0.453,none,new wave pop,9.0,1.0,54,1ffAMndLMFbKHpXuIDBwc1,151.239,4.0,Girl I'm Gonna Miss You,0.758
+54,The Alarm,0.632,1989-11-18,0.815,none,dance rock,2.0,1.0,55,6jQWsLWbohIOK83MotZ9y7,113.273,4.0,Sold Me Down The River,0.687
+55,Giant,0.466,1989-11-18,0.833,none,glam metal,0.0,1.0,56,4NiLA925TInZScMbchk8Pg,108.686,4.0,I'm A Believer,0.319
+56,Stevie B,0.668,1989-11-18,0.761,none,freestyle,11.0,0.0,57,4VG6a2JFWsX3CMHunLf4nO,119.48,4.0,Girl I Am Searching For You,0.625
+57,Whitesnake,0.503,1989-11-18,0.943,none,album rock,9.0,0.0,58,0BdTZNyYnSIDmkqjxSB0ef,125.861,4.0,Fool For Your Loving,0.536
+58,Seduction,0.78,1989-11-18,0.612,none,freestyle,0.0,1.0,59,6GS6uE1vDmtzxO8GztAR2O,114.414,4.0,Two To Make It Right,0.712
+59,The Cover Girls,0.648,1989-11-18,0.675,none,freestyle,2.0,0.0,60,43xOqAcwcJ8s3jPwU5R8fq,116.0,4.0,My Heart Skips A Beat,0.54
+60,Christopher Williams,0.769,1989-11-18,0.726,none,new jack swing,9.0,1.0,61,4ywZNNUKItstMw7akcYdKj,112.777,4.0,Talk To Myself,0.815
+61,Shana,0.741,1989-11-18,0.81,none,freestyle,5.0,1.0,62,0sdtAStTSLikyTg9PTTyys,119.629,4.0,I Want You,0.827
+62,Skid Row,0.345,1989-11-18,0.531,none,album rock,0.0,1.0,63,4ZpXHlV2vQVfPXUvbDSZ92,176.302,4.0,I Remember You,0.49
+63,Cher,0.654,1989-11-18,0.566,none,dance pop,11.0,1.0,64,6mYrhCAGWzTdF8QnKuchXM,108.293,4.0,If I Could Turn Back Time,0.527
+64,Lil Louis,0.689,1989-11-18,0.505,none,acid house,6.0,1.0,65,7hnqJYCKZFW7vMoykaraZG,123.948,4.0,French Kiss,0.564
+65,Michael Damian,0.487,1989-11-18,0.648,none,NA,2.0,1.0,66,3SCeWq0qHsc8i2JxtJPSkd,134.95,4.0,Was It Nothing At All,0.442
+66,Enuff Z'Nuff,0.373,1989-11-18,0.884,none,glam metal,4.0,1.0,67,00iVYbSh1B77akx1ITNWUL,130.099,4.0,New Thing,0.28
+67,Warrant,0.462,1989-11-18,0.488,none,album rock,6.0,1.0,68,2dEgwtRjYl6TJkIwjRwn6z,145.789,4.0,Heaven,0.33
+68,Jaya,2.0,1989-11-18,2.0,none,NA,2.0,2.0,69,NA,2.0,2.0,If You Leave Me Now,2.0
+69,Soulsister,0.728,1989-11-18,0.652,none,belgian rock,10.0,0.0,70,7h7yYTlVSHY3Fk7mSb0cDZ,98.706,4.0,The Way To Your Heart,0.718
+70,Moving Pictures,0.61,1989-11-18,0.398,none,australian rock,5.0,1.0,71,0sUY9EnmEocSiOmrC8KJQr,109.884,4.0,What About Me,0.205
+71,Regina Belle,0.381,1989-11-18,0.707,none,funk,0.0,0.0,72,0bn2lpkVhI3Vp9d0g0q8W9,167.817,4.0,Baby Come To Me,0.605
+72,Seduction,0.665,1989-11-18,0.64,none,freestyle,10.0,0.0,73,0symbiCfmFvJDJgR6y8gkf,104.378,4.0,(You're My One And Only) True Love,0.672
+73,After 7,0.707,1989-11-18,0.852,none,funk,4.0,1.0,74,2Vptb1uGay69Ql4B5NnGok,100.804,4.0,Heat Of The Moment,0.86
+74,D.J. Jazzy Jeff,2.0,1989-11-18,2.0,The Fresh Prince,NA,2.0,2.0,75,NA,2.0,2.0,I Think I Can Beat Mike Tyson,2.0
+75,Eurythmics,0.684,1989-11-18,0.784,none,dance rock,7.0,1.0,76,37rzKhbiTGE1gw2GlXYp3a,119.04,4.0,Don't Ask Me Why,0.775
+76,Madonna,0.692,1989-11-18,0.875,none,dance pop,2.0,1.0,77,7BLKBIoijWCkDyOATEr5vW,131.877,4.0,Cherish,0.9
+77,Pajama Party,0.66,1989-11-18,0.794,none,freestyle,10.0,1.0,78,4mh8QUBjztJtEW6JLmKLwO,119.705,4.0,Over And Over,0.835
+78,Saraya,0.406,1989-11-18,0.779,none,glam metal,1.0,0.0,79,0vFOxSmQ2DvSlqeicQFGZO,106.018,4.0,Back To The Bullet,0.47
+79,Shooting Star,2.0,1989-11-18,2.0,none,NA,2.0,2.0,80,NA,2.0,2.0,Touch Me Tonight,2.0
+80,Fine Young Cannibals,0.811,1989-11-18,0.629,none,dance rock,7.0,0.0,81,0ce4Ru8pHOZKijojglD4JS,110.42,4.0,I'm Not The Man I Used To Be,0.867
+81,White Lion,0.405,1989-11-18,0.858,none,album rock,4.0,1.0,82,0MOi5oWv5Y0Ea9p7BdXepF,102.913,4.0,Radar Love,0.563
+82,Eric Clapton,0.602,1989-11-18,0.872,none,album rock,9.0,1.0,83,2cu4KvdykqkUOUsHu3NiTD,98.452,4.0,Pretending,0.668
+83,Shirley Lewis,2.0,1989-11-18,2.0,none,NA,2.0,2.0,84,NA,2.0,2.0,Realistic,2.0
+84,Babyface,0.454,1989-11-18,0.548,none,dance pop,11.0,0.0,85,4D13ulAZI1V7PG7Zg1Ar7r,73.011,4.0,Tender Lover,0.598
+85,Quincy Jones ,0.745,1989-11-18,0.894,Ray Charles,adult standards,11.0,0.0,86,4cLXNwNqXWT1CTR5Gyr7ei,109.92,4.0,I'll Be Good To You,0.789
+86,Surface,0.712,1989-11-18,0.558,none,funk,1.0,1.0,87,3af3Bljwz8w0xRYsH5JgbS,96.018,4.0,You Are My Everything,0.831
+87,Richard Marx,0.395,1989-11-18,0.252,none,album rock,0.0,1.0,88,4LFwNJWoj74Yd71fIr1W8x,177.679,4.0,Right Here Waiting,0.126
+88,Grayson Hugh,0.726,1989-11-18,0.401,none,NA,0.0,1.0,89,2qsYg48euNAahTz3jQN9CH,102.973,4.0,Bring It All Back,0.709
+89,Starship,0.551,1989-11-18,0.891,none,album rock,5.0,0.0,90,13r8khfc9oykb8o7EV8QVX,96.882,4.0,It's Not Enough,0.874
+90,Bardeux,2.0,1989-11-18,2.0,none,NA,2.0,2.0,91,NA,2.0,2.0,I Love The Bass,2.0
+91,Michel'le,2.0,1989-11-18,2.0,none,NA,2.0,2.0,92,NA,2.0,2.0,No More Lies,2.0
+92,Warrant,0.533,1989-11-18,0.783,none,album rock,1.0,1.0,93,5QwzwrBOj8ZcYFlm6splOa,130.624,4.0,Big Talk,0.542
+93,Tracy Chapman,0.787,1989-11-18,0.255,none,folk,0.0,1.0,94,4rxamav7i2lJexbuAxcvfe,105.97,4.0,Crossroads,0.6
+94,The Rolling Stones,0.497,1989-11-18,0.947,none,album rock,7.0,1.0,95,6fKQblT3h0U2ydiDbnsyfa,137.089,4.0,Mixed Emotions,0.824
+95,Living Colour,0.511,1989-11-18,0.913,none,alternative metal,0.0,0.0,96,2XyU7gwELovG2Nqo9UYBGp,121.451,4.0,Glamour Boys,0.856
+96,Big Noise,0.726,1989-11-18,0.766,none,NA,11.0,0.0,97,29WdDiB82pmhb9WooCXKn5,123.862,4.0,Name And Number,0.8
+97,The Jets,0.603,1989-11-18,0.343,none,freestyle,2.0,1.0,98,1QOapaQd48o1H8JfrlzUjO,78.453,4.0,The Same Love,0.442
+98,Melissa Etheridge,0.566,1989-11-18,0.537,none,folk,2.0,1.0,99,7iYRaSCuKUGs13JP8V2xvk,134.118,4.0,No Souvenirs,0.602
+99,Skid Row,0.466,1989-11-18,0.648,none,album rock,1.0,0.0,100,0qgrrDnUUhyxpxbBznUnzg,90.435,4.0,18 And Life,0.305
+0,Milli Vanilli,0.758,1989-11-25,0.827,none,new wave pop,4.0,0.0,1,2dPpQv8sCPeEaA4oz7ZjQC,97.515,4.0,Blame It On The Rain,0.506
+1,Bad English,0.495,1989-11-25,0.609,none,album rock,7.0,1.0,2,0tKjVEJlX3IZ5L1rEJc5hh,135.671,4.0,When I See You Smile,0.33
+2,The B-52s,0.715,1989-11-25,0.817,none,art rock,5.0,0.0,3,4W4wYHtsrgDiivRASVOINL,133.858,4.0,Love Shack,0.871
+3,Paula Abdul,0.805,1989-11-25,0.863,none,dance pop,1.0,1.0,4,41DB7gQ5IraC9I2ICfSLf2,119.982,4.0,(It's Just) The Way That You Love Me,0.833
+4,Billy Joel,0.712,1989-11-25,0.967,none,album rock,7.0,1.0,5,3Cx4yrFaX8CeHwBMReOWXI,145.024,4.0,We Didn't Start The Fire,0.895
+5,Richard Marx,0.54,1989-11-25,0.64,none,album rock,8.0,1.0,6,2cG2bZy32qIxWVbFrobSQ1,97.033,4.0,Angelia,0.523
+6,Alice Cooper,0.28,1989-11-25,0.908,none,album rock,2.0,0.0,7,5XcZRgJv3zMhTqCyESjQrF,118.698,4.0,Poison,0.26
+7,Soul II Soul,0.817,1989-11-25,0.485,none,disco,7.0,1.0,8,7vvRkLPIvfjjmCIqNxBuEZ,100.978,4.0,Back To Life,0.672
+8,Linda Ronstadt (,0.401,1989-11-25,0.285,Aaron Neville),adult standards,11.0,1.0,9,4x9y3JSvsjBTbm4uEnBrdT,130.465,4.0,Don't Know Much,0.267
+9,Phil Collins,0.78,1989-11-25,0.565,none,mellow gold,3.0,0.0,10,1NCuYqMc8hKMb4cpNTcJbD,101.967,4.0,Another Day In Paradise,0.365
+10,Gloria Estefan,0.724,1989-11-25,0.779,none,dance pop,9.0,1.0,11,7awBgmQ3B0YscMXPBwE1gQ,123.934,4.0,Get On Your Feet,0.93
+11,KIX,0.537,1989-11-25,0.382,none,album rock,7.0,0.0,12,7wrBlgNqYBAC5yFfO4fnYb,148.061,4.0,Don't Close Your Eyes,0.338
+12,Taylor Dayne,0.764,1989-11-25,0.835,none,dance pop,5.0,1.0,13,75EWMglG5w7sNFnRpRTAHV,121.341,4.0,With Every Beat Of My Heart,0.975
+13,Roxette,0.539,1989-11-25,0.583,none,europop,1.0,0.0,14,78TnMTAFmWUWWCgNXR7D3K,86.063,4.0,Listen To Your Heart,0.337
+14,Belinda Carlisle,0.56,1989-11-25,0.798,none,australian pop,2.0,1.0,15,6XEoRP3ligos6GnuCkxBkj,128.702,4.0,Leave A Light On,0.545
+15,Bon Jovi,0.267,1989-11-25,0.793,none,glam metal,4.0,1.0,16,4urd42euwvihhC3j1G8Jt2,174.118,4.0,Living In Sin,0.526
+16,Young M.C.,2.0,1989-11-25,2.0,none,NA,2.0,2.0,17,NA,2.0,2.0,Bust A Move,2.0
+17,Kevin Paige,0.672,1989-11-25,0.883,none,NA,10.0,0.0,18,0AuDfYjzzablkkCHFhAxso,105.129,4.0,Don't Shut Me Out,0.681
+18,Technotronic ,0.862,1989-11-25,0.918,Felly,eurodance,10.0,0.0,19,0UAEHlFR79k9CJvknSGUNf,124.811,4.0,Pump Up The Jam,0.651
+19,New Kids On The Block,0.641,1989-11-25,0.43,none,boy band,1.0,0.0,20,3UxhGH45xEy6J2JJwm3izJ,137.807,4.0,Didn't I (Blow Your Mind),0.506
+20,Janet Jackson,0.711,1989-11-25,0.975,none,dance pop,6.0,0.0,21,4r5VaK6H1bq0cTGPMTN97Z,115.19,4.0,Miss You Much,0.645
+21,Janet Jackson,0.637,1989-11-25,0.933,none,dance pop,1.0,1.0,22,4nTYxxF8iWBq54LO3dBUie,109.111,4.0,Rhythm Nation,0.687
+22,Sybil,0.607,1989-11-25,0.786,none,diva house,0.0,1.0,23,2QXeYzNsXgtI4YLeyr42aj,96.569,4.0,Don't Make Me Over,0.905
+23,Don Henley,0.731,1989-11-25,0.505,none,album rock,5.0,1.0,24,5xFXOthzXYku3MvAlc5EKg,99.99,4.0,The Last Worthless Evening,0.396
+24,Tesla,0.354,1989-11-25,0.326,none,album rock,7.0,1.0,25,0vJUdIefT5caKla9H8b1q4,165.882,4.0,Love Song,0.315
+25,Cher,0.405,1989-11-25,0.563,none,dance pop,8.0,1.0,26,5JGdpqo9wrRtOZtui5GShI,137.979,4.0,Just Like Jesse James,0.478
+26,New Kids On The Block,0.721,1989-11-25,0.765,none,boy band,6.0,1.0,27,6CCYX0JVy5qYqUvWpCvHXh,119.948,4.0,Cover Girl,0.948
+27,The 2 Live Crew,2.0,1989-11-25,2.0,none,NA,2.0,2.0,28,NA,2.0,2.0,Me So Horny,2.0
+28,Jody Watley,0.584,1989-11-25,0.683,none,disco,0.0,1.0,29,6Bv2bQvYZDJLVlMPbmuFQm,164.094,4.0,Everything,0.583
+29,Bobby Brown,0.696,1989-11-25,0.561,none,funk,11.0,0.0,30,7BVMXNnQSswMX8IJeZUb5T,77.506,4.0,Rock Wit'cha,0.901
+30,Tears For Fears,0.208,1989-11-25,0.793,none,art rock,0.0,1.0,31,5bEr0tYW6xvT73OiKVcEgq,174.472,4.0,Sowing The Seeds Of Love,0.708
+31,Lou Gramm,0.742,1989-11-25,0.753,none,album rock,0.0,1.0,32,1fMvhGvNGrumP5MKKDf61e,121.519,4.0,Just Between You And Me,0.878
+32,Great White,0.594,1989-11-25,0.21,none,album rock,9.0,0.0,33,1JxRLFVoFx2f7zumJwRDSw,110.415,4.0,The Angel Song,0.099
+33,Jive Bunny,0.865,1989-11-25,0.512,The Mastermixers,NA,8.0,1.0,34,3Aimpqxpvmz7jhJlNnEd5c,92.512,4.0,Swing The Mood,0.879
+34,Aerosmith,0.436,1989-11-25,0.966,none,album rock,4.0,1.0,35,1l6DV8qhmCdgOKLSAFzPOe,93.88,4.0,Love In An Elevator,0.601
+35,Michael Bolton,0.541,1989-11-25,0.44,none,adult standards,10.0,1.0,36,3RMeOetCdXttthQK0clPuz,140.273,4.0,How Am I Supposed To Live Without You,0.232
+36,New Kids On The Block,0.594,1989-11-25,0.421,none,boy band,7.0,0.0,37,78bDGxqn2KF2VU1G3Kz6J0,74.041,4.0,This One's For The Children,0.637
+37,Paul Carrack,0.682,1989-11-25,0.748,none,adult standards,9.0,0.0,38,77LVgYgRJU8LVDcC87otHv,122.847,4.0,I Live By The Groove,0.933
+38,The Rolling Stones,0.693,1989-11-25,0.826,none,album rock,9.0,0.0,39,1N44JSbAPNZYQVRulWBE6k,129.049,4.0,Rock And A Hard Place,0.93
+39,Madonna,0.576,1989-11-25,0.268,none,dance pop,0.0,1.0,40,5vk7txLRuAjNatZD8OCrf4,115.952,3.0,Oh Father,0.175
+40,Prince With Sheena Easton,2.0,1989-11-25,2.0,none,NA,2.0,2.0,41,NA,2.0,2.0,The Arms Of Orion,2.0
+41,Joe Cocker,0.535,1989-11-25,0.63,none,blues-rock,1.0,1.0,42,2HM42m9OHA1kEHbB5j7rDk,82.003,4.0,When The Night Comes,0.454
+42,Tom Petty,0.63,1989-11-25,0.449,none,album rock,5.0,1.0,43,5tVA6TkbaAH9QMITTQRrNv,84.378,4.0,Free Fallin',0.623
+43,Billy Ocean,2.0,1989-11-25,2.0,none,NA,2.0,2.0,44,NA,2.0,2.0,Licence To Chill,2.0
+44,Dino,0.73,1989-11-25,0.52,none,freestyle,5.0,1.0,45,2PMqneh7p2gAZKntR93ney,104.367,4.0,Sunshine,0.956
+45,Expose,0.455,1989-11-25,0.713,none,freestyle,8.0,1.0,46,3AkbIT2UydYAB1FkwIaiiB,169.633,4.0,When I Looked At Him,0.469
+46,Whitesnake,0.503,1989-11-25,0.943,none,album rock,9.0,0.0,47,0BdTZNyYnSIDmkqjxSB0ef,125.861,4.0,Fool For Your Loving,0.536
+47,Motley Crue,0.535,1989-11-25,0.967,none,album rock,2.0,1.0,48,5X0bLSho0KTiSQYCI0IOcl,110.97,4.0,Dr. Feelgood,0.347
+48,Seduction,0.78,1989-11-25,0.612,none,freestyle,0.0,1.0,49,6GS6uE1vDmtzxO8GztAR2O,114.414,4.0,Two To Make It Right,0.712
+49,The Alarm,0.632,1989-11-25,0.815,none,dance rock,2.0,1.0,50,6jQWsLWbohIOK83MotZ9y7,113.273,4.0,Sold Me Down The River,0.687
+50,Thompson Twins,0.724,1989-11-25,0.569,none,dance rock,0.0,1.0,51,4ZfbRpQREzNvG0E91S7jY9,109.936,4.0,Sugar Daddy,0.923
+51,Shana,0.741,1989-11-25,0.81,none,freestyle,5.0,1.0,52,0sdtAStTSLikyTg9PTTyys,119.629,4.0,I Want You,0.827
+52,Skid Row,0.345,1989-11-25,0.531,none,album rock,0.0,1.0,53,4ZpXHlV2vQVfPXUvbDSZ92,176.302,4.0,I Remember You,0.49
+53,Rod Stewart,0.527,1989-11-25,0.584,none,adult standards,10.0,1.0,54,5XJzh2c0roCc6GDs8PrILx,114.941,4.0,Downtown Train,0.271
+54,Babyface,0.802,1989-11-25,0.802,none,dance pop,2.0,1.0,55,2zFqQ0xLiMHOVUuV5zw9Gq,116.316,4.0,It's No Crime,0.912
+55,Poco,0.546,1989-11-25,0.622,none,album rock,9.0,1.0,56,2pFLsd3LCZAxhBzkbql331,104.493,4.0,Call It Love,0.372
+56,Quincy Jones ,0.745,1989-11-25,0.894,Ray Charles,adult standards,11.0,0.0,57,4cLXNwNqXWT1CTR5Gyr7ei,109.92,4.0,I'll Be Good To You,0.789
+57,Michael Damian,0.487,1989-11-25,0.648,none,NA,2.0,1.0,58,3SCeWq0qHsc8i2JxtJPSkd,134.95,4.0,Was It Nothing At All,0.442
+58,Lil Louis,0.689,1989-11-25,0.505,none,acid house,6.0,1.0,59,7hnqJYCKZFW7vMoykaraZG,123.948,4.0,French Kiss,0.564
+59,Stevie B,0.668,1989-11-25,0.761,none,freestyle,11.0,0.0,60,4VG6a2JFWsX3CMHunLf4nO,119.48,4.0,Girl I Am Searching For You,0.625
+60,Jaya,2.0,1989-11-25,2.0,none,NA,2.0,2.0,61,NA,2.0,2.0,If You Leave Me Now,2.0
+61,The Cure,0.586,1989-11-25,0.868,none,alternative rock,9.0,0.0,62,7K71priwuwcWwbgfHVQJdq,139.94,4.0,Love Song,0.737
+62,Babyface,0.454,1989-11-25,0.548,none,dance pop,11.0,0.0,63,4D13ulAZI1V7PG7Zg1Ar7r,73.011,4.0,Tender Lover,0.598
+63,Milli Vanilli,0.754,1989-11-25,0.453,none,new wave pop,9.0,1.0,64,1ffAMndLMFbKHpXuIDBwc1,151.239,4.0,Girl I'm Gonna Miss You,0.758
+64,D.J. Jazzy Jeff,2.0,1989-11-25,2.0,The Fresh Prince,NA,2.0,2.0,65,NA,2.0,2.0,I Think I Can Beat Mike Tyson,2.0
+65,Tina Turner,0.681,1989-11-25,0.83,none,disco,0.0,1.0,66,2W2ieVidLIx9TDvxu0ZT6F,103.777,4.0,The Best,0.817
+66,Giant,0.466,1989-11-25,0.833,none,glam metal,0.0,1.0,67,4NiLA925TInZScMbchk8Pg,108.686,4.0,I'm A Believer,0.319
+67,Fine Young Cannibals,0.811,1989-11-25,0.629,none,dance rock,7.0,0.0,68,0ce4Ru8pHOZKijojglD4JS,110.42,4.0,I'm Not The Man I Used To Be,0.867
+68,The Cover Girls,0.648,1989-11-25,0.675,none,freestyle,2.0,0.0,69,43xOqAcwcJ8s3jPwU5R8fq,116.0,4.0,My Heart Skips A Beat,0.54
+69,Saraya,0.406,1989-11-25,0.779,none,glam metal,1.0,0.0,70,0vFOxSmQ2DvSlqeicQFGZO,106.018,4.0,Back To The Bullet,0.47
+70,Enuff Z'Nuff,0.373,1989-11-25,0.884,none,glam metal,4.0,1.0,71,00iVYbSh1B77akx1ITNWUL,130.099,4.0,New Thing,0.28
+71,Pajama Party,0.66,1989-11-25,0.794,none,freestyle,10.0,1.0,72,4mh8QUBjztJtEW6JLmKLwO,119.705,4.0,Over And Over,0.835
+72,Christopher Williams,0.769,1989-11-25,0.726,none,new jack swing,9.0,1.0,73,4ywZNNUKItstMw7akcYdKj,112.777,4.0,Talk To Myself,0.815
+73,Cher,0.654,1989-11-25,0.566,none,dance pop,11.0,1.0,74,6mYrhCAGWzTdF8QnKuchXM,108.293,4.0,If I Could Turn Back Time,0.527
+74,After 7,0.707,1989-11-25,0.852,none,funk,4.0,1.0,75,2Vptb1uGay69Ql4B5NnGok,100.804,4.0,Heat Of The Moment,0.86
+75,Shooting Star,2.0,1989-11-25,2.0,none,NA,2.0,2.0,76,NA,2.0,2.0,Touch Me Tonight,2.0
+76,Eric Clapton,0.602,1989-11-25,0.872,none,album rock,9.0,1.0,77,2cu4KvdykqkUOUsHu3NiTD,98.452,4.0,Pretending,0.668
+77,Elton John,0.626,1989-11-25,0.809,none,glam rock,2.0,1.0,78,4rxCQMELiiH0gk8nbTd2tR,112.321,4.0,Healing Hands,0.788
+78,Regina Belle,0.381,1989-11-25,0.707,none,funk,0.0,0.0,79,0bn2lpkVhI3Vp9d0g0q8W9,167.817,4.0,Baby Come To Me,0.605
+79,Warrant,0.462,1989-11-25,0.488,none,album rock,6.0,1.0,80,2dEgwtRjYl6TJkIwjRwn6z,145.789,4.0,Heaven,0.33
+80,Moving Pictures,0.61,1989-11-25,0.398,none,australian rock,5.0,1.0,81,0sUY9EnmEocSiOmrC8KJQr,109.884,4.0,What About Me,0.205
+81,Michel'le,2.0,1989-11-25,2.0,none,NA,2.0,2.0,82,NA,2.0,2.0,No More Lies,2.0
+82,Tina Turner,0.745,1989-11-25,0.755,none,disco,9.0,1.0,83,3dYmruq1HiKJeOQ8h1OEfz,133.771,4.0,Steamy Windows,0.847
+83,Surface,0.712,1989-11-25,0.558,none,funk,1.0,1.0,84,3af3Bljwz8w0xRYsH5JgbS,96.018,4.0,You Are My Everything,0.831
+84,Aerosmith,0.632,1989-11-25,0.822,none,album rock,5.0,1.0,85,5fMwvrqujbQjUxcNPcYrUF,115.113,4.0,Janie's Got A Gun,0.434
+85,Shirley Lewis,2.0,1989-11-25,2.0,none,NA,2.0,2.0,86,NA,2.0,2.0,Realistic,2.0
+86,Seduction,0.665,1989-11-25,0.64,none,freestyle,10.0,0.0,87,0symbiCfmFvJDJgR6y8gkf,104.378,4.0,(You're My One And Only) True Love,0.672
+87,Young M.C.,2.0,1989-11-25,2.0,none,NA,2.0,2.0,88,NA,2.0,2.0,Principal's Office,2.0
+88,White Lion,0.405,1989-11-25,0.858,none,album rock,4.0,1.0,89,0MOi5oWv5Y0Ea9p7BdXepF,102.913,4.0,Radar Love,0.563
+89,Motley Crue,0.474,1989-11-25,0.977,none,album rock,7.0,0.0,90,7GonnnalI2s19OCQO1J7Tf,89.494,4.0,Kickstart My Heart,0.236
+90,Bonham,0.568,1989-11-25,0.749,none,NA,5.0,1.0,91,0LdPlZKpROaZMLkR0CBpz2,111.968,4.0,Wait For You,0.617
+91,KISS,0.577,1989-11-25,0.845,none,album rock,11.0,0.0,92,47o525G86mLspoGnUCaMd9,122.358,4.0,Hide Your Heart,0.553
+92,Soulsister,0.728,1989-11-25,0.652,none,belgian rock,10.0,0.0,93,7h7yYTlVSHY3Fk7mSb0cDZ,98.706,4.0,The Way To Your Heart,0.718
+93,Starship,0.601,1989-11-25,0.857,none,album rock,1.0,1.0,94,2zcgTd8nHMf88RFwzZSbLQ,137.915,4.0,I Didn't Mean To Stay All Night,0.719
+94,Fiona (Duet With Kip Winger),0.604,1989-11-25,0.814,none,NA,1.0,1.0,95,2LBu8ppBl3aenuqUnBxysH,108.766,4.0,Everything You Do (You're Sexing Me),0.822
+95,Richard Marx,0.395,1989-11-25,0.252,none,album rock,0.0,1.0,96,4LFwNJWoj74Yd71fIr1W8x,177.679,4.0,Right Here Waiting,0.126
+96,Warrant,0.533,1989-11-25,0.783,none,album rock,1.0,1.0,97,5QwzwrBOj8ZcYFlm6splOa,130.624,4.0,Big Talk,0.542
+97,The Jets,0.603,1989-11-25,0.343,none,freestyle,2.0,1.0,98,1QOapaQd48o1H8JfrlzUjO,78.453,4.0,The Same Love,0.442
+98,Madonna,0.692,1989-11-25,0.875,none,dance pop,2.0,1.0,99,7BLKBIoijWCkDyOATEr5vW,131.877,4.0,Cherish,0.9
+99,Eurythmics,0.684,1989-11-25,0.784,none,dance rock,7.0,1.0,100,37rzKhbiTGE1gw2GlXYp3a,119.04,4.0,Don't Ask Me Why,0.775

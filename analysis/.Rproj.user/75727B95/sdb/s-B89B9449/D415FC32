@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1544578763856.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "D415FC32",
+    "lastKnownWriteTime" : 0,
+    "last_content_update" : 1544578763856,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "8363B2B3",
+        "caption" : "sixties",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=sixties&cache_key=8363B2B3",
+        "displayedObservations" : 52600,
+        "environment" : "",
+        "object" : "sixties",
+        "preview" : 0,
+        "totalObservations" : 52600,
+        "variables" : 15
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

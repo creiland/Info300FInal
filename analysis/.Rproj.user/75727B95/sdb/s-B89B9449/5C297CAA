@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1544584318459.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "5C297CAA",
+    "lastKnownWriteTime" : 0,
+    "last_content_update" : 1544584318459,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "74F0856F",
+        "caption" : "fifties",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=fifties&cache_key=74F0856F",
+        "displayedObservations" : 7300,
+        "environment" : "",
+        "object" : "fifties",
+        "preview" : 0,
+        "totalObservations" : 7300,
+        "variables" : 16
+    },
+    "relative_order" : 8,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

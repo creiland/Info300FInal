@@ -1,0 +1,201 @@
+,artist,danceability,date,energy,featuring,genre,key,mode,rank,spotifyID,tempo,timesignature,track,valence
+0,Chris Brown ,0.769,2007-11-10,0.52,T-Pain,dance pop,1.0,1.0,1,4CweuuMMzi71pO0MSRgyaT,140.112,3.0,Kiss Kiss,0.58
+1,Timbaland ,0.654,2007-11-10,0.61,OneRepublic,dance pop,8.0,1.0,2,6ucR4KfvsBFWCMVFDvyKKl,118.032,4.0,Apologize,0.118
+2,Soulja Boy Tell'em,2.0,2007-11-10,2.0,none,NA,2.0,2.0,3,NA,2.0,2.0,Crank That (Soulja Boy),2.0
+3,Alicia Keys,0.649,2007-11-10,0.552,none,hip pop,1.0,0.0,4,0JEqGkvUiMTQmFY6sgL9kg,89.969,4.0,No One,0.158
+4,Colbie Caillat,0.664,2007-11-10,0.491,none,acoustic pop,9.0,1.0,5,0rFOs9paloAvEtzwDX1Kmc,127.97,4.0,Bubbly,0.24
+5,Kanye West,0.625,2007-11-10,0.726,none,pop rap,10.0,0.0,6,6C7RJEIUDqKkJRZVWdkfkH,103.98,4.0,Stronger,0.483
+6,Kanye West ,0.435,2007-11-10,0.802,T-Pain,pop rap,1.0,1.0,7,1fLdeDTrJWNkwOeFyAVLvF,84.267,4.0,Good Life,0.454
+7,Baby Bash ,0.641,2007-11-10,0.72,T-Pain,chicano rap,11.0,1.0,8,27mhCGdAA8gM7b33KIiB3k,77.969,4.0,Cyclone,0.578
+8,Rihanna ,0.637,2007-11-10,0.73,Ne-Yo,dance pop,5.0,0.0,9,7iu0WYLdo4yksKf3seaxzI,93.867,4.0,Hate That I Love You,0.732
+9,Timbaland ,0.734,2007-11-10,0.808,Keri Hilson,dance pop,3.0,0.0,10,2bLqfJjuC5syrsgDsZfGmn,114.764,4.0,The Way I Are,0.805
+10,J. Holiday,0.684,2007-11-10,0.606,none,bassline,5.0,0.0,11,6TlRNJaezOdzdECnQeRuMM,127.901,4.0,Bed,0.723
+11,Fergie,0.712,2007-11-10,0.647,none,dance pop,7.0,1.0,12,3Q4WeJmzxuDpzMu9QjQqbM,113.116,4.0,Big Girls Don't Cry,0.292
+12,50 Cent ,0.442,2007-11-10,0.774,Justin Timberlake,east coast hip hop,8.0,0.0,13,36Hwcla06Q5BCr59CL0sBp,139.775,4.0,Ayo Technology,0.377
+13,matchbox twenty,0.566,2007-11-10,0.906,none,neo mellow,0.0,1.0,14,0gbLfFlEyVHiKzlZIb0gce,83.0,4.0,How Far We've Come,0.787
+14,P!nk,0.691,2007-11-10,0.749,none,dance pop,9.0,1.0,15,7FpoD2ZlcBSj05rEHSZoiB,140.014,4.0,Who Knew,0.473
+15,Britney Spears,0.788,2007-11-10,0.844,none,dance pop,2.0,1.0,16,6ic8OlLUNEATToEFU3xmaH,113.324,4.0,Gimme More,0.382
+16,Nickelback,0.616,2007-11-10,0.91,none,alternative metal,0.0,1.0,17,6n9yCXvLhnYMgJIiIcMu7D,144.073,4.0,Rockstar,0.693
+17,Finger Eleven,0.645,2007-11-10,0.941,none,alternative metal,4.0,0.0,18,28IEbk5a7twNTbUEvWslUb,106.015,4.0,Paralyzer,0.881
+18,Maroon 5,0.639,2007-11-10,0.949,none,pop,4.0,0.0,19,1zqllQUMCgMaInr0CzFVll,164.054,4.0,Wake Up Call,0.964
+19,Carrie Underwood,0.426,2007-11-10,0.784,none,contemporary country,3.0,1.0,20,6xfL1KzGxg48ACVlQE9qXr,147.939,3.0,So Small,0.272
+20,The-Dream,0.742,2007-11-10,0.441,none,dance pop,7.0,0.0,21,4nuMA47XIxcu85zkkDkz1t,74.987,4.0,Shawty Is A 10,0.39
+21,Daughtry,0.423,2007-11-10,0.922,none,alternative metal,3.0,1.0,22,7mXmxXLAnsvXKt4Q37KoMI,156.063,4.0,Over You,0.567
+22,Fabolous ,0.84,2007-11-10,0.68,Jermaine Dupri,dance pop,1.0,1.0,23,2FSQYGTyk8GTIaiRyAWu74,99.734,4.0,Baby Don't Go,0.498
+23,Playaz Circle ,2.0,2007-11-10,2.0,Lil Wayne,NA,2.0,2.0,24,NA,2.0,2.0,Duffle Bag Boy,2.0
+24,Plies ,0.444,2007-11-10,0.708,T-Pain,dance pop,4.0,0.0,25,0mYoKqA23wUUj7BTEgNzjg,105.412,5.0,Shawty,0.26
+25,Keyshia Cole ,0.812,2007-11-10,0.721,Missy Elliott,dance pop,6.0,1.0,26,2RqZFOLOnzVmHUX7ZMcaES,94.939,4.0,Let It Go,0.772
+26,Justin Timberlake Duet With Beyonce,2.0,2007-11-10,2.0,none,NA,2.0,2.0,27,NA,2.0,2.0,Until The End Of Time,2.0
+27,Fergie,0.728,2007-11-10,0.582,none,dance pop,2.0,1.0,28,50xeLNGKmskmYUSINhqvfa,184.045,4.0,Clumsy,0.417
+28,Plain White T's,0.657,2007-11-10,0.291,none,neo mellow,2.0,1.0,29,4RCWB3V8V0dignt99LZ8vH,103.973,4.0,Hey There Delilah,0.298
+29,DJ Khaled ,0.711,2007-11-10,0.885,"T-Pain, Trick Daddy, Rick Ross",dance pop,9.0,0.0,30,2Ks9TtFe2AD6kK2GX211Ie,130.954,4.0,I'm So Hood,0.514
+30,Kenny Chesney,0.604,2007-11-10,0.605,none,contemporary country,4.0,1.0,31,6reuJxDtjebwc9FB6rNpp0,147.925,4.0,Don't Blink,0.647
+31,Elliott Yamin,0.764,2007-11-10,0.487,none,NA,0.0,1.0,32,0U969xYNlAyfzi8P1TaO7u,116.027,4.0,Wait For You,0.352
+32,Justin Timberlake,0.862,2007-11-10,0.707,none,dance pop,10.0,0.0,33,62cYasTwBy6Y7pstdSTmHu,121.259,4.0,LoveStoned,0.849
+33,Jordin Sparks,0.566,2007-11-10,0.766,none,dance pop,2.0,1.0,34,3Ui2jdyxbZQrZohfM0NOgG,168.005,4.0,Tattoo,0.547
+34,Rihanna ,0.583,2007-11-10,0.829,Jay-Z,dance pop,1.0,1.0,35,49FYlytm3dAAraYgpoJZux,174.028,4.0,Umbrella,0.575
+35,Soulja Boy Tell'em ,2.0,2007-11-10,2.0,I-15,NA,2.0,2.0,36,NA,2.0,2.0,Soulja Girl,2.0
+36,Carrie Underwood,0.519,2007-11-10,0.749,none,contemporary country,6.0,0.0,37,0ZUo4YjG4saFnEJhdWp9Bt,147.905,4.0,Before He Cheats,0.29
+37,Lifehouse,0.442,2007-11-10,0.952,none,alternative metal,3.0,1.0,38,40Fp6pxcS9l08kL1R50mR4,130.682,4.0,First Time,0.505
+38,Taylor Swift,0.543,2007-11-10,0.686,none,dance pop,2.0,1.0,39,15DeqWWQB4dcEWzJg15VrN,177.874,4.0,Our Song,0.555
+39,Daughtry,0.45,2007-11-10,0.849,none,alternative metal,6.0,1.0,40,2nXWKf0GXbFby4posGqEht,143.904,4.0,Home,0.336
+40,Plies ,0.84,2007-11-10,0.571,Akon,dance pop,10.0,1.0,41,3LN41NUdHkyNqQhi9gExMm,116.59,4.0,Hypnotized,0.617
+41,Good Charlotte,0.64,2007-11-10,0.884,none,alternative metal,6.0,1.0,42,6BLLQndvA0rLbLcIZmuuEJ,124.968,4.0,I Don't Wanna Be In Love (Dance Floor Anthem),0.573
+42,Trey Songz,0.699,2007-11-10,0.699,none,dance pop,8.0,0.0,43,5k3VjTwIsOjQ2woGz3Yx71,94.977,4.0,Can't Help But Wait,0.611
+43,Cassidy ,0.642,2007-11-10,0.835,Swizz Beatz,battle rap,1.0,1.0,44,2TXB3vQ1IdfQ8u1S0tyLvU,86.662,4.0,My Drink N' My 2 Step,0.553
+44,Gorilla Zoe,0.814,2007-11-10,0.713,none,atl hip hop,1.0,1.0,45,1OeTY85K4i1I7kNnvESfeb,174.264,4.0,Hood Figga,0.145
+45,Boys Like Girls,0.423,2007-11-10,0.94,none,emo,1.0,0.0,46,6GIrIt2M39wEGwjCQjGChX,149.934,4.0,The Great Escape,0.505
+46,Dierks Bentley,0.557,2007-11-10,0.825,none,canadian contemporary country,6.0,1.0,47,4Ng7hGdPwpINleVecBWiOO,120.015,4.0,Free And Easy (Down The Road I Go),0.841
+47,T-Pain ,0.675,2007-11-10,0.394,Akon,dance pop,8.0,1.0,48,5kxddRG1RZaZROadk7iC4D,104.987,4.0,Bartender,0.405
+48,Santana ,0.595,2007-11-10,0.844,Chad Kroeger,blues-rock,7.0,1.0,49,5Hv1QAbRWrUSUHaT0CmnMS,127.981,4.0,Into The Night,0.603
+49,Tim McGraw,0.305,2007-11-10,0.304,none,contemporary country,11.0,1.0,50,3opmoDn4nG2eZWPjI8B7Bg,145.49,4.0,If You're Reading This,0.341
+50,Wyclef Jean ,0.733,2007-11-10,0.744,"Akon, Lil Wayne",pop rap,1.0,1.0,51,4liGjmhCupa7RP9JaQELYx,92.515,4.0,Sweetest Girl (Dollar Bill),0.529
+51,Rascal Flatts,0.499,2007-11-10,0.857,none,contemporary country,4.0,1.0,52,6xRMwzjtb7bEbDFYP97jQB,83.977,4.0,Take Me There,0.324
+52,Foo Fighters,0.433,2007-11-10,0.959,none,alternative metal,9.0,1.0,53,7x8dCjCr0x6x2lXKujYD34,172.984,4.0,The Pretender,0.365
+53,Garth Brooks,0.543,2007-11-10,0.342,none,NA,1.0,1.0,54,5Kh4LHchTqgh2YGR03yFxL,137.292,4.0,More Than A Memory,0.244
+54,Paramore,0.517,2007-11-10,0.906,none,candy pop,1.0,1.0,55,6SpLc7EXZIPpy0sVko0aoU,172.977,4.0,Misery Business,0.731
+55,Jennifer Lopez,0.763,2007-11-10,0.81,none,dance pop,5.0,0.0,56,2dOcfwJpfgGLcB4vPi8YXf,108.004,4.0,Do It Well,0.437
+56,Keyshia Cole Introducing Amina,2.0,2007-11-10,2.0,none,NA,2.0,2.0,57,NA,2.0,2.0,Shoulda Let You Go,2.0
+57,Jason Michael Carroll,0.488,2007-11-10,0.855,none,contemporary country,7.0,1.0,58,5NhZkLMccDVhxocmVHDu4G,148.971,4.0,Livin' Our Love Song,0.799
+58,Clay Walker,0.55,2007-11-10,0.543,none,contemporary country,0.0,1.0,59,5E5qobIPLh5K9opkag3J1C,138.003,4.0,Fall,0.208
+59,Avril Lavigne,0.458,2007-11-10,0.719,none,canadian pop,4.0,0.0,60,4kxND2rbPDrdb7Sgoo1Fbh,142.032,4.0,When You're Gone,0.168
+60,Josh Turner,0.447,2007-11-10,0.969,none,contemporary country,1.0,0.0,61,6qqZ3ZyjCrXNdrRB17qX5k,174.799,3.0,Firecracker,0.746
+61,Brad Paisley,0.557,2007-11-10,0.856,none,contemporary country,7.0,1.0,62,0UCQ9RkNu2cjZclKFMwvEL,133.527,4.0,Online,0.846
+62,Gucci Mane,0.755,2007-11-10,0.644,none,atl hip hop,7.0,1.0,63,4IsjWC8VboYjsSSchoMX7m,147.019,4.0,Freaky Gurl,0.742
+63,Sugarland,0.549,2007-11-10,0.284,none,contemporary country,4.0,1.0,64,0jn2XqaHliEpWd04ZykIHy,135.632,4.0,Stay,0.389
+64,George Strait,0.617,2007-11-10,0.799,none,contemporary country,4.0,1.0,65,7DJBy7gCXi2NkcgoIvPLcG,117.03,4.0,How 'Bout Them Cowgirls,0.452
+65,Linkin Park,0.529,2007-11-10,0.967,none,alternative metal,1.0,0.0,66,0UFDKFqW2oGspYeYqo9wjA,140.127,4.0,Bleed It Out,0.596
+66,Sara Evans,0.568,2007-11-10,0.861,none,canadian contemporary country,4.0,1.0,67,5ZikjYD4kjkwYRhLO8azoD,118.933,4.0,As If,0.532
+67,Toby Keith,0.581,2007-11-10,0.645,none,contemporary country,5.0,1.0,68,1ofhIK61b1t5c7aFgeZomW,147.947,4.0,Love Me If You Can,0.369
+68,Juanes,0.684,2007-11-10,0.85,none,colombian pop,4.0,0.0,69,5BY0p2EH4EznNZ0MFD9mjt,94.003,4.0,Me Enamora,0.922
+69,Sean Kingston,0.66,2007-11-10,0.847,none,dance pop,1.0,1.0,70,44M8gY48QHhvc6vn5be10N,180.01,4.0,Me Love,0.925
+70,50 Cent,0.528,2007-11-10,0.932,none,east coast hip hop,9.0,1.0,71,1FKFCvi0i46qEJLZSEBH8p,124.144,5.0,I Get Money,0.437
+71,Hurricane Chris ,0.805,2007-11-10,0.723,Big Poppa,deep southern trap,7.0,1.0,72,6V5r8IMSL7wTZlFmi8AjR0,88.006,4.0,The Hand Clap,0.641
+72,Natasha Bedingfield ,0.781,2007-11-10,0.791,Sean Kingston,dance pop,7.0,0.0,73,49ppqF73rOz5Nyt1paRxIF,76.998,4.0,Love Like This,0.902
+73,Jonas Brothers,0.598,2007-11-10,0.685,none,boy band,7.0,1.0,74,5hbytEkl5hUB5iRb0cCtZi,137.035,4.0,S.O.S.,0.712
+74,Three Days Grace,0.433,2007-11-10,0.778,none,alternative metal,2.0,0.0,75,3HE50TVRquwXe9yv2HFoNL,149.864,4.0,Never Too Late,0.217
+75,Akon,0.713,2007-11-10,0.643,none,dance pop,7.0,1.0,76,11FLXIjJOGzx7H0n1bu5wz,176.079,4.0,"Sorry, Blame It On Me",0.508
+76,JAY-Z,2.0,2007-11-10,2.0,none,NA,2.0,2.0,77,NA,2.0,2.0,Blue Magic,2.0
+77,The Last Goodnight,0.325,2007-11-10,0.816,none,neo mellow,2.0,1.0,78,6V4y4uuMAxe2EYDIWNToaH,207.673,4.0,Pictures Of You,0.579
+78,Montgomery Gentry,0.592,2007-11-10,0.795,none,contemporary country,7.0,1.0,79,6u8phyrH4qbybaIyxtJ9RS,157.067,4.0,What Do Ya Think About That,0.705
+79,T.I. ,0.657,2007-11-10,0.853,Wyclef Jean,atl hip hop,1.0,0.0,80,5Tc1KlDWyRnLLXL1y6ufsM,173.066,4.0,You Know What It Is,0.746
+80,Seether,0.615,2007-11-10,0.949,none,alternative metal,8.0,1.0,81,4eAwB5pnKFTmsgc3zWoYO0,131.985,4.0,Fake It,0.586
+81,Feist,0.71,2007-11-10,0.491,none,art pop,2.0,1.0,82,2CzWeyC9zlDpIOZPUUKrBW,109.933,4.0,1234,0.638
+82,LeAnn Rimes,0.451,2007-11-10,0.911,none,contemporary country,5.0,0.0,83,0bl8cC6oBCt96U8MovxhV8,198.075,4.0,Nothin' Better To Do,0.455
+83,Keith Urban,0.417,2007-11-10,0.488,none,australian country,2.0,1.0,84,6KCa9qGpQ8eCjjFDFwF1r6,188.209,4.0,Everybody,0.206
+84,Billy Ray Cyrus With Miley Cyrus,2.0,2007-11-10,2.0,none,NA,2.0,2.0,85,NA,2.0,2.0,"Ready, Set, Don't Go",2.0
+85,My Chemical Romance,0.463,2007-11-10,0.857,none,emo,4.0,1.0,86,7j31rVgGX9Q2blT92VBEA0,111.647,4.0,Teenagers,0.856
+86,Miranda Lambert,0.509,2007-11-10,0.932,none,contemporary country,11.0,1.0,87,4oXOOBwZsHFnRRNBNXrr9X,138.722,4.0,Famous In A Small Town,0.675
+87,Kanye West,0.594,2007-11-10,0.614,none,pop rap,5.0,0.0,88,4ImL3v98u2BLkwnyQDjfRm,79.968,4.0,Can't Tell Me Nothing,0.101
+88,Gary Allan,0.376,2007-11-10,0.722,none,contemporary country,11.0,1.0,89,63u5QGp9dKXAoYTVKUKBYn,159.842,4.0,Watching Airplanes,0.458
+89,Brooks,0.618,2007-11-10,0.79,Dunn,contemporary country,6.0,1.0,90,7dP5CWoAZlHVBzNAsSxYP1,119.987,4.0,Proud Of The House We Built,0.545
+90,Flo Rida ,0.918,2007-11-10,0.609,T-Pain,dance pop,10.0,0.0,91,0CAfXk7DXMnon4gLudAp7J,128.008,4.0,Low,0.304
+91,Mary J. Blige,0.924,2007-11-10,0.771,none,dance pop,11.0,0.0,92,33vzOPcd9FRirYGlCu32x4,123.018,4.0,Just Fine,0.627
+92,Kenny Chesney,0.528,2007-11-10,0.742,none,contemporary country,7.0,1.0,93,2q49JWdTqa951SdCXZW44g,177.842,4.0,Never Wanted Nothing More,0.746
+93,Rascal Flatts,0.443,2007-11-10,0.599,none,contemporary country,7.0,1.0,94,3f9X0GdtSSq06xZVJZ5S5T,171.879,4.0,Winner At A Losing Game,0.399
+94,Luke Bryan,0.683,2007-11-10,0.9,none,contemporary country,9.0,1.0,95,539dFCMA8lfEElDPgGpcIB,117.036,4.0,All My Friends Say,0.962
+95,Fall Out Boy,0.513,2007-11-10,0.823,none,emo,1.0,1.0,96,6A9nyMBdNUzVcFHZUEZ71F,96.816,4.0,I'm Like A Lawyer...(Me & You),0.502
+96,Serj Tankian,0.464,2007-11-10,0.963,none,alternative metal,0.0,0.0,97,16pmJwwNFVCqdXWPZtwZzh,160.071,4.0,Empty Walls,0.528
+97,Aly,0.57,2007-11-10,0.886,AJ,dance pop,6.0,0.0,98,11dxtPJKR4E0wlSr0A0t47,158.035,4.0,Potential Breakup Song,0.805
+98,John Mayer,0.608,2007-11-10,0.351,none,neo mellow,0.0,1.0,99,7keXdrB4mz57u4b8YkCwag,135.976,4.0,Dreaming With A Broken Heart,0.157
+99,Joe Nichols,0.551,2007-11-10,0.651,none,canadian contemporary country,10.0,1.0,100,6KHCir9R5lfLGXdmy7AGBw,94.998,4.0,Another Side Of You,0.679
+0,Chris Brown ,0.769,2007-11-17,0.52,T-Pain,dance pop,1.0,1.0,1,4CweuuMMzi71pO0MSRgyaT,140.112,3.0,Kiss Kiss,0.58
+1,Timbaland ,0.654,2007-11-17,0.61,OneRepublic,dance pop,8.0,1.0,2,6ucR4KfvsBFWCMVFDvyKKl,118.032,4.0,Apologize,0.118
+2,Alicia Keys,0.649,2007-11-17,0.552,none,hip pop,1.0,0.0,3,0JEqGkvUiMTQmFY6sgL9kg,89.969,4.0,No One,0.158
+3,Soulja Boy Tell'em,2.0,2007-11-17,2.0,none,NA,2.0,2.0,4,NA,2.0,2.0,Crank That (Soulja Boy),2.0
+4,Colbie Caillat,0.664,2007-11-17,0.491,none,acoustic pop,9.0,1.0,5,0rFOs9paloAvEtzwDX1Kmc,127.97,4.0,Bubbly,0.24
+5,Kanye West,0.625,2007-11-17,0.726,none,pop rap,10.0,0.0,6,6C7RJEIUDqKkJRZVWdkfkH,103.98,4.0,Stronger,0.483
+6,Baby Bash ,0.641,2007-11-17,0.72,T-Pain,chicano rap,11.0,1.0,7,27mhCGdAA8gM7b33KIiB3k,77.969,4.0,Cyclone,0.578
+7,Kanye West ,0.435,2007-11-17,0.802,T-Pain,pop rap,1.0,1.0,8,1fLdeDTrJWNkwOeFyAVLvF,84.267,4.0,Good Life,0.454
+8,Rihanna ,0.637,2007-11-17,0.73,Ne-Yo,dance pop,5.0,0.0,9,7iu0WYLdo4yksKf3seaxzI,93.867,4.0,Hate That I Love You,0.732
+9,Timbaland ,0.734,2007-11-17,0.808,Keri Hilson,dance pop,3.0,0.0,10,2bLqfJjuC5syrsgDsZfGmn,114.764,4.0,The Way I Are,0.805
+10,J. Holiday,0.684,2007-11-17,0.606,none,bassline,5.0,0.0,11,6TlRNJaezOdzdECnQeRuMM,127.901,4.0,Bed,0.723
+11,Fergie,0.712,2007-11-17,0.647,none,dance pop,7.0,1.0,12,3Q4WeJmzxuDpzMu9QjQqbM,113.116,4.0,Big Girls Don't Cry,0.292
+12,Britney Spears,0.788,2007-11-17,0.844,none,dance pop,2.0,1.0,13,6ic8OlLUNEATToEFU3xmaH,113.324,4.0,Gimme More,0.382
+13,Finger Eleven,0.645,2007-11-17,0.941,none,alternative metal,4.0,0.0,14,28IEbk5a7twNTbUEvWslUb,106.015,4.0,Paralyzer,0.881
+14,matchbox twenty,0.566,2007-11-17,0.906,none,neo mellow,0.0,1.0,15,0gbLfFlEyVHiKzlZIb0gce,83.0,4.0,How Far We've Come,0.787
+15,50 Cent ,0.442,2007-11-17,0.774,Justin Timberlake,east coast hip hop,8.0,0.0,16,36Hwcla06Q5BCr59CL0sBp,139.775,4.0,Ayo Technology,0.377
+16,P!nk,0.691,2007-11-17,0.749,none,dance pop,9.0,1.0,17,7FpoD2ZlcBSj05rEHSZoiB,140.014,4.0,Who Knew,0.473
+17,The-Dream,0.742,2007-11-17,0.441,none,dance pop,7.0,0.0,18,4nuMA47XIxcu85zkkDkz1t,74.987,4.0,Shawty Is A 10,0.39
+18,DJ Khaled ,0.711,2007-11-17,0.885,"T-Pain, Trick Daddy, Rick Ross",dance pop,9.0,0.0,19,2Ks9TtFe2AD6kK2GX211Ie,130.954,4.0,I'm So Hood,0.514
+19,Fergie,0.728,2007-11-17,0.582,none,dance pop,2.0,1.0,20,50xeLNGKmskmYUSINhqvfa,184.045,4.0,Clumsy,0.417
+20,Playaz Circle ,2.0,2007-11-17,2.0,Lil Wayne,NA,2.0,2.0,21,NA,2.0,2.0,Duffle Bag Boy,2.0
+21,Daughtry,0.423,2007-11-17,0.922,none,alternative metal,3.0,1.0,22,7mXmxXLAnsvXKt4Q37KoMI,156.063,4.0,Over You,0.567
+22,Maroon 5,0.639,2007-11-17,0.949,none,pop,4.0,0.0,23,1zqllQUMCgMaInr0CzFVll,164.054,4.0,Wake Up Call,0.964
+23,Nickelback,0.616,2007-11-17,0.91,none,alternative metal,0.0,1.0,24,6n9yCXvLhnYMgJIiIcMu7D,144.073,4.0,Rockstar,0.693
+24,Fabolous ,0.84,2007-11-17,0.68,Jermaine Dupri,dance pop,1.0,1.0,25,2FSQYGTyk8GTIaiRyAWu74,99.734,4.0,Baby Don't Go,0.498
+25,Carrie Underwood,0.426,2007-11-17,0.784,none,contemporary country,3.0,1.0,26,6xfL1KzGxg48ACVlQE9qXr,147.939,3.0,So Small,0.272
+26,Jordin Sparks,0.566,2007-11-17,0.766,none,dance pop,2.0,1.0,27,3Ui2jdyxbZQrZohfM0NOgG,168.005,4.0,Tattoo,0.547
+27,Justin Timberlake Duet With Beyonce,2.0,2007-11-17,2.0,none,NA,2.0,2.0,28,NA,2.0,2.0,Until The End Of Time,2.0
+28,Plain White T's,0.657,2007-11-17,0.291,none,neo mellow,2.0,1.0,29,4RCWB3V8V0dignt99LZ8vH,103.973,4.0,Hey There Delilah,0.298
+29,Keyshia Cole ,0.812,2007-11-17,0.721,Missy Elliott,dance pop,6.0,1.0,30,2RqZFOLOnzVmHUX7ZMcaES,94.939,4.0,Let It Go,0.772
+30,Plies ,0.444,2007-11-17,0.708,T-Pain,dance pop,4.0,0.0,31,0mYoKqA23wUUj7BTEgNzjg,105.412,5.0,Shawty,0.26
+31,Kenny Chesney,0.604,2007-11-17,0.605,none,contemporary country,4.0,1.0,32,6reuJxDtjebwc9FB6rNpp0,147.925,4.0,Don't Blink,0.647
+32,Elliott Yamin,0.764,2007-11-17,0.487,none,NA,0.0,1.0,33,0U969xYNlAyfzi8P1TaO7u,116.027,4.0,Wait For You,0.352
+33,Plies ,0.84,2007-11-17,0.571,Akon,dance pop,10.0,1.0,34,3LN41NUdHkyNqQhi9gExMm,116.59,4.0,Hypnotized,0.617
+34,Cassidy ,0.642,2007-11-17,0.835,Swizz Beatz,battle rap,1.0,1.0,35,2TXB3vQ1IdfQ8u1S0tyLvU,86.662,4.0,My Drink N' My 2 Step,0.553
+35,Taylor Swift,0.543,2007-11-17,0.686,none,dance pop,2.0,1.0,36,15DeqWWQB4dcEWzJg15VrN,177.874,4.0,Our Song,0.555
+36,Soulja Boy Tell'em ,2.0,2007-11-17,2.0,I-15,NA,2.0,2.0,37,NA,2.0,2.0,Soulja Girl,2.0
+37,Trey Songz,0.699,2007-11-17,0.699,none,dance pop,8.0,0.0,38,5k3VjTwIsOjQ2woGz3Yx71,94.977,4.0,Can't Help But Wait,0.611
+38,Good Charlotte,0.64,2007-11-17,0.884,none,alternative metal,6.0,1.0,39,6BLLQndvA0rLbLcIZmuuEJ,124.968,4.0,I Don't Wanna Be In Love (Dance Floor Anthem),0.573
+39,Santana ,0.595,2007-11-17,0.844,Chad Kroeger,blues-rock,7.0,1.0,40,5Hv1QAbRWrUSUHaT0CmnMS,127.981,4.0,Into The Night,0.603
+40,Rihanna ,0.583,2007-11-17,0.829,Jay-Z,dance pop,1.0,1.0,41,49FYlytm3dAAraYgpoJZux,174.028,4.0,Umbrella,0.575
+41,Justin Timberlake,0.862,2007-11-17,0.707,none,dance pop,10.0,0.0,42,62cYasTwBy6Y7pstdSTmHu,121.259,4.0,LoveStoned,0.849
+42,Daughtry,0.45,2007-11-17,0.849,none,alternative metal,6.0,1.0,43,2nXWKf0GXbFby4posGqEht,143.904,4.0,Home,0.336
+43,Carrie Underwood,0.519,2007-11-17,0.749,none,contemporary country,6.0,0.0,44,0ZUo4YjG4saFnEJhdWp9Bt,147.905,4.0,Before He Cheats,0.29
+44,Lifehouse,0.442,2007-11-17,0.952,none,alternative metal,3.0,1.0,45,40Fp6pxcS9l08kL1R50mR4,130.682,4.0,First Time,0.505
+45,Dierks Bentley,0.557,2007-11-17,0.825,none,canadian contemporary country,6.0,1.0,46,4Ng7hGdPwpINleVecBWiOO,120.015,4.0,Free And Easy (Down The Road I Go),0.841
+46,Gorilla Zoe,0.814,2007-11-17,0.713,none,atl hip hop,1.0,1.0,47,1OeTY85K4i1I7kNnvESfeb,174.264,4.0,Hood Figga,0.145
+47,Natasha Bedingfield ,0.781,2007-11-17,0.791,Sean Kingston,dance pop,7.0,0.0,48,49ppqF73rOz5Nyt1paRxIF,76.998,4.0,Love Like This,0.902
+48,Wyclef Jean ,0.733,2007-11-17,0.744,"Akon, Lil Wayne",pop rap,1.0,1.0,49,4liGjmhCupa7RP9JaQELYx,92.515,4.0,Sweetest Girl (Dollar Bill),0.529
+49,Boys Like Girls,0.423,2007-11-17,0.94,none,emo,1.0,0.0,50,6GIrIt2M39wEGwjCQjGChX,149.934,4.0,The Great Escape,0.505
+50,Keyshia Cole Introducing Amina,2.0,2007-11-17,2.0,none,NA,2.0,2.0,51,NA,2.0,2.0,Shoulda Let You Go,2.0
+51,Josh Turner,0.447,2007-11-17,0.969,none,contemporary country,1.0,0.0,52,6qqZ3ZyjCrXNdrRB17qX5k,174.799,3.0,Firecracker,0.746
+52,Foo Fighters,0.433,2007-11-17,0.959,none,alternative metal,9.0,1.0,53,7x8dCjCr0x6x2lXKujYD34,172.984,4.0,The Pretender,0.365
+53,Garth Brooks,0.543,2007-11-17,0.342,none,NA,1.0,1.0,54,5Kh4LHchTqgh2YGR03yFxL,137.292,4.0,More Than A Memory,0.244
+54,Paramore,0.517,2007-11-17,0.906,none,candy pop,1.0,1.0,55,6SpLc7EXZIPpy0sVko0aoU,172.977,4.0,Misery Business,0.731
+55,Clay Walker,0.55,2007-11-17,0.543,none,contemporary country,0.0,1.0,56,5E5qobIPLh5K9opkag3J1C,138.003,4.0,Fall,0.208
+56,Jason Michael Carroll,0.488,2007-11-17,0.855,none,contemporary country,7.0,1.0,57,5NhZkLMccDVhxocmVHDu4G,148.971,4.0,Livin' Our Love Song,0.799
+57,Sugarland,0.549,2007-11-17,0.284,none,contemporary country,4.0,1.0,58,0jn2XqaHliEpWd04ZykIHy,135.632,4.0,Stay,0.389
+58,Rascal Flatts,0.499,2007-11-17,0.857,none,contemporary country,4.0,1.0,59,6xRMwzjtb7bEbDFYP97jQB,83.977,4.0,Take Me There,0.324
+59,Mary J. Blige,0.924,2007-11-17,0.771,none,dance pop,11.0,0.0,60,33vzOPcd9FRirYGlCu32x4,123.018,4.0,Just Fine,0.627
+60,Tim McGraw,0.305,2007-11-17,0.304,none,contemporary country,11.0,1.0,61,3opmoDn4nG2eZWPjI8B7Bg,145.49,4.0,If You're Reading This,0.341
+61,George Strait,0.617,2007-11-17,0.799,none,contemporary country,4.0,1.0,62,7DJBy7gCXi2NkcgoIvPLcG,117.03,4.0,How 'Bout Them Cowgirls,0.452
+62,Gucci Mane,0.755,2007-11-17,0.644,none,atl hip hop,7.0,1.0,63,4IsjWC8VboYjsSSchoMX7m,147.019,4.0,Freaky Gurl,0.742
+63,Flo Rida ,0.918,2007-11-17,0.609,T-Pain,dance pop,10.0,0.0,64,0CAfXk7DXMnon4gLudAp7J,128.008,4.0,Low,0.304
+64,Britney Spears,0.769,2007-11-17,0.638,none,dance pop,11.0,1.0,65,2EvwLVrnYbCZEG6Kx5DCRy,115.007,4.0,Piece Of Me,0.782
+65,Linkin Park,0.529,2007-11-17,0.967,none,alternative metal,1.0,0.0,66,0UFDKFqW2oGspYeYqo9wjA,140.127,4.0,Bleed It Out,0.596
+66,Sara Evans,0.568,2007-11-17,0.861,none,canadian contemporary country,4.0,1.0,67,5ZikjYD4kjkwYRhLO8azoD,118.933,4.0,As If,0.532
+67,Seether,0.615,2007-11-17,0.949,none,alternative metal,8.0,1.0,68,4eAwB5pnKFTmsgc3zWoYO0,131.985,4.0,Fake It,0.586
+68,Jennifer Lopez,0.763,2007-11-17,0.81,none,dance pop,5.0,0.0,69,2dOcfwJpfgGLcB4vPi8YXf,108.004,4.0,Do It Well,0.437
+69,Brad Paisley,0.557,2007-11-17,0.856,none,contemporary country,7.0,1.0,70,0UCQ9RkNu2cjZclKFMwvEL,133.527,4.0,Online,0.846
+70,Avril Lavigne,0.458,2007-11-17,0.719,none,canadian pop,4.0,0.0,71,4kxND2rbPDrdb7Sgoo1Fbh,142.032,4.0,When You're Gone,0.168
+71,Toby Keith,0.581,2007-11-17,0.645,none,contemporary country,5.0,1.0,72,1ofhIK61b1t5c7aFgeZomW,147.947,4.0,Love Me If You Can,0.369
+72,Jonas Brothers,0.598,2007-11-17,0.685,none,boy band,7.0,1.0,73,5hbytEkl5hUB5iRb0cCtZi,137.035,4.0,S.O.S.,0.712
+73,Three Days Grace,0.433,2007-11-17,0.778,none,alternative metal,2.0,0.0,74,3HE50TVRquwXe9yv2HFoNL,149.864,4.0,Never Too Late,0.217
+74,Juanes,0.684,2007-11-17,0.85,none,colombian pop,4.0,0.0,75,5BY0p2EH4EznNZ0MFD9mjt,94.003,4.0,Me Enamora,0.922
+75,Billy Ray Cyrus With Miley Cyrus,2.0,2007-11-17,2.0,none,NA,2.0,2.0,76,NA,2.0,2.0,"Ready, Set, Don't Go",2.0
+76,Fall Out Boy,0.513,2007-11-17,0.823,none,emo,1.0,1.0,77,6A9nyMBdNUzVcFHZUEZ71F,96.816,4.0,I'm Like A Lawyer...(Me & You),0.502
+77,Hurricane Chris ,0.805,2007-11-17,0.723,Big Poppa,deep southern trap,7.0,1.0,78,6V5r8IMSL7wTZlFmi8AjR0,88.006,4.0,The Hand Clap,0.641
+78,Montgomery Gentry,0.592,2007-11-17,0.795,none,contemporary country,7.0,1.0,79,6u8phyrH4qbybaIyxtJ9RS,157.067,4.0,What Do Ya Think About That,0.705
+79,The Last Goodnight,0.325,2007-11-17,0.816,none,neo mellow,2.0,1.0,80,6V4y4uuMAxe2EYDIWNToaH,207.673,4.0,Pictures Of You,0.579
+80,Sean Kingston,0.752,2007-11-17,0.921,none,dance pop,5.0,0.0,81,6AdLyvisRKHLAwARaZMGr6,115.033,4.0,Take You There,0.634
+81,Bow Wow,0.725,2007-11-17,0.795,Omarion,dance pop,7.0,1.0,82,4yDKPeWA3rJiCNbPALWJjN,75.03,4.0,Girlfriend,0.85
+82,Sean Kingston,0.66,2007-11-17,0.847,none,dance pop,1.0,1.0,83,44M8gY48QHhvc6vn5be10N,180.01,4.0,Me Love,0.925
+83,LeAnn Rimes,0.451,2007-11-17,0.911,none,contemporary country,5.0,0.0,84,0bl8cC6oBCt96U8MovxhV8,198.075,4.0,Nothin' Better To Do,0.455
+84,Keith Urban,0.417,2007-11-17,0.488,none,australian country,2.0,1.0,85,6KCa9qGpQ8eCjjFDFwF1r6,188.209,4.0,Everybody,0.206
+85,Feist,0.71,2007-11-17,0.491,none,art pop,2.0,1.0,86,2CzWeyC9zlDpIOZPUUKrBW,109.933,4.0,1234,0.638
+86,Gary Allan,0.376,2007-11-17,0.722,none,contemporary country,11.0,1.0,87,63u5QGp9dKXAoYTVKUKBYn,159.842,4.0,Watching Airplanes,0.458
+87,Miranda Lambert,0.509,2007-11-17,0.932,none,contemporary country,11.0,1.0,88,4oXOOBwZsHFnRRNBNXrr9X,138.722,4.0,Famous In A Small Town,0.675
+88,Rascal Flatts,0.443,2007-11-17,0.599,none,contemporary country,7.0,1.0,89,3f9X0GdtSSq06xZVJZ5S5T,171.879,4.0,Winner At A Losing Game,0.399
+89,JAY-Z,2.0,2007-11-17,2.0,none,NA,2.0,2.0,90,NA,2.0,2.0,Roc Boys (And The Winner Is)...,2.0
+90,Akon,0.713,2007-11-17,0.643,none,dance pop,7.0,1.0,91,11FLXIjJOGzx7H0n1bu5wz,176.079,4.0,"Sorry, Blame It On Me",0.508
+91,Kanye West,0.594,2007-11-17,0.614,none,pop rap,5.0,0.0,92,4ImL3v98u2BLkwnyQDjfRm,79.968,4.0,Can't Tell Me Nothing,0.101
+92,50 Cent,0.528,2007-11-17,0.932,none,east coast hip hop,9.0,1.0,93,1FKFCvi0i46qEJLZSEBH8p,124.144,5.0,I Get Money,0.437
+93,Kenny Chesney,0.528,2007-11-17,0.742,none,contemporary country,7.0,1.0,94,2q49JWdTqa951SdCXZW44g,177.842,4.0,Never Wanted Nothing More,0.746
+94,JAY-Z,2.0,2007-11-17,2.0,none,NA,2.0,2.0,95,NA,2.0,2.0,Blue Magic,2.0
+95,T.I. ,0.657,2007-11-17,0.853,Wyclef Jean,atl hip hop,1.0,0.0,96,5Tc1KlDWyRnLLXL1y6ufsM,173.066,4.0,You Know What It Is,0.746
+96,Birdman ,0.476,2007-11-17,0.823,Lil Wayne,dirty south rap,9.0,1.0,97,1kEp3Po9RUPm11N5ITOUWx,149.902,4.0,Pop Bottles,0.548
+97,Brooks,0.618,2007-11-17,0.79,Dunn,contemporary country,6.0,1.0,98,7dP5CWoAZlHVBzNAsSxYP1,119.987,4.0,Proud Of The House We Built,0.545
+98,Joe Nichols,0.551,2007-11-17,0.651,none,canadian contemporary country,10.0,1.0,99,6KHCir9R5lfLGXdmy7AGBw,94.998,4.0,Another Side Of You,0.679
+99,Sara Bareilles,0.583,2007-11-17,0.786,none,acoustic pop,2.0,0.0,100,4E6cwWJWZw2zWf7VFbH7wf,123.052,4.0,Love Song,0.573

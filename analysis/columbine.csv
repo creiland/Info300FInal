@@ -1,0 +1,201 @@
+,artist,danceability,date,energy,featuring,genre,key,mode,rank,spotifyID,tempo,timesignature,track,valence
+0,TLC,0.743,1999-04-24,0.675,none,atl hip hop,8.0,0.0,1,1KGi9sZVMeszgZOWivFpxs,92.909,4.0,No Scrubs,0.59
+1,Cher,0.652,1999-04-24,0.917,none,dance pop,6.0,1.0,2,2goLsvvODILDzeeiT4dAoR,132.975,4.0,Believe,0.459
+2,Sugar Ray,0.829,1999-04-24,0.674,none,alternative metal,8.0,1.0,3,6Neq7tjnknt4URNI8txFL4,109.917,4.0,Every Morning,0.974
+3,Busta Rhymes ,0.797,1999-04-24,0.934,Janet,dirty south rap,1.0,1.0,4,0FpLfrOyHblbDlHUsrPN1N,116.438,4.0,What's It Gonna Be?!,0.519
+4,Sixpence None The Richer,0.526,1999-04-24,0.749,none,lilith,3.0,1.0,5,754kgU5rWscRTfvlsuEwFp,99.982,4.0,Kiss Me,0.421
+5,Whitney Houston Feat. Faith Evans,0.717,1999-04-24,0.54,Kelly Price,dance pop,3.0,0.0,6,3EIzVtVW78E6qJqYTa0WUx,133.809,4.0,Heartbreak Hotel,0.667
+6,Mariah Carey,0.604,1999-04-24,0.53,none,dance pop,7.0,1.0,7,1bUrdVhrxVzTuROudSTYVO,117.941,4.0,I Still Believe,0.176
+7,Monica,0.592,1999-04-24,0.562,none,dance pop,10.0,0.0,8,1AM1o0mKbgAK5oMpY8B3Z7,90.16,4.0,Angel Of Mine,0.208
+8,B*Witched,0.693,1999-04-24,0.938,none,bubblegum dance,7.0,1.0,9,2NNiZ5qwYIKAwjbHJsxtAO,108.986,4.0,C'est La Vie,0.913
+9,Goo Goo Dolls,0.395,1999-04-24,0.843,none,alternative rock,8.0,1.0,10,0nnwn7LWHCAu09jfuH1xTA,112.423,4.0,Slide,0.481
+10,Joey McIntyre,0.629,1999-04-24,0.553,none,NA,2.0,1.0,11,34Tq4vFc9aiShjelMTEfdO,130.115,4.0,Stay The Same,0.285
+11,Backstreet Boys,0.731,1999-04-24,0.574,none,boy band,1.0,1.0,12,3hlhefxgyp4MDnN6C2dQ5H,95.995,4.0,All I Have To Give,0.392
+12,Silk,0.623,1999-04-24,0.442,none,atl hip hop,9.0,0.0,13,2Dhvr9FffaScu2bGJBM4O1,99.181,4.0,If You (Lovin' Me),0.335
+13,Shanice,0.682,1999-04-24,0.555,none,hip pop,6.0,1.0,14,3EKEsJWz8oaxG1lfrojWug,83.332,4.0,When I Close My Eyes,0.511
+14,Faith Evans ,0.713,1999-04-24,0.779,Puff Daddy,dance pop,11.0,0.0,15,0Rv1ICkeAao0Yx85xpJ29k,100.404,4.0,All Night Long,0.725
+15,Jordan Knight,0.829,1999-04-24,0.669,none,NA,7.0,1.0,16,6miou5rcSI3TqJWTKizJJI,134.86,4.0,Give It To You,0.58
+16,Tim McGraw,0.465,1999-04-24,0.54,none,contemporary country,1.0,1.0,17,4C5pVpypNmXpSN42rIqmpK,75.88,4.0,Please Remember Me,0.234
+17,Tyrese,0.588,1999-04-24,0.522,none,dance pop,9.0,0.0,18,1Dx8rIZaXzZPvUQRF2j9hB,66.024,4.0,Sweet Lady,0.584
+18,Sarah McLachlan,0.532,1999-04-24,0.0744,none,canadian pop,1.0,1.0,19,3xZMPZQYETEn4hjor3TR1A,117.131,3.0,Angel,0.125
+19,Britney Spears,0.759,1999-04-24,0.699,none,dance pop,0.0,0.0,20,3MjUtNVVq3C8Fn0MP3zhXa,92.96,4.0,...Baby One More Time,0.907
+20,Lenny Kravitz,0.586,1999-04-24,0.872,none,permanent wave,7.0,1.0,21,1OxcIUqVmVYxT6427tbhDW,159.925,4.0,Fly Away,0.729
+21,JT Money ,0.831,1999-04-24,0.834,Sole,dirty south rap,11.0,0.0,22,2rbb3lOMI71NIMbJCS1wQQ,87.027,4.0,Who Dat,0.381
+22,Everlast,0.678,1999-04-24,0.556,none,rap rock,0.0,1.0,23,0kEQwPz9SrMN8E5iL9cxQL,85.158,4.0,What It's Like,0.405
+23,Dru Hill,0.717,1999-04-24,0.483,none,dance pop,9.0,0.0,24,0OMmiWMwsCNtpQ5aP6fdp9,109.961,4.0,These Are The Times,0.352
+24,Silkk The Shocker ,2.0,1999-04-24,2.0,Mystikal,NA,2.0,2.0,25,NA,2.0,2.0,It Ain't My Fault 1 & 2,2.0
+25,Vengaboys,0.785,1999-04-24,0.905,none,bubblegum dance,8.0,1.0,26,3UL6Lzsocv9Ucizgzid2B0,136.018,4.0,We Like To Party!,0.969
+26,112 ,0.589,1999-04-24,0.477,Lil'z,atl hip hop,10.0,1.0,27,0Zze3tFRSNwL6KllmYjLgZ,125.867,4.0,Anywhere,0.841
+27,Mya,0.621,1999-04-24,0.438,none,dance pop,8.0,1.0,28,0VXzpNAbCLTkNngCzHaYIx,138.892,4.0,My First Night With You,0.159
+28,Divine,2.0,1999-04-24,2.0,none,NA,2.0,2.0,29,NA,2.0,2.0,One More Try,2.0
+29,matchbox 20,0.559,1999-04-24,0.504,none,neo mellow,7.0,1.0,30,64XSAtXpCJUmadm3fkpH4z,89.051,4.0,Back 2 Good,0.479
+30,Lauryn Hill,0.593,1999-04-24,0.619,none,conscious hip hop,3.0,0.0,31,2VjXGuPVVxyhMgER3Uz2Fe,80.02,4.0,Ex-Factor,0.668
+31,Ricky Martin,0.425,1999-04-24,0.954,none,dance pop,1.0,0.0,32,0Ph6L4l8dYUuXFmb71Ajnd,178.043,4.0,Livin' La Vida Loca,0.933
+32,JAY-Z,2.0,1999-04-24,2.0,none,NA,2.0,2.0,33,NA,2.0,2.0,Hard Knock Life (Ghetto Anthem),2.0
+33,Jesse Powell,0.722,1999-04-24,0.327,none,new jack swing,0.0,0.0,34,0hcW7qPqWWJc8189OaqQvX,112.249,4.0,You,0.266
+34,Savage Garden,0.652,1999-04-24,0.669,none,australian pop,6.0,1.0,35,5TuzQ44lPWTCKbfXbNIEXg,116.088,4.0,The Animal Song,0.834
+35,98 Degrees,2.0,1999-04-24,2.0,none,NA,2.0,2.0,36,NA,2.0,2.0,The Hardest Thing,2.0
+36,Kenny Chesney,0.723,1999-04-24,0.674,none,contemporary country,7.0,1.0,37,2HmMklpgK8vGCpJmPpz1yG,124.9,4.0,How Forever Feels,0.61
+37,Eagle-Eye Cherry,0.547,1999-04-24,0.693,none,pop rock,0.0,1.0,38,1t2Hq2WIBcZINOEnK6mdJG,119.567,4.0,Save Tonight,0.583
+38,Brandy,0.698,1999-04-24,0.533,none,dance pop,2.0,1.0,39,6tBD4yjOf9P8rWwUlXdJFm,134.001,4.0,Have You Ever?,0.275
+39,Lee Ann Womack,0.593,1999-04-24,0.822,none,contemporary country,3.0,1.0,40,7ygWc80Ao1nhcV2D6Q3zPa,141.988,4.0,I'll Think Of A Reason Later,0.615
+40,Chad Brock,0.539,1999-04-24,0.395,none,country,3.0,1.0,41,7606NOPiCXDaqYk1FIT18w,125.057,4.0,Ordinary Life,0.196
+41,'N Sync,2.0,1999-04-24,2.0,none,NA,2.0,2.0,42,NA,2.0,2.0,(God Must Have Spent) A Little More Time On You,2.0
+42,Will Smith,0.877,1999-04-24,0.534,none,dance pop,1.0,1.0,43,6e8Ou0wiqAzIpWb2eSxll8,108.171,4.0,Miami,0.89
+43,Jay-Z ,0.791,1999-04-24,0.665,Amil (Of Major Coinz),bulgarian hip hop,8.0,0.0,44,45HLgh98kxPEMP1gPAEe8X,177.097,4.0,Can I Get A...,0.792
+44,Mark Wills,0.587,1999-04-24,0.448,none,contemporary country,6.0,1.0,45,24SM5UDYgjEzNUcVu2cURV,82.918,4.0,Wish You Were Here,0.287
+45,Baz Luhrmann,2.0,1999-04-24,2.0,none,NA,2.0,2.0,46,NA,2.0,2.0,Everybody's Free (To Wear Sunscreen),2.0
+46,Shania Twain,0.745,1999-04-24,0.869,none,canadian country,10.0,0.0,47,0KvLsZYwodakWxOQUYAR5I,125.005,5.0,That Don't Impress Me Much,0.963
+47,Sawyer Brown,0.651,1999-04-24,0.708,none,contemporary country,2.0,1.0,48,7ldDBX4XPJ3RpMWJorOsJ7,128.829,4.0,Drive Me Wild,0.95
+48,Alan Jackson,0.538,1999-04-24,0.34,none,contemporary country,5.0,1.0,49,5FF1zkuNs0xEiXj9RaZeo0,76.344,4.0,Gone Crazy,0.165
+49,Fatboy Slim,0.621,1999-04-24,0.885,none,big beat,1.0,1.0,50,21RDsw7wzUJNl2FbWTgEfJ,109.727,4.0,Praise You,0.554
+50,R. Kelly,0.682,1999-04-24,0.579,none,NA,2.0,0.0,51,015A6ZcNAWSSuwY7iDcD1b,76.915,4.0,When A Woman's Fed Up,0.712
+51,BLACKstreet With Janet,2.0,1999-04-24,2.0,none,NA,2.0,2.0,52,NA,2.0,2.0,Girlfriend/Boyfriend,2.0
+52,Keith Sweat,0.753,1999-04-24,0.349,none,dance pop,9.0,0.0,53,5n68p2dbjYnXNP9A2nLzbj,107.971,4.0,I'm Not Ready,0.289
+53,Ginuwine,0.798,1999-04-24,0.616,none,dance pop,11.0,0.0,54,7jgZiwNyTH08evb3bDLfIy,78.884,4.0,What's So Different,0.96
+54,Andy Griggs,0.471,1999-04-24,0.617,none,contemporary country,8.0,1.0,55,0wfr8FjpLXIO1YjqEyVCg5,182.323,4.0,You Won't Ever Be Lonely,0.491
+55,Orgy,0.589,1999-04-24,0.696,none,alternative metal,8.0,1.0,56,5267gVdYWrLoz6ClOhlqmE,129.833,4.0,Blue Monday,0.938
+56,Blaque,0.867,1999-04-24,0.42,none,girl group,1.0,1.0,57,1Pqv7l6vxjBxd5fx4bWchC,121.66,4.0,808,0.367
+57,Case,0.64,1999-04-24,0.527,Joe,dance pop,1.0,0.0,58,1CAw3ethNuSDPf3E7luSFF,164.029,4.0,Faded Pictures,0.603
+58,Ty Herndon,0.607,1999-04-24,0.628,none,contemporary country,0.0,1.0,59,4Lrf7RbUC92qp7JXcwhin8,89.284,4.0,Hands Of A Working Man,0.353
+59,The Roots ,0.725,1999-04-24,0.464,Erykah Badu,alternative hip hop,11.0,0.0,60,4pdLZsxq0y5oJDb6Cxlokw,80.996,4.0,You Got Me,0.689
+60,Maxwell,0.741,1999-04-24,0.37,none,dance pop,10.0,0.0,61,0atAqF01mqwYOOfXVHu51F,126.136,4.0,Fortunate,0.328
+61,Eric Benet ,0.728,1999-04-24,0.636,Faith Evans,neo soul,11.0,0.0,62,5AIA8TpGhuilLpHbA6c1bq,96.512,4.0,Georgy Porgy,0.821
+62,Dixie Chicks,0.542,1999-04-24,0.346,none,contemporary country,9.0,1.0,63,2qdVHdkLxKntNjPh3Ssz7s,139.856,4.0,You Were Mine,0.173
+63,Collin Raye,0.623,1999-04-24,0.646,none,contemporary country,5.0,1.0,64,2xvsy2gEUN5AI3PlFNm2Fm,121.301,4.0,Anyone Else,0.492
+64,Trina,0.817,1999-04-24,0.625,Tamara,NA,1.0,1.0,65,1Mg13VMaQj4fhPtQT41vUZ,102.907,4.0,What'd You Come Here For?,0.759
+65,Montgomery Gentry,0.655,1999-04-24,0.837,none,contemporary country,7.0,1.0,66,0kJeo33oWW6Nx4tkUNPshJ,115.938,4.0,Hillbilly Shoes,0.708
+66,Steve Wariner,0.747,1999-04-24,0.324,none,country,5.0,1.0,67,2isKldvQXdxTQ5EpGkfTuK,121.441,4.0,Two Teardrops,0.516
+67,Raphael Saadiq,0.538,1999-04-24,0.748,Q-Tip,funk,10.0,0.0,68,4RdeW4mm5CvvHqPJZT0JUR,108.3,4.0,Get Involved,0.57
+68,Mark Chesnutt,0.493,1999-04-24,0.49,none,contemporary country,10.0,1.0,69,3FN7JMZaaQ9lSzIaan0YZ1,122.087,4.0,I Don't Want To Miss A Thing,0.159
+69,Creed,0.386,1999-04-24,0.677,none,alternative metal,2.0,1.0,70,42T2QQv3xgBlpQxaSP7lnK,126.602,4.0,One,0.195
+70,Jewel,0.571,1999-04-24,0.551,none,alaska indie,9.0,0.0,71,6ZOW98RAfqBHNOmT5ERrDr,78.373,4.0,Down So Long,0.615
+71,Backstreet Boys,0.689,1999-04-24,0.702,none,boy band,6.0,0.0,72,6e40mgJiCid5HRAGrbpGA6,99.031,4.0,I Want It That Way,0.484
+72,Sheryl Crow,0.623,1999-04-24,0.768,none,folk,4.0,0.0,73,0nXvEWlc2YvVNztYOM3Y1w,121.233,4.0,Anything But Down,0.552
+73,K-Ci,0.634,1999-04-24,0.528,JoJo,dance pop,1.0,1.0,74,5GorFaKkP2mLREQvhSblIg,128.0,4.0,Life,0.18
+74,Garbage,0.463,1999-04-24,0.907,none,alternative dance,5.0,0.0,75,6tVwh4cFeN8wbW1rTYu1sd,131.858,4.0,Special,0.49
+75,Jo Dee Messina,0.587,1999-04-24,0.72,none,contemporary country,0.0,1.0,76,6bZOZIVFWpCydhyXrqP1iR,99.916,4.0,Stand Beside Me,0.33
+76,Dave Hollister,0.64,1999-04-24,0.668,none,hip pop,8.0,0.0,77,7hWod2nZxzIewqWEw45iUR,119.985,4.0,My Favorite Girl,0.604
+77,Lila McCann,0.644,1999-04-24,0.785,none,contemporary country,4.0,1.0,78,10OvXiitSHEoxWLulzqG9s,127.9,4.0,With You,0.628
+78,Terri Clark,0.644,1999-04-24,0.752,none,alberta country,3.0,1.0,79,7poNEQpnd4tFbj0S0PtRAE,116.415,4.0,Everytime I Cry,0.548
+79,Shania Twain,0.678,1999-04-24,0.899,none,canadian country,10.0,1.0,80,0IF0vGwaJQ8ZCh0QxhW6OV,124.944,4.0,Man! I Feel Like A Woman!,0.757
+80,Nas ,0.678,1999-04-24,0.77,Puff Daddy,conscious hip hop,9.0,0.0,81,158DIbrVt4YbqNnWyRCS3P,90.0,4.0,Hate Me Now,0.412
+81,Total,0.552,1999-04-24,0.672,none,hip hop,10.0,0.0,82,6sSRhTPxBomvVYAyLpkLa1,126.791,5.0,Sitting Home,0.63
+82,Trick Daddy ,0.837,1999-04-24,0.819,Trina,crunk,2.0,1.0,83,7d9I42jF759n5HuUeoulzR,149.918,4.0,Nann,0.643
+83,Collective Soul,0.547,1999-04-24,0.902,none,alternative metal,1.0,1.0,84,2H460ZUwS63N9vLGEFmjZJ,106.923,4.0,Heavy,0.548
+84,Ja Rule,0.882,1999-04-24,0.638,none,dance pop,11.0,1.0,85,27te5wEv1SXij9SP9d1Rib,92.994,4.0,Holla Holla,0.507
+85,Five,0.72,1999-04-24,0.927,none,australian pop,7.0,1.0,86,78gaMry05VFEXyJmSbP0mM,100.035,4.0,Slam Dunk,0.882
+86,Faith Hill,0.458,1999-04-24,0.52,none,contemporary country,2.0,1.0,87,6CkHxQ5cq9XXOGY33nuE4q,147.579,4.0,Love Ain't Like That,0.407
+87,The Offspring,0.766,1999-04-24,0.874,none,alternative metal,5.0,1.0,88,0sNKiz82ATCvT3f3XVVUUj,107.939,4.0,Why Don't You Get A Job?,0.641
+88,Elton John,0.61,1999-04-24,0.589,LeAnn Rimes,glam rock,0.0,1.0,89,5feGb2CbTKTPqhGYe1Mixl,121.849,4.0,Written In The Stars,0.382
+89,Brandy,0.682,1999-04-24,0.543,none,dance pop,0.0,0.0,90,5ZCv9I8mgChcYkSrLuLSTc,71.582,4.0,Almost Doesn't Count,0.478
+90,Diamond Rio,0.637,1999-04-24,0.232,none,contemporary country,7.0,1.0,91,2hgo2myEoUnwa9EpHwEsQj,91.647,4.0,Unbelievable,0.115
+91,'N Sync,2.0,1999-04-24,2.0,none,NA,2.0,2.0,92,NA,2.0,2.0,I Drive Myself Crazy,2.0
+92,Eminem,0.869,1999-04-24,0.68,none,detroit hip hop,1.0,1.0,93,75IN3CtuZwTHTnZvYM4qnJ,85.519,4.0,My Name Is,0.815
+93,Brooks,0.618,1999-04-24,0.75,Dunn,contemporary country,0.0,1.0,94,1dRKK30xdrr7oQD8GxCavL,98.206,4.0,I Can't Get Over You,0.338
+94,Billy Ray Cyrus,0.586,1999-04-24,0.565,none,contemporary country,7.0,1.0,95,55bwRyNowFFB5Kp0Ojkvhx,163.819,4.0,Busy Man,0.511
+95,Blondie,0.539,1999-04-24,0.816,none,candy pop,9.0,1.0,96,4jDhI4nE32u8meRN1aOu8u,159.689,4.0,Maria,0.742
+96,George Strait,0.719,1999-04-24,0.687,none,contemporary country,3.0,1.0,97,1TanmIWbaUj5NVwJ3k4XPd,123.878,4.0,Write This Down,0.681
+97,Lit,0.494,1999-04-24,0.946,none,alternative rock,4.0,1.0,98,33iv3wnGMrrDugd7GBso1z,103.408,4.0,My Own Worst Enemy,0.741
+98,Patty Loveless,2.0,1999-04-24,2.0,none,NA,2.0,2.0,99,NA,2.0,2.0,Can't Get Enough,2.0
+99,Dave Matthews Band,0.564,1999-04-24,0.745,none,jam band,0.0,1.0,100,6AKSrodq9kU9hmTLEeWFFr,94.044,4.0,Crush,0.672
+0,TLC,0.743,1999-05-01,0.675,none,atl hip hop,8.0,0.0,1,1KGi9sZVMeszgZOWivFpxs,92.909,4.0,No Scrubs,0.59
+1,Sixpence None The Richer,0.526,1999-05-01,0.749,none,lilith,3.0,1.0,2,754kgU5rWscRTfvlsuEwFp,99.982,4.0,Kiss Me,0.421
+2,Cher,0.652,1999-05-01,0.917,none,dance pop,6.0,1.0,3,2goLsvvODILDzeeiT4dAoR,132.975,4.0,Believe,0.459
+3,Sugar Ray,0.829,1999-05-01,0.674,none,alternative metal,8.0,1.0,4,6Neq7tjnknt4URNI8txFL4,109.917,4.0,Every Morning,0.974
+4,Busta Rhymes ,0.797,1999-05-01,0.934,Janet,dirty south rap,1.0,1.0,5,0FpLfrOyHblbDlHUsrPN1N,116.438,4.0,What's It Gonna Be?!,0.519
+5,Whitney Houston Feat. Faith Evans,0.717,1999-05-01,0.54,Kelly Price,dance pop,3.0,0.0,6,3EIzVtVW78E6qJqYTa0WUx,133.809,4.0,Heartbreak Hotel,0.667
+6,Monica,0.592,1999-05-01,0.562,none,dance pop,10.0,0.0,7,1AM1o0mKbgAK5oMpY8B3Z7,90.16,4.0,Angel Of Mine,0.208
+7,Ricky Martin,0.425,1999-05-01,0.954,none,dance pop,1.0,0.0,8,0Ph6L4l8dYUuXFmb71Ajnd,178.043,4.0,Livin' La Vida Loca,0.933
+8,Goo Goo Dolls,0.395,1999-05-01,0.843,none,alternative rock,8.0,1.0,9,0nnwn7LWHCAu09jfuH1xTA,112.423,4.0,Slide,0.481
+9,Tim McGraw,0.465,1999-05-01,0.54,none,contemporary country,1.0,1.0,10,4C5pVpypNmXpSN42rIqmpK,75.88,4.0,Please Remember Me,0.234
+10,Mariah Carey,0.604,1999-05-01,0.53,none,dance pop,7.0,1.0,11,1bUrdVhrxVzTuROudSTYVO,117.941,4.0,I Still Believe,0.176
+11,Tyrese,0.588,1999-05-01,0.522,none,dance pop,9.0,0.0,12,1Dx8rIZaXzZPvUQRF2j9hB,66.024,4.0,Sweet Lady,0.584
+12,Silk,0.623,1999-05-01,0.442,none,atl hip hop,9.0,0.0,13,2Dhvr9FffaScu2bGJBM4O1,99.181,4.0,If You (Lovin' Me),0.335
+13,Everlast,0.678,1999-05-01,0.556,none,rap rock,0.0,1.0,14,0kEQwPz9SrMN8E5iL9cxQL,85.158,4.0,What It's Like,0.405
+14,Lenny Kravitz,0.586,1999-05-01,0.872,none,permanent wave,7.0,1.0,15,1OxcIUqVmVYxT6427tbhDW,159.925,4.0,Fly Away,0.729
+15,Jordan Knight,0.829,1999-05-01,0.669,none,NA,7.0,1.0,16,6miou5rcSI3TqJWTKizJJI,134.86,4.0,Give It To You,0.58
+16,112 ,0.589,1999-05-01,0.477,Lil'z,atl hip hop,10.0,1.0,17,0Zze3tFRSNwL6KllmYjLgZ,125.867,4.0,Anywhere,0.841
+17,JT Money ,0.831,1999-05-01,0.834,Sole,dirty south rap,11.0,0.0,18,2rbb3lOMI71NIMbJCS1wQQ,87.027,4.0,Who Dat,0.381
+18,Sarah McLachlan,0.532,1999-05-01,0.0744,none,canadian pop,1.0,1.0,19,3xZMPZQYETEn4hjor3TR1A,117.131,3.0,Angel,0.125
+19,B*Witched,0.693,1999-05-01,0.938,none,bubblegum dance,7.0,1.0,20,2NNiZ5qwYIKAwjbHJsxtAO,108.986,4.0,C'est La Vie,0.913
+20,Britney Spears,0.759,1999-05-01,0.699,none,dance pop,0.0,0.0,21,3MjUtNVVq3C8Fn0MP3zhXa,92.96,4.0,...Baby One More Time,0.907
+21,Backstreet Boys,0.731,1999-05-01,0.574,none,boy band,1.0,1.0,22,3hlhefxgyp4MDnN6C2dQ5H,95.995,4.0,All I Have To Give,0.392
+22,Faith Evans ,0.713,1999-05-01,0.779,Puff Daddy,dance pop,11.0,0.0,23,0Rv1ICkeAao0Yx85xpJ29k,100.404,4.0,All Night Long,0.725
+23,matchbox 20,0.559,1999-05-01,0.504,none,neo mellow,7.0,1.0,24,64XSAtXpCJUmadm3fkpH4z,89.051,4.0,Back 2 Good,0.479
+24,98 Degrees,2.0,1999-05-01,2.0,none,NA,2.0,2.0,25,NA,2.0,2.0,The Hardest Thing,2.0
+25,Joey McIntyre,0.629,1999-05-01,0.553,none,NA,2.0,1.0,26,34Tq4vFc9aiShjelMTEfdO,130.115,4.0,Stay The Same,0.285
+26,Jesse Powell,0.722,1999-05-01,0.327,none,new jack swing,0.0,0.0,27,0hcW7qPqWWJc8189OaqQvX,112.249,4.0,You,0.266
+27,Vengaboys,0.785,1999-05-01,0.905,none,bubblegum dance,8.0,1.0,28,3UL6Lzsocv9Ucizgzid2B0,136.018,4.0,We Like To Party!,0.969
+28,Shanice,0.682,1999-05-01,0.555,none,hip pop,6.0,1.0,29,3EKEsJWz8oaxG1lfrojWug,83.332,4.0,When I Close My Eyes,0.511
+29,Lauryn Hill,0.593,1999-05-01,0.619,none,conscious hip hop,3.0,0.0,30,2VjXGuPVVxyhMgER3Uz2Fe,80.02,4.0,Ex-Factor,0.668
+30,Eagle-Eye Cherry,0.547,1999-05-01,0.693,none,pop rock,0.0,1.0,31,1t2Hq2WIBcZINOEnK6mdJG,119.567,4.0,Save Tonight,0.583
+31,Kenny Chesney,0.723,1999-05-01,0.674,none,contemporary country,7.0,1.0,32,2HmMklpgK8vGCpJmPpz1yG,124.9,4.0,How Forever Feels,0.61
+32,Dru Hill,0.717,1999-05-01,0.483,none,dance pop,9.0,0.0,33,0OMmiWMwsCNtpQ5aP6fdp9,109.961,4.0,These Are The Times,0.352
+33,Backstreet Boys,0.689,1999-05-01,0.702,none,boy band,6.0,0.0,34,6e40mgJiCid5HRAGrbpGA6,99.031,4.0,I Want It That Way,0.484
+34,Shania Twain,0.745,1999-05-01,0.869,none,canadian country,10.0,0.0,35,0KvLsZYwodakWxOQUYAR5I,125.005,5.0,That Don't Impress Me Much,0.963
+35,Mark Wills,0.587,1999-05-01,0.448,none,contemporary country,6.0,1.0,36,24SM5UDYgjEzNUcVu2cURV,82.918,4.0,Wish You Were Here,0.287
+36,Jay-Z ,0.791,1999-05-01,0.665,Amil (Of Major Coinz),bulgarian hip hop,8.0,0.0,37,45HLgh98kxPEMP1gPAEe8X,177.097,4.0,Can I Get A...,0.792
+37,Lee Ann Womack,0.593,1999-05-01,0.822,none,contemporary country,3.0,1.0,38,7ygWc80Ao1nhcV2D6Q3zPa,141.988,4.0,I'll Think Of A Reason Later,0.615
+38,Chad Brock,0.539,1999-05-01,0.395,none,country,3.0,1.0,39,7606NOPiCXDaqYk1FIT18w,125.057,4.0,Ordinary Life,0.196
+39,Brandy,0.698,1999-05-01,0.533,none,dance pop,2.0,1.0,40,6tBD4yjOf9P8rWwUlXdJFm,134.001,4.0,Have You Ever?,0.275
+40,Silkk The Shocker ,2.0,1999-05-01,2.0,Mystikal,NA,2.0,2.0,41,NA,2.0,2.0,It Ain't My Fault 1 & 2,2.0
+41,Mya,0.621,1999-05-01,0.438,none,dance pop,8.0,1.0,42,0VXzpNAbCLTkNngCzHaYIx,138.892,4.0,My First Night With You,0.159
+42,Divine,2.0,1999-05-01,2.0,none,NA,2.0,2.0,43,NA,2.0,2.0,One More Try,2.0
+43,'N Sync,2.0,1999-05-01,2.0,none,NA,2.0,2.0,44,NA,2.0,2.0,(God Must Have Spent) A Little More Time On You,2.0
+44,Sawyer Brown,0.651,1999-05-01,0.708,none,contemporary country,2.0,1.0,45,7ldDBX4XPJ3RpMWJorOsJ7,128.829,4.0,Drive Me Wild,0.95
+45,Andy Griggs,0.471,1999-05-01,0.617,none,contemporary country,8.0,1.0,46,0wfr8FjpLXIO1YjqEyVCg5,182.323,4.0,You Won't Ever Be Lonely,0.491
+46,Alan Jackson,0.538,1999-05-01,0.34,none,contemporary country,5.0,1.0,47,5FF1zkuNs0xEiXj9RaZeo0,76.344,4.0,Gone Crazy,0.165
+47,Fatboy Slim,0.621,1999-05-01,0.885,none,big beat,1.0,1.0,48,21RDsw7wzUJNl2FbWTgEfJ,109.727,4.0,Praise You,0.554
+48,Baz Luhrmann,2.0,1999-05-01,2.0,none,NA,2.0,2.0,49,NA,2.0,2.0,Everybody's Free (To Wear Sunscreen),2.0
+49,Ginuwine,0.798,1999-05-01,0.616,none,dance pop,11.0,0.0,50,7jgZiwNyTH08evb3bDLfIy,78.884,4.0,What's So Different,0.96
+50,Total,0.552,1999-05-01,0.672,none,hip hop,10.0,0.0,51,6sSRhTPxBomvVYAyLpkLa1,126.791,5.0,Sitting Home,0.63
+51,Ty Herndon,0.607,1999-05-01,0.628,none,contemporary country,0.0,1.0,52,4Lrf7RbUC92qp7JXcwhin8,89.284,4.0,Hands Of A Working Man,0.353
+52,Maxwell,0.741,1999-05-01,0.37,none,dance pop,10.0,0.0,53,0atAqF01mqwYOOfXVHu51F,126.136,4.0,Fortunate,0.328
+53,Brandy,0.682,1999-05-01,0.543,none,dance pop,0.0,0.0,54,5ZCv9I8mgChcYkSrLuLSTc,71.582,4.0,Almost Doesn't Count,0.478
+54,BLACKstreet With Janet,2.0,1999-05-01,2.0,none,NA,2.0,2.0,55,NA,2.0,2.0,Girlfriend/Boyfriend,2.0
+55,Collin Raye,0.623,1999-05-01,0.646,none,contemporary country,5.0,1.0,56,2xvsy2gEUN5AI3PlFNm2Fm,121.301,4.0,Anyone Else,0.492
+56,Blaque,0.867,1999-05-01,0.42,none,girl group,1.0,1.0,57,1Pqv7l6vxjBxd5fx4bWchC,121.66,4.0,808,0.367
+57,Steve Wariner,0.747,1999-05-01,0.324,none,country,5.0,1.0,58,2isKldvQXdxTQ5EpGkfTuK,121.441,4.0,Two Teardrops,0.516
+58,Savage Garden,0.652,1999-05-01,0.669,none,australian pop,6.0,1.0,59,5TuzQ44lPWTCKbfXbNIEXg,116.088,4.0,The Animal Song,0.834
+59,Eric Benet ,0.728,1999-05-01,0.636,Faith Evans,neo soul,11.0,0.0,60,5AIA8TpGhuilLpHbA6c1bq,96.512,4.0,Georgy Porgy,0.821
+60,Shania Twain,0.678,1999-05-01,0.899,none,canadian country,10.0,1.0,61,0IF0vGwaJQ8ZCh0QxhW6OV,124.944,4.0,Man! I Feel Like A Woman!,0.757
+61,Garbage,0.463,1999-05-01,0.907,none,alternative dance,5.0,0.0,62,6tVwh4cFeN8wbW1rTYu1sd,131.858,4.0,Special,0.49
+62,K-Ci,0.634,1999-05-01,0.528,JoJo,dance pop,1.0,1.0,63,5GorFaKkP2mLREQvhSblIg,128.0,4.0,Life,0.18
+63,Jewel,0.571,1999-05-01,0.551,none,alaska indie,9.0,0.0,64,6ZOW98RAfqBHNOmT5ERrDr,78.373,4.0,Down So Long,0.615
+64,Trina,0.817,1999-05-01,0.625,Tamara,NA,1.0,1.0,65,1Mg13VMaQj4fhPtQT41vUZ,102.907,4.0,What'd You Come Here For?,0.759
+65,Montgomery Gentry,0.655,1999-05-01,0.837,none,contemporary country,7.0,1.0,66,0kJeo33oWW6Nx4tkUNPshJ,115.938,4.0,Hillbilly Shoes,0.708
+66,Raphael Saadiq,0.538,1999-05-01,0.748,Q-Tip,funk,10.0,0.0,67,4RdeW4mm5CvvHqPJZT0JUR,108.3,4.0,Get Involved,0.57
+67,R. Kelly,0.682,1999-05-01,0.579,none,NA,2.0,0.0,68,015A6ZcNAWSSuwY7iDcD1b,76.915,4.0,When A Woman's Fed Up,0.712
+68,Nas ,0.678,1999-05-01,0.77,Puff Daddy,conscious hip hop,9.0,0.0,69,158DIbrVt4YbqNnWyRCS3P,90.0,4.0,Hate Me Now,0.412
+69,Sheryl Crow,0.623,1999-05-01,0.768,none,folk,4.0,0.0,70,0nXvEWlc2YvVNztYOM3Y1w,121.233,4.0,Anything But Down,0.552
+70,Orgy,0.589,1999-05-01,0.696,none,alternative metal,8.0,1.0,71,5267gVdYWrLoz6ClOhlqmE,129.833,4.0,Blue Monday,0.938
+71,Dixie Chicks,0.542,1999-05-01,0.346,none,contemporary country,9.0,1.0,72,2qdVHdkLxKntNjPh3Ssz7s,139.856,4.0,You Were Mine,0.173
+72,George Strait,0.719,1999-05-01,0.687,none,contemporary country,3.0,1.0,73,1TanmIWbaUj5NVwJ3k4XPd,123.878,4.0,Write This Down,0.681
+73,Terri Clark,0.644,1999-05-01,0.752,none,alberta country,3.0,1.0,74,7poNEQpnd4tFbj0S0PtRAE,116.415,4.0,Everytime I Cry,0.548
+74,The Roots ,0.725,1999-05-01,0.464,Erykah Badu,alternative hip hop,11.0,0.0,75,4pdLZsxq0y5oJDb6Cxlokw,80.996,4.0,You Got Me,0.689
+75,Lila McCann,0.644,1999-05-01,0.785,none,contemporary country,4.0,1.0,76,10OvXiitSHEoxWLulzqG9s,127.9,4.0,With You,0.628
+76,Dave Hollister,0.64,1999-05-01,0.668,none,hip pop,8.0,0.0,77,7hWod2nZxzIewqWEw45iUR,119.985,4.0,My Favorite Girl,0.604
+77,'N Sync,2.0,1999-05-01,2.0,none,NA,2.0,2.0,78,NA,2.0,2.0,I Drive Myself Crazy,2.0
+78,Creed,0.386,1999-05-01,0.677,none,alternative metal,2.0,1.0,79,42T2QQv3xgBlpQxaSP7lnK,126.602,4.0,One,0.195
+79,Case,0.64,1999-05-01,0.527,Joe,dance pop,1.0,0.0,80,1CAw3ethNuSDPf3E7luSFF,164.029,4.0,Faded Pictures,0.603
+80,The Offspring,0.766,1999-05-01,0.874,none,alternative metal,5.0,1.0,81,0sNKiz82ATCvT3f3XVVUUj,107.939,4.0,Why Don't You Get A Job?,0.641
+81,Trick Daddy ,0.837,1999-05-01,0.819,Trina,crunk,2.0,1.0,82,7d9I42jF759n5HuUeoulzR,149.918,4.0,Nann,0.643
+82,Mark Chesnutt,0.493,1999-05-01,0.49,none,contemporary country,10.0,1.0,83,3FN7JMZaaQ9lSzIaan0YZ1,122.087,4.0,I Don't Want To Miss A Thing,0.159
+83,Collective Soul,0.547,1999-05-01,0.902,none,alternative metal,1.0,1.0,84,2H460ZUwS63N9vLGEFmjZJ,106.923,4.0,Heavy,0.548
+84,Ja Rule,0.882,1999-05-01,0.638,none,dance pop,11.0,1.0,85,27te5wEv1SXij9SP9d1Rib,92.994,4.0,Holla Holla,0.507
+85,Keith Sweat,0.753,1999-05-01,0.349,none,dance pop,9.0,0.0,86,5n68p2dbjYnXNP9A2nLzbj,107.971,4.0,I'm Not Ready,0.289
+86,Diamond Rio,0.637,1999-05-01,0.232,none,contemporary country,7.0,1.0,87,2hgo2myEoUnwa9EpHwEsQj,91.647,4.0,Unbelievable,0.115
+87,Elton John,0.61,1999-05-01,0.589,LeAnn Rimes,glam rock,0.0,1.0,88,5feGb2CbTKTPqhGYe1Mixl,121.849,4.0,Written In The Stars,0.382
+88,Lit,0.494,1999-05-01,0.946,none,alternative rock,4.0,1.0,89,33iv3wnGMrrDugd7GBso1z,103.408,4.0,My Own Worst Enemy,0.741
+89,702,0.719,1999-05-01,0.736,none,girl group,6.0,1.0,90,4VSyH8AkIt3kaR5xIPFVVi,92.179,4.0,Where My Girls At?,0.757
+90,Shaggy ,0.869,1999-05-01,0.776,Janet,dance pop,1.0,0.0,91,7a3y3gJtRWXugcxgi8TPNW,96.905,4.0,"Luv Me, Luv Me",0.771
+91,Aaron Tippin,0.567,1999-05-01,0.553,none,contemporary country,2.0,1.0,92,7k5av5sKePQfO6IYC1rUCF,76.942,4.0,I'm Leaving,0.317
+92,Martina McBride,0.456,1999-05-01,0.649,none,contemporary country,8.0,1.0,93,2fwTF4pELhEkd6sk3D1PnL,152.957,4.0,Whatever You Say,0.0763
+93,Billy Ray Cyrus,0.586,1999-05-01,0.565,none,contemporary country,7.0,1.0,94,55bwRyNowFFB5Kp0Ojkvhx,163.819,4.0,Busy Man,0.511
+94,Dave Matthews Band,0.564,1999-05-01,0.745,none,jam band,0.0,1.0,95,6AKSrodq9kU9hmTLEeWFFr,94.044,4.0,Crush,0.672
+95,Patty Loveless,2.0,1999-05-01,2.0,none,NA,2.0,2.0,96,NA,2.0,2.0,Can't Get Enough,2.0
+96,New Radicals,0.618,1999-05-01,0.896,none,pop rock,2.0,1.0,97,1Cwsd5xI8CajJz795oy4XF,113.961,4.0,You Get What You Give,0.711
+97,Blondie,0.539,1999-05-01,0.816,none,candy pop,9.0,1.0,98,4jDhI4nE32u8meRN1aOu8u,159.689,4.0,Maria,0.742
+98,Madonna,0.707,1999-05-01,0.692,none,dance pop,0.0,1.0,99,6bZPQHvekmIFBZZB7nMB5X,116.868,4.0,Nothing Really Matters,0.248
+99,Eminem,0.869,1999-05-01,0.68,none,detroit hip hop,1.0,1.0,100,75IN3CtuZwTHTnZvYM4qnJ,85.519,4.0,My Name Is,0.815

@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1544584427122.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "BE2CD65",
+    "lastKnownWriteTime" : 7309942666010034176,
+    "last_content_update" : 1544584427122,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "4BF6F36B",
+        "caption" : "genre_by_decade",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=genre_by_decade&cache_key=4BF6F36B",
+        "displayedObservations" : 6,
+        "environment" : "",
+        "object" : "genre_by_decade",
+        "preview" : 0,
+        "totalObservations" : 6,
+        "variables" : 2
+    },
+    "relative_order" : 9,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
